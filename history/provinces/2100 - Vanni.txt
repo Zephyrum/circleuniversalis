@@ -7,7 +7,7 @@ religion = jewish
 capital = "Yapapatuna"
 trade_goods = gems
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
@@ -20,10 +20,10 @@ discovered_by = chinese
 discovered_by = east_african
 
 
-1411.1.1 = {
-	owner = CEY
-	controller = CEY
-}	#Sangamas expelled by Zheng He
+#1411.1.1 = {
+#	owner = CEY
+#	controller = CEY
+#}	#Sangamas expelled by Zheng He
 1432.1.1 = {
 	owner = JFN
 	controller = JFN
