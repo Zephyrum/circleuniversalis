@@ -1,6 +1,6 @@
 ﻿l_english:
 
- # Countries
+ # Info
  ZPY:0 "Zephyrids"
  ZPY_ADJ:0 "Zephyrid"
 
@@ -8,19 +8,19 @@
  ZPY_ideas:0 "Zephyrid Ideas"
  ZPY_ideas_start:0 "Zephyrid Traditions"
  ZPY_ideas_bonus:0 "Zephyrid Ambition"
- zeph_idea_1:0 "Big Iron" #Siege
+ zeph_idea_1:0 "Big Iron"
  zeph_idea_1_desc:0 "If that don't work, use more gun."
- zeph_idea_2:0 "Wealth of Gujarat" #Goods prod
+ zeph_idea_2:0 "Wealth of Gujarat"
  zeph_idea_2_desc:0 "Gujarat is home to some of the greatest ports in the world, not merely because of the convenient location, but due to the fantastic productivity of neighboring lands."
- zeph_idea_3:0 "Ibadi Ghazis" #Manpower
+ zeph_idea_3:0 "Ibadi Ghazis"
  zeph_idea_3_desc:0 "They are few and far between, but Ghazis of the Ibadi faith do exist. The positive of being the only truly great Ibadi state is that we're on their priority list for a visit."
- zeph_idea_4:0 "Legacy of Muhtehşem Aleqsāndr" #CCR
+ zeph_idea_4:0 "Legacy of Muhtehşem Aleqsāndr"
  zeph_idea_4_desc:0 "Just like the great conqueror that gave birth to our nation, the mighty Muhtehşem Aleqsāndr, we will build a great state to endure the test of time, and, hopefully, to surpass his in size."
- zeph_idea_5:0 "Enlist Jewish Sailors" #HeavyCA
+ zeph_idea_5:0 "Enlist Jewish Sailors"
  zeph_idea_5_desc:0 "Our Jewish friends to the south have plenty sailing experience, and we have a lot of big ships with not enough people to put on top. That makes for a wonderful combination, no?"
- zeph_idea_6:0 "Stonks" #Tradeff
+ zeph_idea_6:0 "Stonks"
  zeph_idea_6_desc:0 "An economic doctrine that states that stonk go up good, stink go down bad. By practical application, we have figured out many ways to ensure our coffers will always be full of money."
- zeph_idea_7:0 "Let the voice of love take you higher!" #Disc
+ zeph_idea_7:0 "Let the voice of love take you higher!"
  zeph_idea_7_desc:0 "And with the gathered strength, you can pierce even the barriers of time!"
  
  # Insults
