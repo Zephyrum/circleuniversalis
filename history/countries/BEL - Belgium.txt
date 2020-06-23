@@ -8,7 +8,7 @@ capital = 92	# Brussels
 
 1444.1.1 = {
 	monarch = {
-		name = "LÃ¨on"
+		name = "Léon"
 		dynasty = "Degrelle"
 		birth_date = 1410.6.15
 		adm = 3

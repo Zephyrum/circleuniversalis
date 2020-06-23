@@ -1,15 +1,16 @@
 #2054 - Ahmadabad
 
-owner = GUJ
-controller = GUJ
-culture = gujarati
-religion = hinduism
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
 capital = "Ahmadabad"
 trade_goods = paper
 hre = no
 base_tax = 5 
 base_production = 5
-base_manpower = 1
+base_manpower = 2
 is_city = yes
 add_core = GUJ
 discovered_by = east_african

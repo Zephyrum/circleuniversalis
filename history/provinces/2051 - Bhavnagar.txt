@@ -1,9 +1,10 @@
 #2051 - Bhavnagar
 
-owner = PTL
-controller = PTL
-culture = saurashtri
-religion = hinduism
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
 capital = "Bhavnagar"
 trade_goods = salt
 hre = no

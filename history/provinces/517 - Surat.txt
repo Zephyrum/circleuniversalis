@@ -1,9 +1,10 @@
 #517 - Surat (Surat, Rander)
 
-owner = GUJ
-controller = GUJ
-culture = gujarati
-religion = hinduism
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
 capital = "Surat"
 trade_goods = silk
 hre = no

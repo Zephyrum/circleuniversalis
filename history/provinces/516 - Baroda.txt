@@ -1,9 +1,10 @@
 #516 - Baroda (Baroda)
 
-owner = GUJ
-controller = GUJ
-culture = gujarati
-religion = hinduism
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
 capital = "Baroda"
 trade_goods = dyes
 hre = no

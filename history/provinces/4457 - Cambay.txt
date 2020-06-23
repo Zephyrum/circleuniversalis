@@ -1,15 +1,16 @@
 #4457 - Cambay/Khambhat
 
-owner = GUJ
-controller = GUJ
-culture = gujarati
-religion = hinduism
-capital = "Khambhat"
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
+capital = "Zephyriyye"
 trade_goods = cloth #Chintz
 hre = no
 base_tax = 5
 base_production = 5
-base_manpower = 1
+base_manpower = 3
 is_city = yes
 add_core = GUJ
 add_jains_or_burghers_effect = yes

@@ -1,9 +1,10 @@
 #4430 - Daman
 
-owner = GUJ
-controller = GUJ
-culture = marathi
-religion = hinduism
+owner = ZPY
+controller = ZPY
+add_core = ZPY
+culture = turko_gujarati
+religion = ibadi
 capital = "Daman"
 trade_goods = cloth
 hre = no
