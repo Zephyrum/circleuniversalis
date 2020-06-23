@@ -122,3 +122,48 @@ SAU_ideas = {
         prestige = 1
     }
 }
+
+PRJ_ideas = {
+	start = {
+		tolerance_own = 1
+		defensiveness = 0.1
+	}
+	
+	bonus = {
+		core_creation = -0.1
+    }
+    
+    trigger = {
+        tag = PRJ
+    }
+	
+	free = yes
+	
+	wealth_of_asia = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	
+	legacy_of_saint_thomas = {
+		global_missionary_strength = 0.2
+	}
+	
+	control_caspian_trade = {
+		global_own_trade_power = 0.1
+	}
+	
+	crossing_the_river = {
+		leader_land_manuever = 1
+	}
+	
+    prj_western_arms = {
+		fire_damage = 0.1
+	}
+	
+	prj_christian_allies = {
+		diplomatic_reputation = 1
+	}
+	
+	prj_great_crusade = {
+		discipline = 0.05
+	}
+}
