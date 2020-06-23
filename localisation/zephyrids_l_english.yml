@@ -1,12 +1,9 @@
 ﻿l_english:
+
  # Countries
  ZPY:0 "Zephyrids"
  ZPY_ADJ:0 "Zephyrid"
- 
- # Bookmark
- MCMULLER_IS_GAY:0 "The Circle Rises"
- MCMULLER_IS_GAY_DESC:0 "Shit's fucked up; many countries born out of the ideas of twisted minds have appeared across the world to terrorize the modern era. Will they prevail over the forces of history? Can McMuller survive past the 1480s?"
- 
+
  # Ideas
  ZPY_ideas:0 "Zephyrid Ideas"
  ZPY_ideas_start:0 "Zephyrid Traditions"
@@ -25,3 +22,17 @@
  zeph_idea_6_desc:0 "An economic doctrine that states that stonk go up good, stink go down bad. By practical application, we have figured out many ways to ensure our coffers will always be full of money."
  zeph_idea_7:0 "Let the voice of love take you higher!" #Disc
  zeph_idea_7_desc:0 "And with the gathered strength, you can pierce even the barriers of time!"
+ 
+ # Insults
+ insult_zeph_1:0 "Why are you gay?"
+ insult_zeph_2:0 "Let the voice of love take you higher!"
+ insult_zeph_3:0 "Welcome to Youkoso Japari Park kyou mo dottan batten oosawagi!"
+ insult_zeph_4:0 "I know you're here, Thrawn, you big fucking nerd. Where's my god damn money?"
+ insult_zeph_5:0 "Jew and leech, name a more iconic duo"
+ insult_zeph_6:0 ">belgian in 2020"
+ insult_zeph_7:0 "I can hear the sound of boats sinking, Canoe."
+ insult_zeph_8:0 "You're stupid AND dumb"
+ insult_zeph_9:0 "Go McFuck yourself"
+ insult_zeph_10:0 "You're literally playing single-player, Coins, git gud"
+ insult_zeph_11:0 "ok rhinefurry"
+ insult_zeph_12:0 "Still looking for child porn, Franco?"
