@@ -1,0 +1,63 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+primary_culture = turko_gujarati
+add_accepted_culture = gujarati
+religion = ibadi
+technology_group = ottoman
+capital = 4457 # Zephyryie
+add_army_professionalism = 0.1
+religious_school = zaidi_school
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -25
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -25
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -25
+}
+	
+1444.1.1 = {
+	monarch = {
+		name = "Selim"
+		dynasty = "Zephyrid"
+		birth_date = 1420.3.30
+		death_date = 1500.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror_personality
+	add_piety = 0.2
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Zephyros"
+		dynasty = "Zephyrid"
+		birth_date = 1434.8.10
+		death_date = 1500.1.1
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 5
+		add_piety = 0.2
+	}
+}
+
+1444.1.1 = {
+	leader = {
+		name = "Ozan Subasi"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 1
+		death_date = 1460.9.9
+	}
+}

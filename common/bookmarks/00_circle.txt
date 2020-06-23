@@ -1,0 +1,16 @@
+bookmark = {
+	name = "MCMULLER_IS_GAY"
+	desc = "MCMULLER_IS_GAY_DESC"
+	date = 1444.11.11
+	
+	center = 112
+	default = yes
+	
+	country = ZPY
+	country = JEW
+	country = BEL
+	country = PRJ
+	country = PHO
+	country = SAU
+	
+}
