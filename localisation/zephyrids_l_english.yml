@@ -24,6 +24,21 @@
  zeph_idea_7:0 "Let the voice of love take you higher!"
  zeph_idea_7_desc:0 "And with the gathered strength, you can pierce even the barriers of time!"
  
+ # Titles
+ ZEPH_BEYLIK:0 "Beylik"
+ ZEPH_DIADOHOI:0 "Diadohoi"
+ ZEPH_IMPARATORLUK:0 "İmparatorluk"
+ ZEPH_BEY:0 "Bey"
+ ZEPH_DIADOHLAR:0 "Diadohlar"
+ ZEPH_IMPARATOR:0 "İmparator"
+ ZEPH_BEYSADE:0 "Beysade"
+ ZEPH_IMPARATORICE:0 "İmparatorice"
+ ZEPH_CELEBI:0 "Çelebi"
+ ZEPH_HATUN:0 "Hatun"
+ ZEPH_SEHZADE:0 "Şehzade"
+ ZEPH_HASEKISULTAN:0 "Haseki Sultan"
+ ZEPH_VALIAHAD:0 "Vali Ahad"
+ 
  # Insults
  insult_zeph_1:0 "Why are you gay?"
  insult_zeph_2:0 "Let the voice of love take you higher!"
