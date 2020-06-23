@@ -7,19 +7,19 @@
 zephyrids_ruler_titles = {
 	rank = {
 		1 = ZEPH_BEYLIK
-		2 = ZEPH_DIADOHOI
+		2 = ZEPH_CELEBI
 		3 = ZEPH_IMPARATORLUK
 	}
 
 	ruler_male = {
 		1 = ZEPH_BEY
-		2 = ZEPH_DIADOHLAR
+		2 = ZEPH_CELEBI
 		3 = ZEPH_IMPARATOR
 	}
 
 	ruler_female = {
 		1 = ZEPH_BEYSADE
-		2 = ZEPH_DIADOHLAR
+		2 = ZEPH_HATUN
 		3 = ZEPH_IMPARATORICE
 	}
 	
