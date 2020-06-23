@@ -100,8 +100,12 @@ ship_names = {
 }
 
 army_names = {
-	"Kan Hattinin Zaferi" "Kanli Akis" "Gururlu Olun" "Kan Hattinin Hatiralari"
-	"Çilgin Gürültülü Tuhaf Kasaba" Kovalamak "Harika Günler" "Altin Dövüs" "Hain Gereksinimi" "$PROVINCE$ Ordusu"
+	"Nesl-i San"
+	"Kanli Akinti"
+	"Gurur-u San" "Nesl-i Hatira"
+	"Deryan-i Deli" "Kovalaya" "San-i Güns"
+	"Zengin-i Harbiye" "Hain-i Deryan"
+	"$PROVINCE$ Ordusu"
 }
 
 fleet_names = {

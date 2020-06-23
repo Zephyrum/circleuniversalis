@@ -1,128 +1,128 @@
 JEW_ideas = {
-    start = {
-        light_ship_cost = -0.25
-        may_perform_slave_raid_on_same_religion = yes
-    }
-    
-    bonus = {
-        infantry_power = 0.10
-    }
-    
-    trigger = {
-        tag = JEW
-    }
-    free = yes
-    
-    jew_idea_1 = {
-        global_ship_recruit_speed = -0.20
-        naval_maintenance_modifier = -0.10
-    }
-    jew_idea_2 = {
-        global_trade_goods_size_modifier = 0.10
-    }
-    jew_idea_3 = {
-        leader_naval_fire = 1
-    }
-    jew_idea_4 = {
-        development_cost = -0.10
-    }
-    jew_idea_5 = {
-        naval_morale = 0.15
-    }
-    jew_idea_6 = {
-        naval_forcelimit_modifier = 0.20
-        ship_durability = 0.05
-    }
-    jew_idea_7 = {
-        leader_naval_manuever = 1
-    }
+	start = {
+		light_ship_cost = -0.25
+		may_perform_slave_raid_on_same_religion = yes
+	}
+	
+	bonus = {
+		infantry_power = 0.10
+	}
+	
+	trigger = {
+		tag = JEW
+	}
+	free = yes
+	
+	jew_idea_1 = {
+		global_ship_recruit_speed = -0.20
+		naval_maintenance_modifier = -0.10
+	}
+	jew_idea_2 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	jew_idea_3 = {
+		leader_naval_fire = 1
+	}
+	jew_idea_4 = {
+		development_cost = -0.10
+	}
+	jew_idea_5 = {
+		naval_morale = 0.15
+	}
+	jew_idea_6 = {
+		naval_forcelimit_modifier = 0.20
+		ship_durability = 0.05
+	}
+	jew_idea_7 = {
+		leader_naval_manuever = 1
+	}
 }
 
 BEL_ideas = {
-    start = {
-        global_prov_trade_power_modifier = 0.1
-        build_cost = -0.1
-    }
-    
-    bonus = {
-        defensiveness = 0.15
-    }
-    
-    trigger = {
-        tag = BEL
-    }
-    
-    free = yes
-    
-    buffer_state = {
-        diplomatic_reputation = 1
-    }
-    
-    flemish_wool = {
-        global_trade_goods_size_modifier = 0.1
-    }
-    
-    flemish_rennaissance = {
-        idea_cost = -0.1
-    }
-    
-    bel_urbanization = {
-        development_cost = -0.1
-    }
-    
-    mons_meg = {
-        artillery_power = 0.1
-    }
-    
-    bel_art = {
-        prestige = 1
-    }
-    
-    bel_industrialization = {
-        production_efficiency = 0.15
-        technology_cost = -0.05
-    }
+	start = {
+		global_prov_trade_power_modifier = 0.1
+		build_cost = -0.1
+	}
+	
+	bonus = {
+		defensiveness = 0.15
+	}
+	
+	trigger = {
+		tag = BEL
+	}
+	
+	free = yes
+	
+	buffer_state = {
+		diplomatic_reputation = 1
+	}
+	
+	flemish_wool = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	
+	flemish_rennaissance = {
+		idea_cost = -0.1
+	}
+	
+	bel_urbanization = {
+		development_cost = -0.1
+	}
+	
+	mons_meg = {
+		artillery_power = 0.1
+	}
+	
+	bel_art = {
+		prestige = 1
+	}
+	
+	bel_industrialization = {
+		production_efficiency = 0.15
+		technology_cost = -0.05
+	}
 }
 
 SAU_ideas = {
-    start = {
-        trade_steering = 0.15
-        land_attrition = -0.2
-    }
-    
-    bonus = {
-        movement_speed = 0.15
-    }
-    
-    trigger = {
-        tag = SAU
-    }
-    free = yes
-    
-    mc_arabian_horses = {
-        cavalry_cost = -0.2
-        cavalry_power = 0.2
-    }
+	start = {
+		trade_steering = 0.15
+		land_attrition = -0.2
+	}
+	
+	bonus = {
+		movement_speed = 0.15
+	}
+	
+	trigger = {
+		tag = SAU
+	}
+	free = yes
+	
+	mc_arabian_horses = {
+		cavalry_cost = -0.2
+		cavalry_power = 0.2
+	}
 	mc_bedouin_traders = {
-        global_trade_power = 0.1
-    }
+		global_trade_power = 0.1
+	}
 	the_mc_prophets = {
-        global_missionary_strength = 0.02
+		global_missionary_strength = 0.02
 		missionary_maintenance_cost = -0.25
-    }
+	}
 	mc_horsemanship = {
 		cavalry_flanking = 0.5
 		army_tradition = 0.5
 	}
 	land_of_the_mc_prophet = {
-        tolerance_own = 2
-    }
+		tolerance_own = 2
+	}
 	shrewd_mc_business = {
 		trade_efficiency = 0.1
 	}
-    mc_clan_warfare = {
-        leader_land_manuever = 1
-    }
+	mc_clan_warfare = {
+		leader_land_manuever = 1
+	}
 }
 
 PRJ_ideas = {
@@ -133,11 +133,11 @@ PRJ_ideas = {
 	
 	bonus = {
 		core_creation = -0.1
-    }
-    
-    trigger = {
-        tag = PRJ
-    }
+	}
+	
+	trigger = {
+		tag = PRJ
+	}
 	
 	free = yes
 	
@@ -157,7 +157,7 @@ PRJ_ideas = {
 		leader_land_manuever = 1
 	}
 	
-    prj_western_arms = {
+	prj_western_arms = {
 		fire_damage = 0.1
 	}
 	
@@ -171,39 +171,39 @@ PRJ_ideas = {
 }
 
 ZPY_ideas = {
-    start = {
-        infantry_power = 0.10
-        infantry_power = 0.10
-    }
-    
-    bonus = {
-        infantry_power = 0.10
-    }
-    
-    trigger = {
-        tag = ZPY
-    }
-    free = yes
-    
-    zeph_idea_1 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_2 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_3 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_4 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_5 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_6 = {
-        infantry_power = 0.10
-    }
-    zeph_idea_7 = {
-        infantry_power = 0.10
-    }
+	start = {
+		tolerance_heathen = 2
+		infantry_power = 0.10
+	}
+	
+	bonus = {
+		build_cost = -0.20
+	}
+	
+	trigger = {
+		tag = ZPY
+	}
+	free = yes
+	
+	zeph_idea_1 = {
+		siege_ability = 0.15
+	}
+	zeph_idea_2 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	zeph_idea_3 = {
+		global_manpower_modifier = 0.20
+	}
+	zeph_idea_4 = {
+		core_creation = -0.10
+	}
+	zeph_idea_5 = {
+		heavy_ship_power = 0.10
+	}
+	zeph_idea_6 = {
+		trade_efficiency = 0.10
+	}
+	zeph_idea_7 = {
+		discipline = 0.05
+	}
 }
