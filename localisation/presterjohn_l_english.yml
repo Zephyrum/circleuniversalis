@@ -1,13 +1,11 @@
 ﻿l_english:
- # This is not a real file. It's a template to set other files' standards.
- # Info
- PRJ:0 "Prester John"
- PRJ_ADJ:0 "Kinda Pretsy, not really Johnny"
+ PRJ:0 "Yohannia"
+ PRJ_ADJ:0 "Yohannian"
 
  # Ideas
- templatetag_ideas:0 "Tag Ideas"
- templatetag_ideas_start:0 "Tag Traditions"
- templatetag_ideas_bonus:0 "Tag Ambition"
+ templatetag_ideas:0 "Yohannian Ideas"
+ templatetag_ideas_start:0 "Yohannian Traditions"
+ templatetag_ideas_bonus:0 "Yohannian Ambition"
  template_idea_1:0 ""
  template_idea_1_desc:0 ""
  template_idea_2:0 ""
