@@ -5,6 +5,9 @@
  JEW_ADJ:0 "Jewish"
 
  # Ideas
+ JEW_ideas:0 "Jewish Ideas"
+ JEW_ideas_start:0 "Jewish Traditions"
+ JEW_ideas_bonus:0 "Jewish Ambition"
  jew_idea_1:0 "Ramshackle Production"
  jew_idea_1_desc:0 "More efficient production for new ships means more shekels for Abraham."
  jew_idea_2:0 "Religious Fervor"

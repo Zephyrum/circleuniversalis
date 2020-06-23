@@ -1,10 +1,13 @@
 ﻿l_english:
  # This is not a real file. It's a template to set other files' standards.
  # Info
- TAG:0 "Country Name"
- TAG_ADJ:0 "Country Adjective"
+ PRJ:0 "Prester John"
+ PRJ_ADJ:0 "Kinda Pretsy, not really Johnny"
 
  # Ideas
+ templatetag_ideas:0 "Tag Ideas"
+ templatetag_ideas_start:0 "Tag Traditions"
+ templatetag_ideas_bonus:0 "Tag Ambition"
  template_idea_1:0 ""
  template_idea_1_desc:0 ""
  template_idea_2:0 ""
@@ -26,7 +29,4 @@
  TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
  
  # Insults
- insult_template_1:0 ""
- insult_template_2:0 ""
- insult_template_3:0 ""
- insult_template_4:0 ""
+ insult_thrawn_1:0 "Are you sure that Zepheristan isn't ruled by a fairy?"
