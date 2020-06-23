@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 171 9 0 }
+
+historical_idea_groups = {
+	economic_ideas
+	quality_ideas
+	offensive_ideas
+	humanist_ideas
+	trade_ideas
+	diplomatic_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Recep #0" = 10
+	"Suleiman #0" = 10
+	"Mesut #0" = 10
+	"Aleqsandr #0" = 10
+	"Kaykhusraw #0" = 10
+	"Kilij #0" = 10
+	"Tayyip  #0" = 10
+	"Erdogan  #0" = 10
+	"Zephyros #0" = 10
+	"Subasi #0" = 10
+	"Ozan #0" = 10
+	"Fevzi #0" = 10
+	"Selim #0" = 10
+	"Kasim #0" = 10
+	"Mahmud #0" = 10
+	"Ibrahim #0" = 10
+	"Ataturk #0" = 10
+	"Mustafa #0" = 10
+	"Dervis #0" = 10 
+	"Ince #0" = 10
+	"Sitivi #0" = 10
+	
+	"Kösem #0" = -3
+	"Ozana #0" = -2
+	"Hanife #0" = -1
+	"Melis #0" = -1
+	"Zoi #0" = -2
+	"Safiye #0" = -1
+	"Irini #0" = -5
+	"Ziynet #0" = -1
+	"Ayse #0" = -1
+}
+
+leader_names = {
+	Alemdar Amasyali Ayas Aleqsandr Atatürk Abdulmecid
+	Bali Barbaros Bayram Binali Barbarossa
+	Cezzar Çandarli Çelebi Cerrah Çerkes Civan Çuhadar Can
+	Damad Dervis Defterdar
+	Erdogan
+	Fevzi
+	Gedik Gazi Gümülcineli Gürcü
+	Hadim Hekimoglu Hersekli Hakim Hayreddin
+	Ince
+	Köprülü Kemal Küçük Koca Karamanli Köse Kara Kanijeli Kemankes Kaymak Kavalali
+	Ishak Izzed
+	Lala Lefkeli
+	Malkoç Müezzinzade Muhtesem Muharrem Mustafa Mesut
+	Nevsehirli Nisanci
+	Oruç Ozan Osmancikli Ohrili Oflu
+	Rumi Recep Roach
+	Piri Pargali Piyale Pehlivan
+	Salih Sokullu Sari Silahdar Semiz Serdar Subasi Selim Sitivi
+	Topal Tayyar Turgut Tarhuncu Tayyip
+	Uluç
+	Veli
+	Yemisçi Yildirim
+	Zephyros
+}
+
+ship_names = {
+	Gemi Kano Tekne Bot Kayik Filika Kadirga Kalyon Karavela "Hattin Gemisi" "Demir Kapli" Korsan
+}
+
+army_names = {
+	"Kan Hattinin Zaferi" "Kanli Akis" "Gururlu Olun" "Kan Hattinin Hatiralari"
+	"Çilgin Gürültülü Tuhaf Kasaba" Kovalamak "Harika Günler" "Altin Dövüs" "Hain Gereksinimi" "$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	Hedef Çözüm "Büyük Demir" Cesaret "En Büyük Hayalperest" "Asiri Dengesizlik"
+	Baglan Renkli Aldatma Uluyan Sil Kuyrukluyildiz Yükselisi Kelebek "$PROVINCE$ Donanmasî"
+}
