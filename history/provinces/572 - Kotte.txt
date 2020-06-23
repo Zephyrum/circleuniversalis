@@ -2,8 +2,8 @@
 
 owner = JEW
 controller = JEW
-culture = sinhala
-religion = buddhism
+culture = hebrew
+religion = jewish
 capital = "Kotte"
 trade_goods = spices	#Cinnamon
 hre = no

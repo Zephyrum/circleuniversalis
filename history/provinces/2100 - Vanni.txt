@@ -2,8 +2,8 @@
 
 owner = JEW
 controller = JEW
-culture = tamil
-religion = hinduism
+culture = hebrew
+religion = jewish
 capital = "Yapapatuna"
 trade_goods = gems
 hre = no
