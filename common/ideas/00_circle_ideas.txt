@@ -169,3 +169,41 @@ PRJ_ideas = {
 		discipline = 0.05
 	}
 }
+
+ZPY_ideas = {
+    start = {
+        infantry_power = 0.10
+        infantry_power = 0.10
+    }
+    
+    bonus = {
+        infantry_power = 0.10
+    }
+    
+    trigger = {
+        tag = ZPY
+    }
+    free = yes
+    
+    zeph_idea_1 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_2 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_3 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_4 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_5 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_6 = {
+        infantry_power = 0.10
+    }
+    zeph_idea_7 = {
+        infantry_power = 0.10
+    }
+}
