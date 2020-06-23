@@ -1,3 +1,4 @@
 JEW = "countries/JewishPirates.txt"
 BEL = "countries/Belgium.txt"
 ZPY = "countries/Zephyrids.txt"
+PRJ = "countries/PresterJohn.txt"

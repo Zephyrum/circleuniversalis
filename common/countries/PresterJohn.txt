@@ -30,7 +30,7 @@ historical_units = {
 }
 
 monarch_names = {
-	"Yohannan #4" = 60
+	"Yohannan #5" = 60
 	"Dariush #1" 20
 	"Davud #2" = 20
 	"Eskandar #1" = 20
@@ -39,7 +39,7 @@ monarch_names = {
 	"Kurush #0" = 10
 	"Pedrush #1" = 10
 	"Solaymân #1" = 10
-	"Yousef #1" = 10
+	"Yousef #2" = 10
 	
 	"Maryam #0" = -1
 	"Raheleh #0" = -1
