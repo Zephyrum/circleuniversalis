@@ -37,6 +37,7 @@ JEW_ideas = {
         leader_naval_manuever = 1
     }
 }
+
 BEL_ideas = {
     start = {
         global_prov_trade_power_modifier = 0.1
@@ -80,5 +81,44 @@ BEL_ideas = {
     bel_industrialization = {
         production_efficiency = 0.15
         technology_cost = -0.05
+    }
+}
+
+SAU_ideas = {
+    start = {
+        global_manpower_modifier = 0.25
+        land_attrition = -0.15
+    }
+    
+    bonus = {
+        leader_land_shock = 1
+    }
+    
+    trigger = {
+        tag = SAU
+    }
+    free = yes
+    
+    mc_arab_indian_ocean_trade = {
+        trade_steering = 0.15
+    }
+    mc_arabian_horses = {
+        cavalry_cost = -0.2
+        cavalry_flanking = 0.25
+    }
+    land_of_the_mc_prophet = {
+        global_unrest = -2
+    }
+    spreading_the_mc_prophets_word = {
+        global_missionary_strength = 0.02
+    }
+    mc_bedouin_traders = {
+        global_trade_power = 0.1
+    }
+    mc_arab_clan_loyalties = {
+        leader_land_manuever = 1
+    }
+    mc_arabia_tm = {
+        prestige = 1
     }
 }
