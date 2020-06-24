@@ -2,7 +2,7 @@
 
 owner = BEL
 controller = BEL
-add_claim = BEL
+add_core = BEL
 add_core = BRB
 is_city = yes
 capital = "Brussel"
