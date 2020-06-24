@@ -13,8 +13,8 @@ add_army_professionalism = 0.1
 		dynasty = "Yohannanid"
 		birth_date = 1380.7.30
 		adm = 3
-		dip = 2
-		mil = 2
+		dip = 1
+		mil = 1
 	}
 }
 

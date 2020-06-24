@@ -1,0 +1,35 @@
+﻿l_english:
+ # This is not a real file. It's a template to set other files' standards.
+ # Info
+ PHO:0 "Phoenicia"
+ PHO_ADJ:0 "Phoenician"
+
+ # Ideas
+ templatetag_ideas:0 "Tag Ideas"
+ templatetag_ideas_start:0 "Tag Traditions"
+ templatetag_ideas_bonus:0 "Tag Ambition"
+ template_idea_1:0 ""
+ template_idea_1_desc:0 ""
+ template_idea_2:0 ""
+ template_idea_2_desc:0 ""
+ template_idea_3:0 ""
+ template_idea_3_desc:0 ""
+ template_idea_4:0 ""
+ template_idea_4_desc:0 ""
+ template_idea_5:0 ""
+ template_idea_5_desc:0 ""
+ template_idea_6:0 ""
+ template_idea_6_desc:0 ""
+ template_idea_7:0 ""
+ template_idea_7_desc:0 ""
+ 
+ # Titles
+ TEMPLATE_RANK_1_GOVERNMENT:0 "Duchy"
+ TEMPLATE_RANK_2_GOVERNMENT:0 "Kingdom"
+ TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
+ 
+ # Insults
+ insult_template_1:0 ""
+ insult_template_2:0 ""
+ insult_template_3:0 ""
+ insult_template_4:0 ""

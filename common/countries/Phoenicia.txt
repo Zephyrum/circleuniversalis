@@ -1,0 +1,80 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 102  2  60 }
+
+historical_idea_groups = {
+	trade_ideas
+	naval_ideas
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Abbar #0" = 1
+	"Abdmelqart #0" = 1
+	"Adonibaal #0" = 1
+	"Agbal #0" = 1
+	"Ahirom #0" = 1
+	"Azimilik #0" = 1
+	"Baal #0" = 1
+	"Baalhanno #0" = 1
+	"Bodashtart #0" = 1
+	"Bomilcar #0" = 1
+	"Bostar #0" = 1
+	"Boulomenus #0" = 1
+	"Carthalo #0" = 1
+	"Chelbes #0" = 1 
+	"Eshbaal #0" = 1
+	"Eugoras #0" = 1
+	"Germelqart #0" = 1
+	"Hamilcar #0" = 1
+	"Hannibal #0" = 1
+	"Hanno #0" = 1
+	"Hasdrubal #0" = 1
+	"Himilco #0" = 1
+	"Hiram #0" = 1
+	"Mago #0" = 1
+	"Maharbal #0" = 1
+	"Mattan #0" = 1
+	"Metallo #0" = 1
+	"Milkherem  #0" = 1
+	"Milkiram #0" = 1
+	"Paltibaal #0" = 1
+	"Philosir #0" = 1
+	
+	"Abdosir #0" = 1
+	"Arishat #0" = 1
+	"Astarte #0" = 1
+	"Batnoam #0" = 1
+	"Dido #0" = 1
+	"Shayna #0" = 1
+	"Sophonisba #0" = 1
+	"Tamar #0" = 1
+}
+
+leader_names = {
+	Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid
+	Eugorid Hannid Hiramid Magoid Mattanid Metallid Milkiramid Philosirid
+}
