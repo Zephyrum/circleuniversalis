@@ -1,0 +1,65 @@
+insult_vocoins_1 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_2 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_3 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_4 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_5 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_6 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_7 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_8 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_9 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_10 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
+
+insult_vocoins_11 = { #Coins generic
+	trigger = {
+		FROM = { tag = VOC }
+	}
+}
