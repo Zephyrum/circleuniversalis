@@ -1,8 +1,8 @@
 #2340 - Grane
 
-owner = MCA
-controller = MCA
-add_core = MCA
+owner = MCL
+controller = MCL
+add_core = MCL
 culture = gulf_arabic
 religion = sunni
 capital = "Grane" #old name for Kuwait

@@ -147,6 +147,6 @@ mc_titles = {
 	}
 	
 	trigger = {
-		tag = MCM
+		tag = MCL
 	}
 }

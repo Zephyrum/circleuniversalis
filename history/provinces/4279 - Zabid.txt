@@ -1,8 +1,7 @@
 #4279 - Zabid & Hudaydah
 
-owner = MCA
-controller = MCA
-add_core = MCA
+owner = YEM
+controller = YEM
 culture = yemeni_culture
 religion = sunni
 capital = "Zabid"

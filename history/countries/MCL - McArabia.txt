@@ -15,7 +15,7 @@ religious_school = hanbali_school
 		birth_date = 1399.1.1
 		death_date = 1475.1.1
 		adm = 2
-		dip = 2
+		dip = 4
 		mil = 2
 	}
 	add_piety = 0.1
@@ -27,9 +27,9 @@ religious_school = hanbali_school
 		dynasty = "McMuller"
 		birth_date = 1424.1.8
 		death_date = 1500.1.1
-		adm = 2
+		adm = 3
 		dip = 2
-		mil = 2
+		mil = 3
 	}
 	add_piety = 0.1
 }

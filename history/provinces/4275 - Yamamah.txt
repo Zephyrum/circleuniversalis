@@ -1,8 +1,8 @@
 #4275 - Al-Yamamah
 
-owner = MCA
-controller = MCA
-add_core = MCA
+owner = MCL
+controller = MCL
+add_core = MCL
 culture = bedouin_arabic
 religion = sunni
 capital = "Kharj"
