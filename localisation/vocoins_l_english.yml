@@ -1,0 +1,35 @@
+﻿l_english:
+
+ # Info
+ VOC:0 "V.O.C"
+ VOC_ADJ:0 "East Indian"
+
+ # Ideas
+ vocoins_ideas:0 "V.O.C Ideas"
+ vocoins_ideas_start:0 "V.O.C Traditions"
+ vocoins_ideas_bonus:0 "V.O.C Ambition"
+ vocoins_idea_1:0 ""
+ vocoins_idea_1_desc:0 ""
+ vocoins_idea_2:0 ""
+ vocoins_idea_2_desc:0 ""
+ vocoins_idea_3:0 ""
+ vocoins_idea_3_desc:0 ""
+ vocoins_idea_4:0 ""
+ vocoins_idea_4_desc:0 ""
+ vocoins_idea_5:0 ""
+ vocoins_idea_5_desc:0 ""
+ vocoins_idea_6:0 ""
+ vocoins_idea_6_desc:0 ""
+ vocoins_idea_7:0 ""
+ vocoins_idea_7_desc:0 ""
+ 
+ # Titles
+ #vocoins_RANK_1_GOVERNMENT:0 "Duchy"
+ #vocoins_RANK_2_GOVERNMENT:0 "Kingdom"
+ #vocoins_RANK_3_GOVERNMENT:0 "Empire"
+ 
+ # Insults
+ #insult_vocoins_1:0 ""
+ #insult_vocoins_2:0 ""
+ #insult_vocoins_3:0 ""
+ #insult_vocoins_4:0 ""

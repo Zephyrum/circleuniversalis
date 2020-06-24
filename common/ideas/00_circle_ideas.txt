@@ -252,3 +252,87 @@ ZPY_ideas = {
 		discipline = 0.05
 	}
 }
+
+francophoenicia_ideas = {
+	start = {
+		idea_cost = -0.10
+		development_cost = -0.10
+	}
+	bonus = {
+		naval_morale = 0.10
+	}
+	trigger = {
+		tag = PHO
+	}
+	free = yes
+	
+	francophoenicia_idea_1 = {
+		technology_cost = -0.10
+	}
+	
+	francophoenicia_idea_2 = {
+		merchants = 1
+	}
+	
+	francophoenicia_idea_3 = {
+		global_trade_power = 0.15
+	}
+	
+	francophoenicia_idea_4 = {
+		trade_efficiency = 0.10
+	}
+	
+	francophoenicia_idea_5 = {
+		naval_maintenance_modifier = -0.10
+	}
+	
+	francophoenicia_idea_6 = {
+		naval_forcelimit_modifier = 0.33
+	}
+	
+	francophoenicia_idea_7 = {
+		land_morale = 0.10
+	}
+}
+
+vocoins_ideas = {
+	start = {
+		manpower_recovery_speed = 0.20
+		idea_cost = -0.10
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = VOC
+	}
+	free = yes
+	
+	vocoins_idea_1 = {
+		naval_morale = 0.15
+	}
+	
+	vocoins_idea_2 = {
+		prestige = 1
+	}
+	
+	vocoins_idea_3 = {
+		colonists = 1
+	}
+	
+	vocoins_idea_4 = {
+		trade_efficiency = 0.10
+	}
+	
+	vocoins_idea_5 = {
+		global_colonial_growth = 20
+	}
+	
+	vocoins_idea_6 = {
+		trade_steering = 0.20
+	}
+	
+	vocoins_idea_7 = {
+		diplomatic_reputation = 2
+	}
+}

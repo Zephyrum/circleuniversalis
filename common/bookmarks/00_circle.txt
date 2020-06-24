@@ -6,11 +6,14 @@ bookmark = {
 	center = 151
 	default = yes
 	
+	country = BEL
+	country = PHO
+	country = CNE
+	country = NRE
+	country = SAU
+	country = PRJ
 	country = ZPY
 	country = JEW
-	country = BEL
-	country = PRJ
-	country = PHO
-	country = SAU
+	country = VOC
 	
 }

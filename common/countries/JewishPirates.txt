@@ -2,7 +2,7 @@ graphical_culture = indiangfx
 
 color = { 6  169  169 }
 
-historical_ideas = {
+historical_idea_groups = {
 	naval_ideas
 	maritime_ideas
 	spy_ideas

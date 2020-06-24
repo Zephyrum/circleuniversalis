@@ -7,7 +7,7 @@
 zephyrids_ruler_titles = {
 	rank = {
 		1 = ZEPH_BEYLIK
-		2 = ZEPH_BEYLERBEYIK
+		2 = ZEPH_BEYLERBEYLIK
 		3 = ZEPH_IMPARATORLUK
 	}
 
