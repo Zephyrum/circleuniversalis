@@ -423,3 +423,45 @@ CNE_ideas = {
 		global_ship_recruit_speed = -0.1
 	}
 }
+
+NRE_ideas = {
+	start = {
+		global_trade_goods_size_modifier = 0.1
+		discipline = 0.05
+	}
+	bonus = {
+		army_tradition = 0.5
+	}
+	trigger = {
+		tag = NRE
+	}
+	free = yes
+	
+	NRE_1 = {
+		land_morale = 0.1
+	}
+	
+	NRE_idea_2 = {
+		global_missionary_strength = 0.02
+	}
+	
+	NRE_idea_3 = {
+		production_efficiency = 0.1
+	}
+	
+	NRE_idea_4 = {
+		land_forcelimit_modifier = 0.2
+	}
+	
+	NRE_idea_5 = {
+		shock_damage = 0.1
+	}
+	
+	NRE_idea_6 = {
+		leader_land_shock = 1
+	}
+	
+	NRE_idea_7 = {
+		global_manpower_modifier = 0.2
+	}
+}
