@@ -191,7 +191,7 @@ PRJ_ideas = {
 	}
 	
 	legacy_of_saint_thomas = {
-		global_missionary_strength = 0.2
+		global_missionary_strength = 0.02
 	}
 	
 	control_caspian_trade = {
