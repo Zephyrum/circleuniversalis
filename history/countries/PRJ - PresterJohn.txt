@@ -6,6 +6,16 @@ primary_culture = mazandarani
 capital = 417
 add_army_professionalism = 0.1
 
+1403.4.7 = {
+	monarch = {
+		name = "Yousef II"
+		dynasty = "Yohannanid"
+		birth_date = 1380.7.30
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
 
 1435.6.27 = {
 	monarch = {
