@@ -3,7 +3,7 @@ add_government_reform = tribal_federation
 technology_group = muslim
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 4247 #McRiyadh
+capital = 392 #McRiyadh
 religious_school = hanbali_school
 
 #Amirs of ad-Dar'iya

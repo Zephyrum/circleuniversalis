@@ -1,8 +1,8 @@
 ﻿l_english:
 
  # Info
- MCM:0 "McArabia"
- MCM_ADJ:0 "McArab"
+ MCA:0 "McArabia"
+ MCA_ADJ:0 "McArab"
 
  # Ideas
  mcarab_ideas:0 "McArab Ideas"

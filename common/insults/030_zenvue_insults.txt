@@ -103,6 +103,6 @@ insult_zenvue_17 = { #Zenvue Generic
 insult_zenvue_18 = { #Zenvue to McMuller
 	trigger = {
 		FROM = { tag = JEW }
-		tag = SAU
+		tag = MCA
 	}
 }

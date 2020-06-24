@@ -5,7 +5,7 @@
 379 = "McJerusalem"
 384 = "McMadinah"
 385 = "McMecca"
-4247 = "McRiyadh"
+392 = "McRiyadh"
 
 214 = "McQal'at Ayyub"
 219 = "McTulaytullah"
@@ -30,8 +30,7 @@
 387 = "McMukha"
 388 = "McAdan"
 390 = "McSan'a"	
-391 = "McNajran"	
-392 = "McAl'Arid"
+391 = "McNajran"
 393 = "McJabal Shammar"
 394 = "McQatif"	
 395 = "McQatar"

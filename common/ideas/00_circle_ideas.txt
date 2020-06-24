@@ -346,7 +346,7 @@ mcarab_ideas = {
 		movement_speed = 0.15
 	}
 	trigger = {
-		tag = MCM
+		tag = MA
 	}
 	free = yes
 	

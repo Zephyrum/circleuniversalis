@@ -47,14 +47,14 @@ insult_zeph_7 = { #Zeph to Canoe
 insult_zeph_8 = { #Zeph to McMuller
 	trigger = {
 		FROM = { tag = ZPY }
-		tag = SAU
+		tag = MCA
 	}
 }
 
 insult_zeph_9 = { #Zeph to McMuller
 	trigger = {
 		FROM = { tag = ZPY }
-		tag = SAU
+		tag = MCA
 	}
 }
 
