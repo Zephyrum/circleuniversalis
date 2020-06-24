@@ -1,4 +1,4 @@
-graphical_culture = indiangfx
+graphical_culture = muslimgfx
 
 color = { 6  169  169 }
 
