@@ -50,3 +50,38 @@ insult_mcm_8 = { #McMuller to Coins
 		tag = VOC
 	}
 }
+
+insult_mcm_9 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCM }
+		tag = JEW
+	}
+}
+
+insult_mcm_10 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCM }
+		tag = JEW
+	}
+}
+
+insult_mcm_11 = { #McMuller to Franco
+	trigger = {
+		FROM = { tag = MCM }
+		tag = PHO
+	}
+}
+
+insult_mcm_12 = { #McMuller to Bdbo
+	trigger = {
+		FROM = { tag = MCM }
+		tag = BEL
+	}
+}
+
+insult_mcm_13 = { #McMuller to Bdbo
+	trigger = {
+		FROM = { tag = MCM }
+		tag = BEL
+	}
+}

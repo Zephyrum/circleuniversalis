@@ -339,42 +339,45 @@ vocoins_ideas = {
 
 mcarab_ideas = {
 	start = {
-		prestige = 1
-		prestige = 1
+		land_attrition = -0.25
+		trade_steering = 0.15
 	}
 	bonus = {
-		prestige = 1
+		movement_speed = 0.15
 	}
 	trigger = {
 		tag = MCM
 	}
 	free = yes
 	
-	template_idea_1 = {
-		prestige = 1
+	mcarab_idea_1 = {
+		cavalry_power = 0.20
+		cavalry_cost = -0.25
 	}
 	
-	template_idea_2 = {
-		prestige = 1
+	mcarab_idea_2 = {
+		global_trade_power = 0.10
 	}
 	
-	template_idea_3 = {
-		prestige = 1
+	mcarab_idea_3 = {
+		global_missionary_strength = 0.02
+		missionary_maintenance_cost = -0.25
 	}
 	
-	template_idea_4 = {
-		prestige = 1
+	mcarab_idea_4 = {
+		cavalry_flanking = 0.50
+		army_tradition = 0.5
 	}
 	
-	template_idea_5 = {
-		prestige = 1
+	mcarab_idea_5 = {
+		tolerance_own = 3
 	}
 	
-	template_idea_6 = {
-		prestige = 1
+	mcarab_idea_6 = {
+		trade_efficiency = 0.10
 	}
 	
-	template_idea_7 = {
-		prestige = 1
+	mcarab_idea_7 = {
+		fire_damage_received = -0.10
 	}
 }
