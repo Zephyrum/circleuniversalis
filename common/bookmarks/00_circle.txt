@@ -14,7 +14,6 @@ bookmark = {
 	country = PRJ
 	country = ZPY
 	country = JEW
-	country = VOC
 	country = TPG
-	
+	country = VOC
 }

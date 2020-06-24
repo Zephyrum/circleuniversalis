@@ -3,9 +3,9 @@
  PRJ_ADJ:0 "Yohannian"
 
  # Ideas
- templatetag_ideas:0 "Yohannian Ideas"
- templatetag_ideas_start:0 "Yohannian Traditions"
- templatetag_ideas_bonus:0 "Yohannian Ambition"
+ PRJ_ideas:0 "Yohannian Ideas"
+ PRJ_ideas_start:0 "Yohannian Traditions"
+ PRJ_ideas_bonus:0 "Yohannian Ambition"
  wealth_of_asia:0 "The Wealth of Persia"
  wealth_of_asia_desc:0 "Persia is home to great wealth and treasures, with our silk, spices and gems being desired the world over. However, Persia was devastated by the Mongol invaders. We must repopulate the countryside and encourage the production of these goods."
  legacy_of_saint_thomas:0 "The Legacy of Saint Thomas"
@@ -22,9 +22,9 @@
  prj_great_crusade_desc:0 "Soldiers, Sailors and Priests of the Great Expeditionary Force!\nYou are about to embark upon the Great Crusade, toward which we have striven these many years. The eyes of the world are upon you. The hopes and prayers of Christ-loving people everywhere march with you. In company with our brave Allies and brothers-in-arms on other Fronts, you will bring about the destruction of the Muslim war machine, the elimination of Arab tyranny over the oppressed peoples of Asia, and security for ourselves in a free world."
  
  # Titles
- TEMPLATE_RANK_1_GOVERNMENT:0 "Duchy"
- TEMPLATE_RANK_2_GOVERNMENT:0 "Kingdom"
- TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
+ #TEMPLATE_RANK_1_GOVERNMENT:0 "Duchy"
+ #TEMPLATE_RANK_2_GOVERNMENT:0 "Kingdom"
+ #TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
  
  # Insults
  insult_thrawn_1:0 "Are you sure that Zepheristan isn't ruled by a fairy?"
