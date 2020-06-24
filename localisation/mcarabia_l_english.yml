@@ -1,0 +1,48 @@
+﻿l_english:
+
+ # Info
+ MCM:0 "McArabia"
+ MCM_ADJ:0 "McArab"
+
+ # Ideas
+ mcarab_ideas:0 "McArab Ideas"
+ mcarab_ideas_start:0 "McArab Traditions"
+ mcarab_ideas_bonus:0 "McArab Ambition"
+ mcarab_idea_1:0 ""
+ mcarab_idea_1_desc:0 ""
+ mcarab_idea_2:0 ""
+ mcarab_idea_2_desc:0 ""
+ mcarab_idea_3:0 ""
+ mcarab_idea_3_desc:0 ""
+ mcarab_idea_4:0 ""
+ mcarab_idea_4_desc:0 ""
+ mcarab_idea_5:0 ""
+ mcarab_idea_5_desc:0 ""
+ mcarab_idea_6:0 ""
+ mcarab_idea_6_desc:0 ""
+ mcarab_idea_7:0 ""
+ mcarab_idea_7_desc:0 ""
+ 
+ # Titles
+ MCEMIRATE:0 "McEmirate"
+ MCSULTANATE:0 "McSultanate"
+ MCCALIPHATE:0 "McCaliphate"
+ MCEMIR:0 "Superemir Extraodinaire"
+ MCSULTAN:0 "Supersultan Extraodinaire"
+ MCCALIPH:0 "Supercaliph Extraodinaire"
+ MCEMIRA:0 "Superemira Extraodinaire"
+ MCSULTANA:0 "Supersultana Extraodinaire"
+ MCCALIPHA:0 "Supercalipha Extraodinaire"
+ MCHEIR:0 "McHeir"
+ MCHEIRESS:0 "McHeiress"
+ MCCONSORT:0 "McConsort"
+ 
+ # Insults
+ insult_mcm_1:0 "Go McFuck yourself"
+ insult_mcm_2:0 "Go McFuck yourself"
+ insult_mcm_3:0 "Saalam Aleykum, I'm McMuller, Superarab Extraordinaire"
+ insult_mcm_4:0 "Jewish pirates? Sounds like gay communism with extra steps"
+ insult_mcm_5:0 "With or without the colon?"
+ insult_mcm_6:0 "You're weaker than my best shart"
+ insult_mcm_7:0 "Not even the great McMuller would hit that"
+ insult_mcm_8:0 "Doesn't the existence of an East India Company imply the existence of better, more influential West, North, and South India Companies?"

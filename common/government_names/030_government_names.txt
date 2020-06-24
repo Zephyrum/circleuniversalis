@@ -102,3 +102,51 @@ zephyrids_vassal_titles = {
 		}
 	}
 }
+
+mc_titles = {
+	rank = {
+		1 = MCEMIRATE
+		2 = MCSULTANATE
+		3 = MCCALIPHATE
+	}	
+
+	ruler_male = {
+		1 = MCEMIR
+		2 = MCSULTAN
+		3 = MCCALIPH
+	}
+
+	ruler_female = {
+		1 = MCEMIRA
+		2 = MCSULTANA
+		3 = MCCALIPHA
+	}
+	
+	heir_male = {
+		1 = MCHEIR
+		2 = MCHEIR
+		3 = MCHEIR
+	}
+
+	heir_female = {
+		1 = MCHEIRESS
+		2 = MCHEIRESS
+		3 = MCHEIRESS
+	}
+	
+	consort_male = {
+		1 = MCCONSORT
+		2 = MCCONSORT
+		3 = MCCONSORT
+	}
+	
+	consort_female = {
+		1 = MCCONSORT
+		2 = MCCONSORT
+		3 = MCCONSORT
+	}
+	
+	trigger = {
+		tag = MCM
+	}
+}

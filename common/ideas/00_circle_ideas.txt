@@ -336,3 +336,45 @@ vocoins_ideas = {
 		diplomatic_reputation = 2
 	}
 }
+
+mcarab_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = MCM
+	}
+	free = yes
+	
+	template_idea_1 = {
+		prestige = 1
+	}
+	
+	template_idea_2 = {
+		prestige = 1
+	}
+	
+	template_idea_3 = {
+		prestige = 1
+	}
+	
+	template_idea_4 = {
+		prestige = 1
+	}
+	
+	template_idea_5 = {
+		prestige = 1
+	}
+	
+	template_idea_6 = {
+		prestige = 1
+	}
+	
+	template_idea_7 = {
+		prestige = 1
+	}
+}
