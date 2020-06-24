@@ -26,9 +26,11 @@
  
  # Titles
  ZEPH_BEYLIK:0 "Beylik"
+ ZEPH_BEYLERBEYLIK:0 "Beylerbeylik"
  ZEPH_DIADOHOI:0 "Diadohoi"
  ZEPH_IMPARATORLUK:0 "Imparatorluk"
  ZEPH_BEY:0 "Bey"
+ ZEPH_BEYLERBEY:0 "Beylerbey"
  ZEPH_DIADOHLAR:0 "Diadohlar"
  ZEPH_IMPARATOR:0 "Imparator"
  ZEPH_BEYSADE:0 "Beysade"
