@@ -1,11 +1,11 @@
 insult_canoe_1 = { #Canoe Generic send
 	trigger = {
-		FROM = { tag = CANOE }
+		FROM = { tag = CNE }
 	}
 }
 
 insult_canoe_2 = { #Canoe Generic receive
 	trigger = {
-		tag = CANOE
+		tag = CNE
 	}
 }

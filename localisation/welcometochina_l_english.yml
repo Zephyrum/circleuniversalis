@@ -1,0 +1,35 @@
+﻿l_english:
+
+ # Info
+ TPG:0 "Heavenly Kingdom"
+ TPG_ADJ:0 "Taiping"
+
+ # Ideas
+ taiping_ideas:0 "Taiping Ideas"
+ taiping_ideas_start:0 "Taiping Traditions"
+ taiping_ideas_bonus:0 "Taiping Ambition"
+ taiping_idea_1:0 ""
+ taiping_idea_1_desc:0 ""
+ taiping_idea_2:0 ""
+ taiping_idea_2_desc:0 ""
+ taiping_idea_3:0 ""
+ taiping_idea_3_desc:0 ""
+ taiping_idea_4:0 ""
+ taiping_idea_4_desc:0 ""
+ taiping_idea_5:0 ""
+ taiping_idea_5_desc:0 ""
+ taiping_idea_6:0 ""
+ taiping_idea_6_desc:0 ""
+ taiping_idea_7:0 ""
+ taiping_idea_7_desc:0 ""
+ 
+ # Titles
+ #TEMPLATE_RANK_1_GOVERNMENT:0 "Duchy"
+ #TEMPLATE_RANK_2_GOVERNMENT:0 "Kingdom"
+ #TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
+ 
+ # Insults
+ #insult_template_1:0 ""
+ #insult_template_2:0 ""
+ #insult_template_3:0 ""
+ #insult_template_4:0 ""

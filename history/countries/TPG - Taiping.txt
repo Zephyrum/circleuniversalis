@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = hussite
+primary_culture = hakka
+add_accepted_culture = cantonese
+capital = 667 #Canton
+
+1444.1.1 = {
+	monarch = {
+		name = "Stew"
+		dynasty = "Xiuquan"
+		birth_date = 1420.3.23
+		death_date = 1500.1.1
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
