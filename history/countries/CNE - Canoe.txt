@@ -13,8 +13,8 @@ add_accepted_culture = prussian
 		birth_date = 1415.3.15
 		death_date = 1500.1.1
 		adm = 3
-		dip = 5
-		mil = 1
+		dip = 1
+		mil = 5
 	}
 }
 
