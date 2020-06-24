@@ -437,7 +437,7 @@ NRE_ideas = {
 	}
 	free = yes
 	
-	NRE_1 = {
+	NRE_idea_1 = {
 		land_morale = 0.10
 	}
 	

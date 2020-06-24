@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+capital = 151 # Constantinople
+
+1444.1.1 = {
+	monarch = {
+		name = "Uwasa Uwasa"
+		dynasty = "Naishou no Uwasa"
+		birth_date = 1410.1.1
+		death_date = 1470.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Dare ni dake nara"
+		dynasty = "Oshiete miyou ka"
+		birth_date = 1425.1.1
+		death_date = 1480.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
