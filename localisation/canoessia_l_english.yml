@@ -1,11 +1,29 @@
 ﻿l_english:
 
  # Info
- CNE:0 ""
- CNE_ADJ:0 ""
+ CNE:0 "Knights of the Canorder"
+ CNE_ADJ:0 "Canoan"
 
  # Ideas
+ CNE_ideas:0 "Canoan Ideas"
+ CNE_ideas_start:0 "Canoan Traditions"
+ CNE_ideas_bonus:0 "Canoan Ambition"
+ CNE_idea_1:0 "A Nation for the People"
+ CNE_idea_1_desc:0 ""
+ CNE_idea_2:0 "Hired Mercenaries"
+ CNE_idea_2_desc:0 ""
+ CNE_idea_3:0 "Furthering the Economy"
+ CNE_idea_3_desc:0 ""
+ CNE_idea_4:0 "Training the Units"
+ CNE_idea_4_desc:0 ""
+ CNE_idea_5:0 "Boat Merchants"
+ CNE_idea_5_desc:0 ""
+ CNE_idea_6:0 "Advancing the Innovative Minds"
+ CNE_idea_6_desc:0 ""
+ CNE_idea_7:0 Idea 7: "Nation of the Boats"
+ CNE_idea_7_desc:0 ""
  
  # Insults
  insult_canoe_1:0 "Y I K E S"
  insult_canoe_2:0 "Y I K E S"
+ insult_canoe_3:0 "Didn't think it was possible to be this homossexual"
