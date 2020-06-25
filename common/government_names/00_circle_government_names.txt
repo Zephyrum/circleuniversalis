@@ -150,3 +150,52 @@ mc_titles = {
 		tag = MCL
 	}
 }
+
+taiping_ruler_titles = {
+	rank = {
+		1 = HEAVENLYRANK1
+		2 = HEAVENLYRANK2
+		3 = HEAVENLYRANK3
+	}
+
+	ruler_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+
+	ruler_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+	
+	consort_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+
+	consort_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+	
+	heir_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+	
+	heir_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+
+	trigger = {
+		government = theocracy
+		tag = TPG
+	}
+}
