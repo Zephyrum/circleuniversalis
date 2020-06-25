@@ -152,7 +152,7 @@ PRJ_ideas = {
 	}
 	
 	control_caspian_trade = {
-		global_own_trade_power = 0.10
+		caravan_power = 0.20
 	}
 	
 	crossing_the_river = {
