@@ -35,6 +35,7 @@ add_army_professionalism = 0.1
 		monarch_name = "Ya'qub II"
 		dynasty = "Yohannanid"
 		birth_date = 1397.4.2
+		claim = 95
 		adm = 5
 		dip = 4
 		mil = 4
