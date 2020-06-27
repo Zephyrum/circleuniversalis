@@ -4,7 +4,7 @@ government_rank = 2
 technology_group = western
 religion = catholic
 primary_culture = phoenician
-capital = 125
+capital = 4736
 
 1444.1.1 = {
 	monarch = {

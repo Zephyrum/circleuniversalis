@@ -3,7 +3,7 @@
 owner = PHO
 controller = PHO
 add_core = PHO
-culture = sicilian 
+culture = phoenician
 religion = catholic 
 hre = no 
 base_tax = 6 
