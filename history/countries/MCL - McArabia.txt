@@ -1,8 +1,8 @@
-government = tribal
-add_government_reform = tribal_federation
+government = monarchy
+add_government_reform = iqta
 technology_group = muslim
 primary_culture = bedouin_arabic
-religion = sunni
+religion = ibadi
 capital = 392 #McRiyadh
 religious_school = hanbali_school
 
