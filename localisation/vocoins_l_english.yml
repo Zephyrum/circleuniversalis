@@ -40,3 +40,8 @@
  insult_vocoins_9:0 "It’s impossible to underestimate you!"
  insult_vocoins_10:0 "If you were a cookie, you would be a Whoreo."
  insult_vocoins_11:0 "If you were a vegetable, you would be a Cabbitch."
+ 
+ # Decisions
+ coins_reveal_map_title:0 "A Letter from Gujarat"
+ coins_reveal_map_desc:0 "Our successful endeavor at setting up an East Indies colony may be inspiring, but there is little we can do without appropriate mapping. While our exploration endeavors aren't prepared, however, we received a letter signed 'From Zeph, with love', aimed at Grandmaster Coins. It seems to contain both an invitation to something called a 'Ponzi Scheme' and a map of the neighboring islands."
+ tooltip_voc_map:0 "Reveals the map of the Indonesian Islands."

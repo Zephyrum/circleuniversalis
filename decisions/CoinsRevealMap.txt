@@ -1,0 +1,41 @@
+country_decisions = {
+
+	coins_reveal_map = {
+		potential = {
+			tag = VOC
+			NOT = { has_country_flag = coins_map_fix }
+		}
+		allow = {
+			tag = VOC
+		}
+		effect = {
+			custom_tooltip = "tooltip_voc_map"
+			hidden_effect = {
+				add_prestige = -5
+				4457 = { add_base_manpower = 2 }
+				set_country_flag = coins_map_fix
+				east_indian_ocean_region = {
+					discover_country = ROOT
+				}
+				malaya_region = {
+					discover_country = ROOT
+				}
+				indonesia_region = {
+					discover_country = ROOT
+				}
+				moluccas_region = {
+					discover_country = ROOT
+				}
+				banda_arafura_seas_area = {
+					discover_country = ROOT
+				}
+				2740 = {
+					discover_country = ROOT
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
