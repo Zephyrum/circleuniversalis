@@ -51,3 +51,17 @@
  insult_mcm_11:0 "Are you lost? Phoenicia is in the levant"
  insult_mcm_12:0 "Your worthless slaves are missing more hands than the goddamn pirates!"
  insult_mcm_13:0 "Belgians are just French in denial"
+ 
+ # Decisions
+ mcpolders_in_capital_title:0 "McPolders in the Capital"
+ mcpolders_in_capital_desc:0 "Make McPolders in our capital in order to be able to actually develop it."
+ 
+ mcpolders_in_belgium_title:0 "McPolders in Belgium"
+ mcpolders_in_belgium_desc:0 "Make McPolders in Belgium, just to flex."
+ 
+ # Modifiers
+ mcpolders:0 "McPolders"
+ desc_mcpolders:0 "This province is dotted with McPolders, making it actually development-viable."
+ 
+ mcpolders_fuck_belgium_edition:0 "McPolders"
+ desc_mcpolders_fuck_belgium_edition:0 "This province is dotted with McPolders, a flex over the Belgians."
