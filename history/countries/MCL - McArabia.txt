@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = iqta
+add_government_reform = ottoman_government
 technology_group = muslim
 primary_culture = bedouin_arabic
 religion = ibadi

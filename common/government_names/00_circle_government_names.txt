@@ -141,9 +141,9 @@ mc_titles = {
 	}
 	
 	consort_female = {
-		1 = MCCONSORT
-		2 = MCCONSORT
-		3 = MCCONSORT
+		1 = MCWHORE
+		2 = MCWHORE
+		3 = MCWHORE
 	}
 	
 	trigger = {
