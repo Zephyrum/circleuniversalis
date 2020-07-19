@@ -7,7 +7,7 @@ bookmark = {
 	default = yes
 	
 	country = BEL
-	country = PHO
+	#country = PHO
 	country = CNE
 	country = NRE
 	country = MCL
@@ -16,4 +16,5 @@ bookmark = {
 	country = JEW
 	country = TPG
 	country = VOC
+	#country = OLJ #Korea; fix tag
 }
