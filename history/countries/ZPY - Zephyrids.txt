@@ -33,7 +33,6 @@ change_estate_land_share = {
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
-	add_piety = 0.2
 }
 
 1444.1.1 = {
@@ -46,7 +45,6 @@ change_estate_land_share = {
 		adm = 6
 		dip = 4
 		mil = 5
-		add_piety = 0.2
 	}
 }
 

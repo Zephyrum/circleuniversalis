@@ -1,0 +1,16 @@
+# Pack 1
+
+song = {
+	name = "widezeph"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = ZPY }
+		}	
+		modifier = {
+			factor = 8
+			war_with = ZPY
+		}		
+	}
+}
