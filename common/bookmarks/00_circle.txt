@@ -6,8 +6,8 @@ bookmark = {
 	center = 151
 	default = yes
 	
-	country = BEL
-	#country = PHO
+	#country = BEL #Badassbo left
+	#country = PHO #Franco left
 	country = CNE
 	country = NRE
 	country = MCL
