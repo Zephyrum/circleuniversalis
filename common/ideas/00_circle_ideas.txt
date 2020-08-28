@@ -40,52 +40,6 @@ JEW_ideas = {
 	}
 }
 
-BEL_ideas = {
-	start = {
-		global_prov_trade_power_modifier = 0.10
-		build_cost = -0.10
-	}
-	
-	bonus = {
-		defensiveness = 0.15
-	}
-	
-	trigger = {
-		tag = BEL
-	}
-	
-	free = yes
-	
-	buffer_state = {
-		diplomatic_reputation = 1
-	}
-	
-	flemish_wool = {
-		global_trade_goods_size_modifier = 0.10
-	}
-	
-	flemish_rennaissance = {
-		idea_cost = -0.10
-	}
-	
-	bel_urbanization = {
-		development_cost = -0.10
-	}
-	
-	mons_meg = {
-		artillery_power = 0.10
-	}
-	
-	bel_art = {
-		prestige = 1
-	}
-	
-	bel_industrialization = {
-		production_efficiency = 0.15
-		technology_cost = -0.05
-	}
-}
-
 PRJ_ideas = {
 	start = {
 		tolerance_own = 2
@@ -166,48 +120,6 @@ ZPY_ideas = {
 	}
 	zeph_idea_7 = {
 		discipline = 0.05
-	}
-}
-
-francophoenicia_ideas = {
-	start = {
-		idea_cost = -0.10
-		development_cost = -0.10
-	}
-	bonus = {
-		naval_morale = 0.10
-	}
-	trigger = {
-		tag = PHO
-	}
-	free = yes
-	
-	francophoenicia_idea_1 = {
-		technology_cost = -0.10
-	}
-	
-	francophoenicia_idea_2 = {
-		merchants = 1
-	}
-	
-	francophoenicia_idea_3 = {
-		global_trade_power = 0.15
-	}
-	
-	francophoenicia_idea_4 = {
-		trade_efficiency = 0.10
-	}
-	
-	francophoenicia_idea_5 = {
-		naval_maintenance_modifier = -0.10
-	}
-	
-	francophoenicia_idea_6 = {
-		naval_forcelimit_modifier = 0.33
-	}
-	
-	francophoenicia_idea_7 = {
-		land_morale = 0.10
 	}
 }
 

@@ -65,23 +65,23 @@ insult_mcm_10 = { #McMuller to Zenvue
 	}
 }
 
-insult_mcm_11 = { #McMuller to Franco
-	trigger = {
-		FROM = { tag = MCL }
-		tag = PHO
-	}
-}
-
-insult_mcm_12 = { #McMuller to Bdbo
-	trigger = {
-		FROM = { tag = MCL }
-		tag = BEL
-	}
-}
-
-insult_mcm_13 = { #McMuller to Bdbo
-	trigger = {
-		FROM = { tag = MCL }
-		tag = BEL
-	}
-}
+#insult_mcm_11 = { #McMuller to Franco
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = PHO
+#	}
+#}
+#
+#insult_mcm_12 = { #McMuller to Bdbo
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = BEL
+#	}
+#}
+#
+#insult_mcm_13 = { #McMuller to Bdbo
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = BEL
+#	}
+#}

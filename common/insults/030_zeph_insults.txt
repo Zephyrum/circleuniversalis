@@ -30,12 +30,12 @@ insult_zeph_5 = { #Zeph to Zenvue
 	}
 }
 
-insult_zeph_6 = { #Zeph to Badassbo
-	trigger = {
-		FROM = { tag = ZPY }
-		tag = BEL
-	}
-}
+#insult_zeph_6 = { #Zeph to Badassbo
+#	trigger = {
+#		FROM = { tag = ZPY }
+#		tag = BEL
+#	}
+#}
 
 insult_zeph_7 = { #Zeph to Canoe
 	trigger = {
@@ -72,9 +72,9 @@ insult_zeph_11 = { #Zeph to Coins
 	}
 }
 
-insult_zeph_12 = { #Zeph to Franco
-	trigger = {
-		FROM = { tag = ZPY }
-		tag = PHO
-	}
-}
+#insult_zeph_12 = { #Zeph to Franco
+#	trigger = {
+#		FROM = { tag = ZPY }
+#		tag = PHO
+#	}
+#}
