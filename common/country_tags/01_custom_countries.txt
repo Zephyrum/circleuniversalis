@@ -1,8 +1,0 @@
-JEW = "countries/JewishPirates.txt"
-ZPY = "countries/Zephyrids.txt"
-PRJ = "countries/PresterJohn.txt"
-VOC = "countries/VOC.txt"
-MCL = "countries/McArabia.txt"
-NRE = "countries/NewRomanEmpire.txt"
-CNE = "countries/Canoe.txt"
-TPG = "countries/Taiping.txt"

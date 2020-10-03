@@ -1,6 +1,0 @@
-insult_thrawn_1 = { #Thrawn to Zeph
-	trigger = {
-		FROM = { tag = PRJ }
-		tag = ZPY
-	}
-}
