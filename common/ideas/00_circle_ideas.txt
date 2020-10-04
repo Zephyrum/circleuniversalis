@@ -44,3 +44,41 @@ PRJ_ideas = {
 		discipline = 0.05
 	}
 }
+
+ZPY_ideas = {
+	start = {
+		tolerance_heathen = 3
+		infantry_power = 0.10
+	}
+	
+	bonus = {
+		build_cost = -0.15 #We've been over this
+	}
+	
+	trigger = {
+		tag = ZPY
+	}
+	free = yes
+	
+	zeph_idea_1 = {
+		siege_ability = 0.15
+	}
+	zeph_idea_2 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	zeph_idea_3 = {
+		global_manpower_modifier = 0.20
+	}
+	zeph_idea_4 = {
+		core_creation = -0.10
+	}
+	zeph_idea_5 = {
+		heavy_ship_power = 0.10
+	}
+	zeph_idea_6 = {
+		trade_efficiency = 0.10
+	}
+	zeph_idea_7 = {
+		discipline = 0.05
+	}
+}

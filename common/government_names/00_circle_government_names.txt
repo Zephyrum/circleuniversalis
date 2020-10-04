@@ -1,0 +1,201 @@
+# For specific combinations of culture, religion and other such triggers
+# Will pick the first valid one it finds in list
+
+#Heir and consort titles are generally kept simple for clarity unless there is something special in particular that can be used.
+
+
+zephyrids_ruler_titles = {
+	rank = {
+		1 = ZEPH_BEYLIK
+		2 = ZEPH_BEYLERBEYLIK
+		3 = ZEPH_IMPARATORLUK
+	}
+
+	ruler_male = {
+		1 = ZEPH_BEY
+		2 = ZEPH_CELEBI
+		3 = ZEPH_IMPARATOR
+	}
+
+	ruler_female = {
+		1 = ZEPH_BEYSADE
+		2 = ZEPH_HATUN
+		3 = ZEPH_IMPARATORICE
+	}
+	
+	consort_male = {
+		1 = ZEPH_CELEBI
+		2 = ZEPH_CELEBI
+		3 = ZEPH_CELEBI
+	}
+
+	consort_female = {
+		1 = ZEPH_HATUN
+		2 = ZEPH_HATUN
+		3 = ZEPH_HATUN
+	}
+	
+	heir_male = {
+		1 = ZEPH_SEHZADE
+		2 = ZEPH_SEHZADE
+		3 = ZEPH_SEHZADE
+	}
+	
+	heir_female = {
+		1 = ZEPH_HASEKISULTAN
+		2 = ZEPH_HASEKISULTAN
+		3 = ZEPH_HASEKISULTAN
+	}
+
+	trigger = {
+		government = monarchy
+		tag = ZPY
+	}
+}
+
+zephyrids_vassal_titles = {
+	rank = {
+		1 = ZEPH_DIADOHOI
+		2 = ZEPH_DIADOHOI
+		3 = ZEPH_DIADOHOI
+	}	
+
+	ruler_male = {
+		1 = ZEPH_DIADOHLAR
+		2 = ZEPH_DIADOHLAR
+		3 = ZEPH_DIADOHLAR
+	}
+
+	ruler_female = {
+		1 = ZEPH_DIADOHLAR
+		2 = ZEPH_DIADOHLAR
+		3 = ZEPH_DIADOHLAR
+	}
+	
+	heir_male = {
+		1 = ZEPH_VALIAHAD
+		2 = ZEPH_VALIAHAD
+		3 = ZEPH_VALIAHAD
+	}
+
+	heir_female = {
+		1 = ZEPH_VALIAHAD
+		2 = ZEPH_VALIAHAD
+		3 = ZEPH_VALIAHAD
+	}
+	
+	consort_male = {
+		1 = ZEPH_CELEBI
+		2 = ZEPH_CELEBI
+		3 = ZEPH_CELEBI
+	}
+	
+	consort_female = {
+		1 = ZEPH_HATUN
+		2 = ZEPH_HATUN
+		3 = ZEPH_HATUN
+	}
+	
+	trigger = {
+		overlord = {
+			tag = ZPY
+		}
+	}
+}
+
+mc_titles = {
+	rank = {
+		1 = MCEMIRATE
+		2 = MCSULTANATE
+		3 = MCCALIPHATE
+	}	
+
+	ruler_male = {
+		1 = MCEMIR
+		2 = MCSULTAN
+		3 = MCCALIPH
+	}
+
+	ruler_female = {
+		1 = MCEMIRA
+		2 = MCSULTANA
+		3 = MCCALIPHA
+	}
+	
+	heir_male = {
+		1 = MCHEIR
+		2 = MCHEIR
+		3 = MCHEIR
+	}
+
+	heir_female = {
+		1 = MCHEIRESS
+		2 = MCHEIRESS
+		3 = MCHEIRESS
+	}
+	
+	consort_male = {
+		1 = MCCONSORT
+		2 = MCCONSORT
+		3 = MCCONSORT
+	}
+	
+	consort_female = {
+		1 = MCWHORE
+		2 = MCWHORE
+		3 = MCWHORE
+	}
+	
+	trigger = {
+		tag = MCL
+	}
+}
+
+taiping_ruler_titles = {
+	rank = {
+		1 = HEAVENLYRANK1
+		2 = HEAVENLYRANK2
+		3 = HEAVENLYRANK3
+	}
+
+	ruler_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+
+	ruler_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+	
+	consort_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+
+	consort_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+	
+	heir_male = {
+		1 = HEAVENLYSON
+		2 = HEAVENLYSON
+		3 = HEAVENLYSON
+	}
+	
+	heir_female = {
+		1 = HEAVENLYDAUGHTER
+		2 = HEAVENLYDAUGHTER
+		3 = HEAVENLYDAUGHTER
+	}
+
+	trigger = {
+		government = theocracy
+		tag = TPG
+	}
+}
