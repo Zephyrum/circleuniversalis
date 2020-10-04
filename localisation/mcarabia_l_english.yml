@@ -66,3 +66,7 @@
  
  mcpolders_fuck_belgium_edition:0 "McPolders"
  desc_mcpolders_fuck_belgium_edition:0 "This province is dotted with McPolders, a flex over the Belgians."
+ 
+ # Colonizing
+ COLONIAL_EASTERN_AMERICA_AlAbama:0 "Al-Abama"
+ COLONIAL_EASTERN_AMERICA_AlAbama_ADJ:0 "Al-Abaman"
