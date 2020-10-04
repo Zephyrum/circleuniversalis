@@ -1,3 +1,4 @@
 PRJ = "countries/PresterJohn.txt"
 ZPY = "countries/Zephyrids.txt"
 MCL = "countries/McArabia.txt"
+JEW = "countries/JewishPirates.txt"
