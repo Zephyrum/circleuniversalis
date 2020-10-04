@@ -1,0 +1,17 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+circle_government_capacity = {
+	governing_capacity = 400
+}
+
+mcpolders = {
+	local_build_cost = -0.10
+	local_development_cost = -0.25
+}
+
+mcpolders_fuck_belgium_edition = {
+	local_build_cost = -0.10
+	local_development_cost = -0.10
+}
