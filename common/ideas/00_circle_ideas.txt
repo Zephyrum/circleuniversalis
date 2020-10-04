@@ -127,3 +127,43 @@ mcarab_ideas = {
 		fire_damage_received = -0.10
 	}
 }
+
+JEW_ideas = {
+	start = {
+		light_ship_cost = -0.25
+		may_perform_slave_raid_on_same_religion = yes
+	}
+	
+	bonus = {
+		infantry_power = 0.10
+	}
+	
+	trigger = {
+		tag = JEW
+	}
+	free = yes
+	
+	jew_idea_1 = {
+		global_ship_recruit_speed = -0.20
+		naval_maintenance_modifier = -0.10
+	}
+	jew_idea_2 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	jew_idea_3 = {
+		leader_naval_fire = 1
+	}
+	jew_idea_4 = {
+		development_cost = -0.10
+	}
+	jew_idea_5 = {
+		naval_morale = 0.15
+	}
+	jew_idea_6 = {
+		naval_forcelimit_modifier = 0.20
+		ship_durability = 0.05
+	}
+	jew_idea_7 = {
+		leader_naval_manuever = 1
+	}
+}
