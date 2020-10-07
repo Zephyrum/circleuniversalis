@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.20 #I'm very insistent
+		build_cost = -0.15 # And so am I
 	}
 	
 	trigger = {
@@ -165,5 +165,47 @@ JEW_ideas = {
 	}
 	jew_idea_7 = {
 		leader_naval_manuever = 1
+	}
+}
+
+taiping_ideas = {
+	start = {
+		global_missionary_strength = 0.02
+		infantry_power = 0.10
+	}
+	bonus = {
+		administrative_efficiency = 0.05
+	}
+	trigger = {
+		tag = TPG
+	}
+	free = yes
+	
+	taiping_idea_1 = {
+		province_warscore_cost = -0.20
+	}
+	
+	taiping_idea_2 = {
+		global_unrest = -2
+	}
+	
+	taiping_idea_3 = {
+		missionaries = 1
+	}
+	
+	taiping_idea_4 = {
+		core_creation = -0.10
+	}
+	
+	taiping_idea_5 = {
+		global_tax_modifier = 0.10
+	}
+	
+	taiping_idea_6 = {
+		yearly_corruption = -0.20
+	}
+	
+	taiping_idea_7 = {
+		development_cost = -0.15
 	}
 }
