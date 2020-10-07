@@ -1,0 +1,20 @@
+bookmark = {
+	name = "MCMULLER_IS_GAY"
+	desc = "MCMULLER_IS_GAY_DESC"
+	date = 1444.11.11
+	
+	center = 151
+	default = yes
+	
+	#country = BEL #Badassbo left
+	#country = PHO #Franco left
+	country = CNE #Canoe
+	#country = NRE #Raka left
+	country = MCL #McMuller
+	country = PRJ #Thrawn
+	country = ZPY #Zeph
+	country = JEW #Zenvue
+	country = TPG #Taiping
+	country = VOC #Coins
+	#country = OLJ #Oljo didn't end up joining
+}
