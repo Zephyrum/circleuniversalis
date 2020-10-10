@@ -42,8 +42,7 @@ country_event = {
 	
 	option = {
 		name = "ming_taiping_war.2.opta"
-		declare_war_with_cb = {
-			who = MNG
-			cb = cb_crusade
+		grant_independence = yes
+		declare_war = MNG
 	}
 }

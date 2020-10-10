@@ -12,5 +12,8 @@ country_decisions = {
 			TPG = { country_event = { id = ming_taiping_war.1 } }
 			add_prestige = 10
 		}
+		ai_will_do = {
+			factor = 1000
+		}
 	}
 }
