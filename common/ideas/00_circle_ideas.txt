@@ -209,3 +209,46 @@ taiping_ideas = {
 		development_cost = -0.15
 	}
 }
+
+CNE_ideas = {
+	start = {
+		army_tradition = 0.5
+		shock_damage = 0.15
+	}
+	bonus = {
+		ae_impact = -0.15
+	}
+	trigger = {
+		tag = CNE
+	}
+	free = yes
+	
+	CNE_idea_1 = {
+		global_manpower_modifier = 0.20
+	}
+	
+	CNE_idea_2 = {
+		siege_ability = 0.10
+	}
+	
+	CNE_idea_3 = {
+		global_tax_modifier = 0.20
+	}
+	
+	CNE_idea_4 = {
+		discipline = 0.05
+	}
+	
+	CNE_idea_5 = {
+		trade_efficiency = 0.10
+	}
+	
+	CNE_idea_6 = {
+		technology_cost = -0.10
+	}
+	
+	CNE_idea_7 = {
+		global_ship_cost = -0.10
+		global_ship_recruit_speed = -0.10
+	}
+}
