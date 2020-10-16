@@ -134,3 +134,73 @@ insult_zeph_20 = { #Zeph to McMuller
 		tag = MCL
 	}
 }
+
+insult_zeph_21 = { #Zeph to Stewie
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = TPG
+	}
+}
+
+insult_zeph_22 = { #Zeph to Stewie
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = TPG
+	}
+}
+
+insult_zeph_23 = { #Zeph to Stewie
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = TPG
+	}
+}
+
+insult_zeph_24 = { #Zeph to Stewie
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = TPG
+	}
+}
+
+insult_zeph_25 = { #Zeph to Marco
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = ACE
+	}
+}
+
+insult_zeph_26 = { #Zeph to Ox, needs tag fixing later
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = OTA
+	}
+}
+
+insult_zeph_27 = { #Zeph to Ox, needs tag fixing later
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = OTA
+	}
+}
+
+insult_zeph_28 = { #Zeph to Ox, needs tag fixing later
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = OTA
+	}
+}
+
+insult_zeph_29 = { #Zeph to Ox, needs tag fixing later
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = OTA
+	}
+}
+
+insult_zeph_30 = { #Zeph to Ox, needs tag fixing later
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = OTA
+	}
+}
