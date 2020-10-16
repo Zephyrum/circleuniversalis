@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.20 # Impressively tenacious, aren't you?
+		build_cost = -0.15 # Yes
 	}
 	
 	trigger = {
@@ -250,5 +250,47 @@ CNE_ideas = {
 	CNE_idea_7 = {
 		global_ship_cost = -0.10
 		global_ship_recruit_speed = -0.10
+	}
+}
+
+ACE_ideas = { # I still think we need to even out the numbers on this one
+	start = {
+		naval_maintenance_modifier = -0.15
+		merc_maintenance_modifier = -0.5
+	}
+	bonus = {
+		heavy_ship_power = 0.15
+	}
+	trigger = {
+		tag = ACE
+	}
+	free = yes
+	
+	ACE_idea_1 = {
+		global_trade_power = 0.15
+	}
+	
+	ACE_idea_2 = {
+		global_trade_goods_size_modifier = 0.15
+	}
+	
+	ACE_idea_3 = {
+		colonists = 1
+	}
+	
+	ACE_idea_4 = {
+		global_ship_trade_power = 0.1
+	}
+	
+	ACE_idea_5 = {
+		privateer_efficiency = 0.25
+	}
+	
+	ACE_idea_6 = {
+		mercenary_discipline = 0.05
+	}
+	
+	ACE_idea_7 = {
+		mercenary_manpower = 0.25
 	}
 }
