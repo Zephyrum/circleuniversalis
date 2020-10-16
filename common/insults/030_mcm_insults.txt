@@ -1,0 +1,87 @@
+insult_mcm_1 = { #McMuller Generic send
+	trigger = {
+		FROM = { tag = MCL }
+	}
+}
+
+insult_mcm_2 = { #McMuller Generic receive
+	trigger = {
+		tag = MCL
+	}
+}
+
+insult_mcm_3 = { #McMuller Generic send
+	trigger = {
+		FROM = { tag = MCL }
+	}
+}
+
+insult_mcm_4 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCL }
+		tag = JEW
+	}
+}
+
+insult_mcm_5 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCL }
+		tag = ZPY
+	}
+}
+
+insult_mcm_6 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCL }
+		tag = ZPY
+	}
+}
+
+insult_mcm_7 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCL }
+		tag = ZPY
+	}
+}
+
+#insult_mcm_8 = { #McMuller to Coins
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = VOC
+#	}
+#}
+
+insult_mcm_9 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCL }
+		tag = JEW
+	}
+}
+
+insult_mcm_10 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCL }
+		tag = JEW
+	}
+}
+
+#insult_mcm_11 = { #McMuller to Franco
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = PHO
+#	}
+#}
+#
+#insult_mcm_12 = { #McMuller to Bdbo
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = BEL
+#	}
+#}
+#
+#insult_mcm_13 = { #McMuller to Bdbo
+#	trigger = {
+#		FROM = { tag = MCL }
+#		tag = BEL
+#	}
+#}

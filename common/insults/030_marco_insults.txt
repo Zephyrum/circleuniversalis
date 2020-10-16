@@ -1,0 +1,11 @@
+insult_marco_1 = { #Marco Generic send
+	trigger = {
+		FROM = { tag = ACE }
+	}
+}
+
+insult_marco_2 = { #Marco Generic receive
+	trigger = {
+		tag = ACE
+	}
+}
