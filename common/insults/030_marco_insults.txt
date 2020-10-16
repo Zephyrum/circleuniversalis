@@ -4,8 +4,15 @@ insult_marco_1 = { #Marco Generic send
 	}
 }
 
-insult_marco_2 = { #Marco Generic receive
+insult_marco_2 = { #Marco Generic send
 	trigger = {
-		tag = ACE
+		FROM = { tag = ACE }
+	}
+}
+
+insult_marco_3 = { #Marco to Zeph
+	trigger = {
+		FROM = { tag = ACE }
+		tag = ZPY
 	}
 }
