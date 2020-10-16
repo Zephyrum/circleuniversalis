@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.15 # And so am I
+		build_cost = -0.20 # Impressively tenacious, aren't you?
 	}
 	
 	trigger = {
