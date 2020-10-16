@@ -58,19 +58,19 @@ insult_zeph_9 = { #Zeph to McMuller
 	}
 }
 
-insult_zeph_10 = { #Zeph to Coins
-	trigger = {
-		FROM = { tag = ZPY }
-		tag = VOC #replace with coins' tag
-	}
-}
+#insult_zeph_10 = { #Zeph to Coins
+#	trigger = {
+#		FROM = { tag = ZPY }
+#		tag = VOC #replace with coins' tag
+#	}
+#}
 
-insult_zeph_11 = { #Zeph to Coins
-	trigger = {
-		FROM = { tag = ZPY }
-		tag = VOC #replace with coins' tag
-	}
-}
+#insult_zeph_11 = { #Zeph to Coins
+#	trigger = {
+#		FROM = { tag = ZPY }
+#		tag = VOC #replace with coins' tag
+#	}
+#}
 
 #insult_zeph_12 = { #Zeph to Franco
 #	trigger = {
@@ -78,3 +78,59 @@ insult_zeph_11 = { #Zeph to Coins
 #		tag = PHO
 #	}
 #}
+
+insult_zeph_13 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
+
+insult_zeph_14 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
+
+insult_zeph_15 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
+
+insult_zeph_16 = { #Zeph to Undead
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = UDW
+	}
+}
+
+insult_zeph_17 = { #Zeph to Undead
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = UDW
+	}
+}
+
+insult_zeph_18 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
+
+insult_zeph_19 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
+
+insult_zeph_20 = { #Zeph to McMuller
+	trigger = {
+		FROM = { tag = ZPY }
+		tag = MCL
+	}
+}
