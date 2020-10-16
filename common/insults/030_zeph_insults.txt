@@ -103,14 +103,14 @@ insult_zeph_15 = { #Zeph to McMuller
 insult_zeph_16 = { #Zeph to Undead
 	trigger = {
 		FROM = { tag = ZPY }
-		tag = UDW
+		tag = CTH
 	}
 }
 
 insult_zeph_17 = { #Zeph to Undead
 	trigger = {
 		FROM = { tag = ZPY }
-		tag = UDW
+		tag = CTH
 	}
 }
 

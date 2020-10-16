@@ -19,5 +19,5 @@ bookmark = {
 	#country = OLJ #Oljo didn't end up joining
 	country = ACE #Marco
 	#country = OTA #Ox; uncomment when implemented
-	#country = UDW #Undead; uncomment when implemented
+	#country = CTH #Undead; uncomment when implemented
 }

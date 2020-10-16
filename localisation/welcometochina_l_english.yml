@@ -42,3 +42,15 @@
  insult_stewie_9:0 "Get off my lawn."
  insult_stewie_10:0 "Pizza rolls are just italian gushers"
  insult_stewie_11:0 "I am big."
+ 
+ # Getting fucked by Ming train
+ start_war_process_title:0 "Start War Process"
+ start_war_process_desc:0 "Buckle up Stewie, I'm coming to Mingle with you."
+ 
+ ming_taiping_war.1.title:0 "You're about to get dicked"
+ ming_taiping_war.1.desc:0 "The Ming will forcibly break their tributary 10 years after this event fires. I hope you're ready, Stewie, it's gonna fucking happen."
+ ming_taiping_war.1.opta:0 "Advice from Zeph: Build up your navy! 15-25 heavies should work."
+ 
+ ming_taiping_war.2.title:0 "Ding Dong your country is wrong"
+ ming_taiping_war.2.desc:0 "The Ming have come to take their rent. I hope you're ready."
+ ming_taiping_war.2.opta:0 "Oh God, oh fuck."
