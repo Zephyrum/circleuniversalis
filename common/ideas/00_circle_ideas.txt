@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.15 # Yes
+		build_cost = -0.189 # Let's reach a compromise
 	}
 	
 	trigger = {
