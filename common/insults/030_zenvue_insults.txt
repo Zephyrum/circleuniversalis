@@ -1,0 +1,115 @@
+insult_zenvue_1 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_2 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_3 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_4 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_5 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_6 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_7 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_8 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_9 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_10 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_11 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_12 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_13 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_14 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_15 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_16 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_17 = { #Zenvue Generic
+	trigger = {
+		FROM = { tag = JEW }
+	}
+}
+
+insult_zenvue_18 = { #Zenvue to McMuller
+	trigger = {
+		FROM = { tag = JEW }
+		tag = MCL
+	}
+}
+
+insult_zenvue_19 = { #Zenvue to Zeph
+	trigger = {
+		FROM = { tag = JEW }
+		tag = ZPY
+	}
+}

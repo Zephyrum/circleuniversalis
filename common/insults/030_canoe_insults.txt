@@ -1,0 +1,17 @@
+insult_canoe_1 = { #Canoe Generic send
+	trigger = {
+		FROM = { tag = CNE }
+	}
+}
+
+insult_canoe_2 = { #Canoe Generic receive
+	trigger = {
+		tag = CNE
+	}
+}
+
+insult_canoe_3 = { #Canoe Generic send
+	trigger = {
+		FROM = { tag = CNE }
+	}
+}

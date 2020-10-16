@@ -15,6 +15,9 @@ bookmark = {
 	country = ZPY #Zeph
 	country = JEW #Zenvue
 	country = TPG #Taiping
-	country = VOC #Coins
+	#country = VOC #Coins left
 	#country = OLJ #Oljo didn't end up joining
+	country = ACE #Marco
+	#country = OTA #Ox; uncomment when implemented
+	#country = UDW #Undead; uncomment when implemented
 }
