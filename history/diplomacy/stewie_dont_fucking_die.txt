@@ -7,3 +7,11 @@ dependency = {
 	start_date = 1444.1.1
 	end_date = 1444.12.12
 }
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MNG
+	second = CTH
+	start_date = 1444.1.1
+	end_date = 1644.4.22
+}

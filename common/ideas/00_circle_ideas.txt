@@ -53,6 +53,7 @@ ZPY_ideas = {
 	
 	bonus = {
 		build_cost = -0.20 # AND ONE MORE THING
+		build_cost = 0.05 # And that is?
 	}
 	
 	trigger = {
@@ -292,5 +293,47 @@ ACE_ideas = { # I still think we need to even out the numbers on this one
 	
 	ACE_idea_7 = {
 		mercenary_manpower = 0.25
+	}
+}
+
+notkorea_ideas = {
+	start = {
+		leader_naval_manuever = 2
+		monarch_admin_power = 1
+	}
+	bonus = {
+		discipline = 0.05
+	}
+	trigger = {
+		tag = CTH
+	}
+	free = yes
+	
+	no_fear_of_food = {
+		land_morale = 0.1
+	}
+	
+	japanese_bureaucracy = {
+		administrative_efficiency = 0.05
+	}
+	
+	tentacled_ships = {
+		naval_morale = 0.1
+	}
+	
+	superior_korea = {
+		infantry_power = 0.1
+	}
+	
+	big_korean_guns = {
+		artillery_power = 0.05
+	}
+	
+	power_of_cthulhu = {
+		ship_durability = 0.1	
+	}
+	
+	big_naval_lines {
+		global_naval_engagement_modifier = 0.1	
 	}
 }
