@@ -1,0 +1,83 @@
+insult_ox_1 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_2 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_3 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_4 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_5 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_6 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_7 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_8 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_9 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_10 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_11 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_12 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_13 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}
+
+insult_ox_14 = { #Ox Generic
+	trigger = {
+		FROM = { tag = OTA }
+	}
+}

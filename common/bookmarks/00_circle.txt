@@ -10,14 +10,14 @@ bookmark = {
 	#country = PHO #Franco left
 	country = CNE #Canoe
 	#country = NRE #Raka left
+	country = OTA #Ox
 	country = MCL #McMuller
 	country = PRJ #Thrawn
 	country = ZPY #Zeph
 	country = JEW #Zenvue
+	country = ACE #Marco
 	country = TPG #Taiping
 	#country = VOC #Coins left
 	#country = OLJ #Oljo didn't end up joining
-	country = ACE #Marco
-	#country = OTA #Ox; uncomment when implemented
 	country = CTH #Undead
 }
