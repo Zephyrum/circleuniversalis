@@ -1,0 +1,87 @@
+namespace = minor_vision_tweaks
+
+country_event = {
+	id = minor_vision_tweaks.1 # For some reason this file needs to start with 3 to work
+	title = "minor_vision_tweaks.EVTNAME1"
+	desc = "minor_vision_tweaks.EVTDESC1"
+	picture = EXPLORERS_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ACE
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = "minor_vision_tweaks.EVTOPTA1"
+		574 = { discover_country = ACE }
+		632 = { discover_country = ACE }
+		633 = { discover_country = ACE }
+		634 = { discover_country = ACE }
+		635 = { discover_country = ACE }
+		641 = { discover_country = ACE }
+		642 = { discover_country = ACE }
+		643 = { discover_country = ACE }
+		644 = { discover_country = ACE }
+		645 = { discover_country = ACE }
+		646 = { discover_country = ACE }
+		647 = { discover_country = ACE }
+		648 = { discover_country = ACE }
+		649 = { discover_country = ACE }
+		650 = { discover_country = ACE }
+		655 = { discover_country = ACE }
+		1350 = { discover_country = ACE }
+		1351 = { discover_country = ACE }
+		1352 = { discover_country = ACE }
+		1353 = { discover_country = ACE }
+		1354 = { discover_country = ACE }
+		1355 = { discover_country = ACE }
+		1356 = { discover_country = ACE }
+		1367 = { discover_country = ACE }
+		1394 = { discover_country = ACE }
+		1400 = { discover_country = ACE }
+		1401 = { discover_country = ACE }
+		2683 = { discover_country = ACE }
+		2684 = { discover_country = ACE }
+		2693 = { discover_country = ACE }
+		2695 = { discover_country = ACE }
+		2696 = { discover_country = ACE }
+		2713 = { discover_country = ACE }
+		2714 = { discover_country = ACE }
+		2715 = { discover_country = ACE }
+		2716 = { discover_country = ACE }
+		2717 = { discover_country = ACE }
+		2740 = { discover_country = ACE }
+		4356 = { discover_country = ACE }
+		add_sailors = -100
+	}
+}
+
+country_event = {
+	id = minor_vision_tweaks.2
+	title = "minor_vision_tweaks.EVTNAME2"
+	desc = "minor_vision_tweaks.EVTDESC2"
+	picture = ACCUSATION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		has_idea = zeph_idea_7
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = "minor_vision_tweaks.EVTOPTA2"
+		add_country_modifier = {
+			name = prestige_from_seeing_stuff
+			duration = -1
+		}
+	}
+}

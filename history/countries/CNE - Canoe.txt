@@ -1,15 +1,14 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = polish
+primary_culture = transylvanian
 religion = orthodox
 technology_group = eastern
-capital = 41 #Königsberg... or rather, Canoesberg
-add_accepted_culture = prussian
+capital = 4127
 
 1444.1.1 = {
 	monarch = {
 		name = "Canoe"
-		dynasty = "Wójcik"
+		dynasty = "Wojicula"
 		birth_date = 1415.3.15
 		death_date = 1500.1.1
 		adm = 3
@@ -22,7 +21,7 @@ add_accepted_culture = prussian
 	heir = {
 		name = "Canoe"
 		monarch_name = "Canoe II"
-		dynasty = "Wójcik"
+		dynasty = "Wojicula"
 		birth_date = 1430.3.15
 		death_date = 1500.1.15
 		claim = 95

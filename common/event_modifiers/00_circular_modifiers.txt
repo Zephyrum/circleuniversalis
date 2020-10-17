@@ -15,3 +15,7 @@ mcpolders_fuck_belgium_edition = {
 	local_build_cost = -0.10
 	local_development_cost = -0.10
 }
+
+prestige_from_seeing_stuff = {
+	build_cost = 0.05
+}

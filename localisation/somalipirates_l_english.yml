@@ -27,3 +27,12 @@
  insult_marco_1:0 "LOOK AT ME, I AM DA CAPTAIN NOW"
  insult_marco_2:0 "FUCK OFF FROM MY SHORES YOU FISH STEALING, TWINKLE TOED MOTHERFUCKER! INSHALLAH YOU WILL BURN! ALLAH AKBAR!"
  insult_marco_3:0 "Bicha"
+ 
+ # Events
+ minor_vision_tweaks.EVTNAME1:0 "Exploring Indonesia"
+ minor_vision_tweaks.EVTDESC1:0 "We unfortunately do not know our new home as much as we'd like, with many islands still remaining undiscovered. As such, we have begun a new program of discovery: send thousands of boats out in every direction and tell them to return after finding land. If they die and do not return, we know that there is no land."
+ minor_vision_tweaks.EVTOPTA1:0 "New lands await!"
+ minor_vision_tweaks.EVTNAME2:0 "Zeph v Thrawn"
+ minor_vision_tweaks.EVTDESC2:0 "Zeph smiled smugly, he had once more altered the ideas file to read build_cost = -0.2, the game would have no choice but to give him his desired modifier. His calm was suddenly broken when Thrawn shouted \"Hold it!\" waving a piece of paper that read \"Zeph v Thrawn\", that had been hidden in the games code. Sweat began pouring down Zeph's face as Thrawn read the effects of the event. He had lost. Shaking in rage, Zeph could only say one thing:"
+ minor_vision_tweaks.EVTOPTA2:0 "THRAAAAAAWN!"
+ prestige_from_seeing_stuff:0 "Building prices are through the roof!"
