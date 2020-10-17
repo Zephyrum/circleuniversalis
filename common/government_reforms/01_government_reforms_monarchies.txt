@@ -653,6 +653,7 @@ mamluk_government = {
 				NOT = { map_setup = map_setup_random }
 			}
 			have_had_reform = mamluk_government
+			tag = OTA
 		}
 	}
 	legacy_equivalent = mamluk_government_legacy
