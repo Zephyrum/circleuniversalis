@@ -336,3 +336,43 @@ notkorea_ideas = {
 		global_naval_engagement_modifier = 0.1	
 	}
 }
+
+OTA_ideas = {
+	start = {
+		land_morale = 0.15
+		land_forcelimit = 0.25
+	}
+	
+	bonus = {
+	 	production_efficiency = 0.15
+	}
+	
+	trigger = {
+		tag = OTA
+	}
+	free = yes		#will be added at load.
+	
+	OTA_idea_1 = {
+		global_tax_modifier = 0.20
+	}
+	OTA_idea_2 = {
+		tolerance_heretic = 3
+	}
+	OTA_idea_3 = {
+		global_manpower_modifier = 0.25
+	}
+	OTA_idea_4 = {
+		cavalry_power = 0.25
+		cav_to_inf_ratio = 0.25
+		cavalry_cost = -0.25
+	}
+	OTA_idea_5 = {
+		global_regiment_cost = -0.10
+	}
+	OTA_idea_6 = {
+		discipline = 0.05
+	}
+	OTA_idea_7 = {
+		navy_tradition = 1
+	}
+}
