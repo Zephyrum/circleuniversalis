@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.15 # I accept your challenge, I shall prevail over you!
+		build_cost = -0.20 # OSOI!!
 	}
 	
 	trigger = {
