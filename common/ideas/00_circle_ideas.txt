@@ -340,7 +340,7 @@ notkorea_ideas = {
 OTA_ideas = {
 	start = {
 		land_morale = 0.15
-		land_forcelimit = 0.25
+		land_forcelimit_modifier = 0.25
 	}
 	
 	bonus = {
