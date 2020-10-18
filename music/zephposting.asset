@@ -14,16 +14,6 @@ music = {
 }
 
 music = {
-	name = "Fourth Season"
-	file = "fourthseason.ogg"
-}
-
-music = {
-	name = "Devil"
-	file = "devil.ogg"
-}
-
-music = {
 	name = "Dombra"
 	file = "dombra.ogg"
 }
