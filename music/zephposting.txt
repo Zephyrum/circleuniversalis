@@ -46,6 +46,42 @@ song = {
 }
 
 song = {
+	name = "Fourth Season"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			OR = {
+				NOT = { war_with = CNE }
+				NOT = { war_with = OTA }
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				war_with = CNE
+				war_with = OTA
+			}
+		}
+	}
+}
+
+song = {
+	name = "Devil"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = CTH }
+		}	
+		modifier = {
+			factor = 4
+			war_with = CTH
+		}
+	}
+}
+
+song = {
 	name = "Dombra"
 	
 	chance = {
