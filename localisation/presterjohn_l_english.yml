@@ -28,3 +28,7 @@
  
  # Insults
  insult_thrawn_1:0 "Are you sure that Zepheristan isn't ruled by a fairy?"
+ 
+ # Decisions
+ make_tehran_capital_title:0 "Make Tehran Capital"
+ make_tehran_capital_desc:0 "We have managed to reclaim Tehran after the Mongol Hordes conquered the city and devastated it. We must once more make it the capital of our great kingdom, and restore it to its former glory."
