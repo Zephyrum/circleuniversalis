@@ -52,7 +52,7 @@ ZPY_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.15 # No.
+		build_cost = -0.20 # You're not gonna win, we'll be here together, fighting in this judgement hall forever~
 	}
 	
 	trigger = {
