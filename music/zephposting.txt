@@ -1,7 +1,22 @@
 # Pack 1
 
 song = {
-	name = "widezeph"
+	name = "Wide Muller"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = MCL }
+		}	
+		modifier = {
+			factor = 4
+			war_with = MCL
+		}
+	}
+}
+
+song = {
+	name = "Rumor Theater"
 	
 	chance = {
 		modifier = {
@@ -9,8 +24,89 @@ song = {
 			NOT = { war_with = ZPY }
 		}	
 		modifier = {
-			factor = 8
+			factor = 4
 			war_with = ZPY
-		}		
+		}
+	}
+}
+
+song = {
+	name = "He's a Pirate"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = JEW }
+		}	
+		modifier = {
+			factor = 4
+			war_with = JEW
+		}
+	}
+}
+
+song = {
+	name = "Fourth Season"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			OR = {
+				NOT = { war_with = CNE }
+				NOT = { war_with = OTA }
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				war_with = CNE
+				war_with = OTA
+			}
+		}
+	}
+}
+
+song = {
+	name = "Devil"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = CTH }
+		}	
+		modifier = {
+			factor = 4
+			war_with = CTH
+		}
+	}
+}
+
+song = {
+	name = "Dombra"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = TPG }
+		}	
+		modifier = {
+			factor = 4
+			war_with = TPG
+		}
+	}
+}
+
+song = {
+	name = "Cripple Creek"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = PRJ }
+		}	
+		modifier = {
+			factor = 4
+			war_with = PRJ
+		}
 	}
 }
