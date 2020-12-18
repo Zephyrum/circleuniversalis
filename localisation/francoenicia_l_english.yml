@@ -1,0 +1,35 @@
+﻿l_english:
+
+ # Info
+ PHO:0 "Phoenicia"
+ PHO_ADJ:0 "Phoenician"
+
+ # Ideas
+ francophoenicia_ideas:0 "Phoenician Ideas"
+ francophoenicia_ideas_start:0 "Phoenician Traditions"
+ francophoenicia_ideas_bonus:0 "Phoenician Ambition"
+ francophoenicia_idea_1:0 "The Abjad"
+ francophoenicia_idea_1_desc:0 "The Abjad, mother of western alphabets simplifies the understanding and adaptation of other neighboring cultures' advances."
+ francophoenicia_idea_2:0 "Phoenician Mercantilism"
+ francophoenicia_idea_2_desc:0 "The remnants of our centuries old mercantile empire has left a few notable characters with an understanding of money available for hiring."
+ francophoenicia_idea_3:0 "Craftsmanship"
+ francophoenicia_idea_3_desc:0 "Phoenician luxury goods, be it silver or glass, and many more, all serve as our landmark craftmanship that has captivated the world's markets."
+ francophoenicia_idea_4:0 "Purple Purple Purple"
+ francophoenicia_idea_4_desc:0 "Purple dye, purple people, purple money."
+ francophoenicia_idea_5:0 "Ancient Shipbuilders"
+ francophoenicia_idea_5_desc:0 "Byblos' ancient knowledge of shipbuilding has survived amongst our skilled engineers working in our dockyards."
+ francophoenicia_idea_6:0 "Boats Everywhere"
+ francophoenicia_idea_6_desc:0 "Traveling to Britain and Morocco, some even to America, our skilled marines are amongst the best in the world."
+ francophoenicia_idea_7:0 "Marines of Phoenicia"
+ francophoenicia_idea_7_desc:0 "At some point the marines disembark. Fiercely trained by the sea, the land is just a mere extension of the surrounding water."
+ 
+ # Titles
+ #francophoenicia_RANK_1_GOVERNMENT:0 "Duchy"
+ #francophoenicia_RANK_2_GOVERNMENT:0 "Kingdom"
+ #francophoenicia_RANK_3_GOVERNMENT:0 "Empire"
+ 
+ # Insults
+ #insult_francophoenicia_1:0 ""
+ #insult_francophoenicia_2:0 ""
+ #insult_francophoenicia_3:0 ""
+ #insult_francophoenicia_4:0 ""

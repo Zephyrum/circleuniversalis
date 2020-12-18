@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = phoenician
+capital = 4736
+
+1444.1.1 = {
+	monarch = {
+		name = "Pygmalion"
+		dynasty = "Phoenix"
+		birth_date = 1392.3.20
+		adm = 6
+		dip = 6
+		mil = 1
+	}
+}

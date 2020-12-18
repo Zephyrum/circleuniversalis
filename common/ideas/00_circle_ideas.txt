@@ -376,3 +376,175 @@ OTA_ideas = {
 		navy_tradition = 1
 	}
 }
+
+BEL_ideas = {
+	start = {
+		global_prov_trade_power_modifier = 0.10
+		build_cost = -0.10
+	}
+	
+	bonus = {
+		defensiveness = 0.15
+	}
+	
+	trigger = {
+		tag = BEL
+	}
+	
+	free = yes
+	
+	buffer_state = {
+		diplomatic_reputation = 1
+	}
+	
+	flemish_wool = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	
+	flemish_rennaissance = {
+		idea_cost = -0.10
+	}
+	
+	bel_urbanization = {
+		development_cost = -0.10
+	}
+	
+	mons_meg = {
+		artillery_power = 0.10
+	}
+	
+	bel_art = {
+		prestige = 1
+	}
+	
+	bel_industrialization = {
+		production_efficiency = 0.15
+		technology_cost = -0.05
+	}
+}
+
+francophoenicia_ideas = {
+	start = {
+		idea_cost = -0.10
+		development_cost = -0.10
+	}
+	bonus = {
+		naval_morale = 0.10
+	}
+	trigger = {
+		tag = PHO
+	}
+	free = yes
+	
+	francophoenicia_idea_1 = {
+		technology_cost = -0.10
+	}
+	
+	francophoenicia_idea_2 = {
+		merchants = 1
+	}
+	
+	francophoenicia_idea_3 = {
+		global_trade_power = 0.15
+	}
+	
+	francophoenicia_idea_4 = {
+		trade_efficiency = 0.10
+	}
+	
+	francophoenicia_idea_5 = {
+		naval_maintenance_modifier = -0.10
+	}
+	
+	francophoenicia_idea_6 = {
+		naval_forcelimit_modifier = 0.33
+	}
+	
+	francophoenicia_idea_7 = {
+		land_morale = 0.10
+	}
+}
+
+vocoins_ideas = {
+	start = {
+		manpower_recovery_speed = 0.20
+		idea_cost = -0.10
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = VOC
+	}
+	free = yes
+	
+	vocoins_idea_1 = {
+		naval_morale = 0.15
+	}
+	
+	vocoins_idea_2 = {
+		prestige = 1
+	}
+	
+	vocoins_idea_3 = {
+		colonists = 1
+	}
+	
+	vocoins_idea_4 = {
+		trade_efficiency = 0.10
+	}
+	
+	vocoins_idea_5 = {
+		global_colonial_growth = 20
+	}
+	
+	vocoins_idea_6 = {
+		trade_steering = 0.20
+	}
+	
+	vocoins_idea_7 = {
+		diplomatic_reputation = 2
+	}
+}
+
+NRE_ideas = {
+	start = {
+		global_trade_goods_size_modifier = 0.10
+		discipline = 0.05
+	}
+	bonus = {
+		army_tradition = 0.5
+	}
+	trigger = {
+		tag = NRE
+	}
+	free = yes
+	
+	NRE_idea_1 = {
+		land_morale = 0.10
+	}
+	
+	NRE_idea_2 = {
+		global_missionary_strength = 0.02
+	}
+	
+	NRE_idea_3 = {
+		production_efficiency = 0.10
+	}
+	
+	NRE_idea_4 = {
+		land_forcelimit_modifier = 0.20
+	}
+	
+	NRE_idea_5 = {
+		shock_damage = 0.10
+	}
+	
+	NRE_idea_6 = {
+		leader_land_shock = 1
+	}
+	
+	NRE_idea_7 = {
+		global_manpower_modifier = 0.20
+	}
+}

@@ -1,0 +1,35 @@
+﻿l_english:
+
+ # Info
+ NRE:0 "New Roman Empire"
+ NRE_ADJ:0 "New Roman"
+
+ # Ideas
+ NRE_ideas:0 "New Roman Ideas"
+ NRE_ideas_ideas_start:0 "New Roman Trditions"
+ NRE_ideas_ideas_bonus:0 "New Roman Ambitions"
+ NRE_idea_1:0 "Group up and hit it til it dies"
+ NRE_idea_1_desc:0 "Self-explanatory title."
+ NRE_idea_2:0 "Fuck other religions"
+ NRE_idea_2_desc:0 "Just be Orthodox lol"
+ NRE_idea_3:0 "Stonks"
+ NRE_idea_3_desc:0 "Make money."
+ NRE_idea_4:0 "Hire more fodder"
+ NRE_idea_4_desc:0 "Let the bodies hit the floor."
+ NRE_idea_5:0 "Telling soldiers to hit harder"
+ NRE_idea_5_desc:0 "Probably doesn't work, but we can try."
+ NRE_idea_6:0 "Hitting coaches"
+ NRE_idea_6_desc:0 "Hire some coaches on hitting so our soldiers hit harder."
+ NRE_idea_7:0 "Find more fodder"
+ NRE_idea_7_desc:0 "LET THE BODIES HIT THE FLOOOOOOOOOOR!"
+ 
+ # Titles
+ #TEMPLATE_RANK_1_GOVERNMENT:0 "Duchy"
+ #TEMPLATE_RANK_2_GOVERNMENT:0 "Kingdom"
+ #TEMPLATE_RANK_3_GOVERNMENT:0 "Empire"
+ 
+ # Insults
+ #insult_template_1:0 ""
+ #insult_template_2:0 ""
+ #insult_template_3:0 ""
+ #insult_template_4:0 ""
