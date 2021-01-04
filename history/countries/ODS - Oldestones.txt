@@ -3,6 +3,7 @@ add_government_reform = autocracy_reform
 government_rank = 2
 mercantilism = 10
 primary_culture = welsh
+add_accepted_culture = cornish
 religion = catholic
 technology_group = western
 capital = 242 #Caernarfon

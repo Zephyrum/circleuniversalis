@@ -8,12 +8,10 @@ capital = 151 # Constantinople
 
 1444.1.1 = {
 	monarch = {
-		name = "Didn't give us country history"
-		dynasty = "Palaiologon't"
-		birth_date = 1400.1.1
-		death_date = 1470.1.1
+		name = "(Interregnum)"
 		adm = 0
 		dip = 0
 		mil = 0
+		regent = yes
 	}
 }
