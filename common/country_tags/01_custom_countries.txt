@@ -1,13 +1,23 @@
-PRJ = "countries/PresterJohn.txt"
-ZPY = "countries/Zephyrids.txt"
-MCL = "countries/McArabia.txt"
-JEW = "countries/JewishPirates.txt"
-TPG = "countries/Taiping.txt"
-CNE = "countries/Canoe.txt"
-ACE = "countries/Aceh.txt"
-CTH = "countries/Corea.txt"
-OTA = "countries/Landland.txt"
-VOC = "countries/VOC.txt"
-PHO = "countries/Phoenicia.txt"
-NRE = "countries/NewRomanEmpire.txt"
-BEL = "countries/Belgium.txt"
+# Explanations of where all player countries came from
+# Historical Oddity: Came from the 2017 Historical Oddity Mod, which was the precursor to Circle Universalis Round 1. Unlike Circle Universalis, the Historical Oddity MP never got off the ground
+# Round 1. Started modding in Summer of 2020, however, an insidious crash coded by someone who shan't be named nearly killed it, leading to the MP nearly being cancelled, but it did get delayed significantly. During this period, 5 players dropped. After the MP started, various people wanted to join, taking over from AI nations. There are only 4 dropped countries as Oljo's was never finished by the time he dropped, and he then joined in later first subbing in for the Heavenly Kingdom, and then as the Isle of the Levant (Jewish Australia) Relm played as Denmark, Semice as Russia, Norm as Sicily, and Couch as Croatia. Zeph was by far and away the winner.
+
+PRJ = "countries/PresterJohn.txt" # Thrawn: Round 1
+ZPY = "countries/Zephyrids.txt" # Zeph: Round 1
+MCL = "countries/McArabia.txt" # McMuller: Round 1
+JEW = "countries/JewishPirates.txt" # Zenvue: Round 1
+TPG = "countries/Taiping.txt" # Stewie: Round 1
+CNE = "countries/Canoe.txt" # Canoe: Round 1
+ACE = "countries/Aceh.txt" # Marco: Round 1
+CTH = "countries/Corea.txt" # Undead: Round 1
+OTA = "countries/Landland.txt" # Ox: Round 1
+VOC = "countries/VOC.txt" # Coins: Dropped
+PHO = "countries/Phoenicia.txt" # Franco: Dropped
+NRE = "countries/NewRomanEmpire.txt" # Raka: Dropped
+BEL = "countries/Belgium.txt" # Badassbo: Dropped
+SEM = "countries/Semiceland.txt" # Semice: Round 1+
+# Relm: Round 1+
+# Couch: Round 1+
+# Oljo: Round 1+
+# Norm: Round 1+
+ODS = "countries/Oldstones.txt" # Relm: Historical Oddity
