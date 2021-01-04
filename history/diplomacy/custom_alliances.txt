@@ -1,0 +1,31 @@
+##The Yue are the Ming's bitches
+#vassal = {
+#	first = MNG
+#	second = YUE
+#	start_date = 1444.1.1
+#	end_date = 1453.1.1
+#}
+
+#Antioch has the French royal house
+royal_marriage = {
+	first = ATC
+	second = FRA
+	start_date = 1443.1.1
+	end_date = 1446.1.1
+}
+
+#dependency = {
+#	subject_type = "tributary_state"
+#	first = QAR
+#	second = QAM
+#	start_date = 1444.1.1
+#	end_date = 1644.4.22
+#}
+
+#dependency = {
+#	subject_type = "tributary_state"
+#	first = MNG
+#	second = O3O
+#	start_date = 1444.1.1
+#	end_date = 1644.4.22
+#}
