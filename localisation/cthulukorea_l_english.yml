@@ -19,3 +19,7 @@
  power_of_cthulhu_desc: "What makes our Korea different than other Koreas? Why Cthulhu of course, after learning to love the Tentacle, we have truly understood what it means to be Korean!"
  big_naval_lines: "Big Naval Lines"
  big_naval_lines_desc: "How would one normally win naval engagements? By making more of our ships shoot theres."
+ 
+ # Colonizing
+ COLONIAL_ALASKA_Alasca:0 "Alasca"
+ COLONIAL_ALASKA_Alasca_ADJ:0 "Alascan"

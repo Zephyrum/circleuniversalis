@@ -47,6 +47,10 @@ colonial_alaska = {
 		}
 		name = "COLONIAL_ALASKA_Pacifico_Norte"
 	}
+	names = {
+		trigger = { tag = CTH }
+		name = "COLONIAL_ALASKA_Alasca"
+	}
 	# Generic
 	names = {
 		trigger = {
@@ -1236,6 +1240,10 @@ colonial_australia = {
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_Australia"
+	}
+	names = {
+		trigger = { tag = JEW }
+		name = "COLONIAL_AUSTRALIA_Isles_of_Levant"
 	}
 	names = {
 		trigger = {
