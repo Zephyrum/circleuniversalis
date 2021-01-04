@@ -1,8 +1,7 @@
 # 4725 - Arborea
 
-owner = PHO
-controller = PHO
-add_core = PHO
+owner = SAR
+controller = SAR
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -23,6 +22,11 @@ discovered_by = ottoman
 
 
 1420.1.1 = { owner = ARA add_core = ARA controller = ARA } # Conquered by Aragon
+1444.1.1 = {
+	owner = PHO
+	controller = PHO
+	add_core = PHO
+}
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA

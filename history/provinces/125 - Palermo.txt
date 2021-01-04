@@ -1,8 +1,7 @@
 #125 - Palermo
 
-owner = PHO
-controller = PHO
-add_core = PHO
+owner = SIC
+controller = SIC
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -27,6 +26,11 @@ center_of_trade = 1
 	controller = ARA
 	add_core = ARA
 } # Martin I inherits Sicily from his son
+1444.1.1 = {
+	owner = PHO
+	controller = PHO
+	add_core = PHO
+}
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA
