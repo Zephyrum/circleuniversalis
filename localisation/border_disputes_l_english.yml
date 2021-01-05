@@ -1,5 +1,5 @@
 ﻿l_english:
- resolve_border_disputes:0 "Resolve Border Disputes"
+ resolve_border_disputes_title:0 "Resolve Border Disputes"
  resolve_border_disputes_desc:0 "The twisted time shenanigans that have resulted in this twisted world has placed nations on top of others. We should figure out how the land should be divided."
  CU_HO_border_disputes.EVTNAME1:0 "The Yue - Taiping Dispute"
  CU_HO_border_disputes.EVTDESC1:0 "In the southernmost reaches of China, two countries now feud over Canton and the surrounding coasts. The first is the Heavenly Kingdom led by Stew Xiuquan who claims to be the brother of Jesus himself and wishes to convert all of China to Christianity. The other is the Yue Kingdom led by the warrior prince Yuehan Linsi. How should the land be divided?"
