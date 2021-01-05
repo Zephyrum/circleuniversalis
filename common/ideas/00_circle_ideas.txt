@@ -862,3 +862,41 @@ DHK_ideas = {
 		global_tax_modifier = 0.15
 	}
 }
+
+ULK_ideas = {
+	start = {
+		horde_unity = 1
+		core_creation = -0.15
+	}
+	
+	bonus = {
+		ae_impact = -0.15
+	}
+	trigger = {
+		tag = ULK
+	}
+	free = yes
+	
+	gokturk_horse = {
+		cavalry_power = 0.15
+	}
+	battleborn_civ = {
+		war_exhaustion = -0.05
+	}
+	swarming_horde = {
+		land_forcelimit_modifier = 0.15
+	}
+	peace_tribes = {
+		stability_cost_modifier = -0.2
+	}
+	rape_pillage = {
+		siege_ability = 0.15
+	}
+	pincer_movement = {
+		leader_land_manuever = 1
+		hostile_attrition = 1
+	}
+	constant_warfare = {
+		army_tradition = 1
+	}
+}

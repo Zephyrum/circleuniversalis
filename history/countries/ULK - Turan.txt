@@ -1,0 +1,31 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+primary_culture = nogaybak
+religion = tengri_pagan_reformed
+secondary_religion = sunni
+technology_group = nomad_group
+capital = 464
+historical_rival = TUR
+
+1439.1.1 = {
+	monarch = {
+		name = "Ulug"
+		dynasty = "Turan"
+		birth_date = 1412.1.1
+		adm = 3
+		dip = 1
+		mil = 6
+		leader = {	name = "Ulug Turan"	type = general	rank = 0	fire = 1	shock = 3	manuever = 3	siege = 2 }
+	}
+	heir = {
+		name = "Alp"
+		monarch_name = "Alp I"
+		dynasty = "Turan"
+		birth_date = 1431.6.1
+		claim = 80
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}

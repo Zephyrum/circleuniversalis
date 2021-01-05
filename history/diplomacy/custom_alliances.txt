@@ -23,10 +23,10 @@ royal_marriage = {
 #	end_date = 1644.4.22
 #}
 
-#dependency = {
-#	subject_type = "tributary_state"
-#	first = MNG
-#	second = O3O
-#	start_date = 1444.1.1
-#	end_date = 1644.4.22
-#}
+dependency = {
+	subject_type = "tributary_state"
+	first = MNG
+	second = O3O
+	start_date = 1444.1.1
+	end_date = 1644.4.22
+}
