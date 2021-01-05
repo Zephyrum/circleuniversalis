@@ -8,6 +8,6 @@
 ##################################################
 
 custodia_antiochea = {
-		global_missionary_strength = 0.015
-		religious_unity = 0.25
+	global_missionary_strength = 0.015
+	religious_unity = 0.25
 }

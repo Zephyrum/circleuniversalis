@@ -746,3 +746,46 @@ TOB_ideas = {
 		diplomatic_upkeep = 1
 	}
 }
+
+QAM_ideas = {
+	start = {
+		global_trade_power = 0.15
+		global_unrest = -2
+	}
+
+	bonus = {
+		republican_tradition = 1
+	}
+	
+	trigger = {
+		tag = QAM
+	}
+	free = yes		#wibe added at load.
+	
+	republic_above_religion = {
+		tolerance_heretic = 3
+	}
+	expand_hormuzi_dock = {
+		light_ship_power = 0.15
+		naval_morale = 0.1
+	}
+	land_of_the_people = {
+		development_cost = -0.15
+		global_tax_modifier = 0.1
+	}
+	peasant_militia = {
+		hostile_attrition = 1
+		fort_maintenance_modifier = -0.2
+	}
+	qarmatia_first = {
+		discipline = 0.05
+		shock_damage_received = -0.05
+	}
+	persian_trades = {
+		merchants = 1
+	}
+	restore_belly_dance = {
+		diplomatic_reputation = 1
+		diplomatic_upkeep = 1
+	}
+}

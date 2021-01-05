@@ -1,0 +1,23 @@
+government = peasants_republic
+government_rank = 2
+mercantilism = 25
+primary_culture = bedouin_arabic
+add_accepted_culture = omani_culture
+religion = shiite
+technology_group = muslim
+capital = 395
+
+
+national_focus = DIP
+
+
+1443.1.1 = {
+	monarch = {
+		name = "Kashiid Yaqub Yousuf"
+		birth_date = 1389.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+}
