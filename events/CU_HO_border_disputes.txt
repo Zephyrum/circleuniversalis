@@ -1,0 +1,36 @@
+namespace = CU_HO_border_disputes
+
+country_event = {
+	id = CU_HO_border_disputes.1 # For some reason this file needs to start with 3 to work
+	title = "CU_HO_border_disputes.EVTNAME1"
+	desc = "CU_HO_border_disputes.EVTDESC1"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTA1"
+		YOU = {
+			every_owned_province = {
+				limit = { is_core = TPG }
+				cede_province = TPG
+			}
+		}
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTB1"
+		TPG = {
+			every_owned_province = {
+				limit = { is_core = YOU }
+				cede_province = YOU
+			}
+			capital_scope = { change_religion = hussite }
+		}
+		YOU = { set_capital = 667 }
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTC1"
+	}
+}

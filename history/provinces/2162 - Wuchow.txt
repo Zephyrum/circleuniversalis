@@ -3,6 +3,7 @@
 owner = TPG
 controller = TPG
 add_core = TPG
+add_core = YOU
 culture = cantonese
 religion = confucianism
 capital = "Ngchow"

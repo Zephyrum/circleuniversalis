@@ -1,8 +1,9 @@
 # 2160 - Ngaichow
 
-owner = TPG
-controller = TPG
+owner = YOU
+controller = YOU
 add_core = TPG
+add_core = YOU
 culture = chimin
 religion = confucianism
 capital = "Ngaichow"

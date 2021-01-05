@@ -1,0 +1,18 @@
+country_decisions = {
+	
+	resolve_border_disputes = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_global_flag = CU_HO_resolved_border_disputes }
+			ai = no
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			set_global_flag = CU_HO_resolved_border_disputes
+			country_event = { id = CU_HO_border_disputes.1 }
+		}
+	}
+}

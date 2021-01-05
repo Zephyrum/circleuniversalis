@@ -21,4 +21,5 @@ SEM = "countries/Semiceland.txt" # Semice: Round 1+
 # Oljo: Round 1+
 # Norm: Round 1+
 ATC = "countries/Antioch.txt" # Thrawn: Historical Oddity
+YOU = "countries/You.txt" # Zeph: Historical Oddity (Was actually just Yue in the original mod, we have two Acehs in game, we might as well have two Yues)
 ODS = "countries/Oldestones.txt" # Relm: Historical Oddity

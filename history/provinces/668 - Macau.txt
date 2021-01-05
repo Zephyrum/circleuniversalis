@@ -1,8 +1,9 @@
 #668 - Macau
 
-owner = TPG
-controller = TPG
+owner = YOU
+controller = YOU
 add_core = TPG
+add_core = YOU
 culture = cantonese
 religion = confucianism
 capital = "Macau"

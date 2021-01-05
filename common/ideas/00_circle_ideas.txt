@@ -665,3 +665,46 @@ ODS_ideas = {
 		production_efficiency = 0.1
 	}
 }
+
+YOU_ideas = {
+	start = {
+		development_cost = -0.15
+		land_morale = 0.15
+	}
+
+	bonus = {
+		state_maintenance_modifier = -0.33
+	}
+	
+	trigger = {
+		tag = YOU
+	}
+	free = yes		#wibe added at load.
+	
+	yue_heroes = {
+		discipline = 0.05
+		army_tradition = 1
+	}
+	true_meritocracy = {
+		yearly_corruption = -0.5
+		diplomatic_reputation = 1
+	}
+	river_and_sea_sailing = {
+		trade_efficiency = 0.15
+		heavy_ship_cost = -0.1
+	}
+	expand_zhongguo = {
+		years_of_nationalism = -10
+	}
+	the_western_jade = {
+		auto_explore_adjacent_to_colony = yes
+		colonists = 1
+	}
+	tuntian_in_emergencies = {
+		manpower_recovery_speed = 0.25
+	}
+	neo_confucian_usury = {
+		tolerance_own = 2
+		inflation_reduction = 0.10
+	}
+}
