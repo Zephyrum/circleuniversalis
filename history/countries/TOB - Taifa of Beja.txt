@@ -1,0 +1,47 @@
+government = iqta
+primary_culture = andalucian
+religion = sunni
+technology_group = muslim
+capital = 229	# Beja
+government_rank = 1
+historical_friend = GRA
+
+1444.1.1 = {
+	monarch = {
+		name = "Almanzor"
+		dynasty = "Hafsid"
+		birth_date = 1420.4.4
+		death_date = 1490.4.5
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1444.1.1 = {
+	queen = {
+		country_of_origin = TUN
+		name = "Aliya"
+		dynasty = "Hafsid"
+		birth_date = 1427.4.4
+		death_date = 1485.6.8
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Lup"
+		monarch_name = "Lup"
+		dynasty = "Hafsid"
+		birth_date = 1435.1.1
+		death_Date = 1499.1.1
+		claim = 90
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
