@@ -1,0 +1,14 @@
+#1093 - Barunggam
+
+owner = LEM
+controller = LEM
+add_core = LEM
+culture = aboriginal
+religion = animism
+trade_goods = unknown
+capital = "Barunggam"
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes

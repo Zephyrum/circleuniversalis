@@ -789,3 +789,40 @@ QAM_ideas = {
 		diplomatic_upkeep = 1
 	}
 }
+
+LEM_ideas = {
+	start = {
+		cavalry_cost = -0.15
+		global_autonomy = -0.2
+	}
+	
+	bonus = {
+		artillery_power = 0.15
+	}
+	trigger = {
+		tag = LEM
+	}
+	free = yes
+	
+	selective_training = {
+		discipline = 0.05
+	}
+	will_army = {
+		land_morale = 0.1
+	}
+	spread_culture = {
+		colonists = 1
+	}
+	united_jihad = {
+		religious_unity = 0.1
+	}
+	native_oppression = {
+		global_unrest = -2
+	}
+	lemur_sec = {
+		tolerance_heretic = 2
+	}
+	migration_culture = {
+		global_colonial_growth = 10
+	}
+}

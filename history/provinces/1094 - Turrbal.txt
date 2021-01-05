@@ -1,0 +1,16 @@
+#1094 - Gubbi Gubbi
+
+owner = LEM
+controller = LEM
+add_core = LEM
+culture = aboriginal
+religion = animism
+capital = "Brisbane"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+1770.1.1 = { discovered_by = GBR } # James Cook

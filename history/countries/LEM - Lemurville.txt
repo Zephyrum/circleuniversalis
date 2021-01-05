@@ -1,0 +1,37 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 10
+primary_culture = makua
+religion = sunni
+technology_group = muslim
+capital = 1792 #Antananarivo
+
+1444.1.1 = {
+	monarch = {
+		name = "Julien"
+		dynasty = "Makrambeh"
+		birth_date = 1426.10.20
+		death_date = 1480.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = expansionist_personality
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Magoo"
+		monarch_name = "Magoo"
+		dynasty = "Makrambeh"
+		birth_date = 1432.11.15
+		death_Date = 1499.1.1
+		claim = 90
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = scholar_personality
+}
