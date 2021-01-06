@@ -1,0 +1,25 @@
+bookmark =
+{
+	name = "A_HISTORICAL_ODDITY"
+	desc = "A_HISTORICAL_ODDITY_DESC"
+	date = 1444.11.11
+	
+	center = 151
+	default = yes
+	
+	country = YOU
+	country = ATC
+	country = QAM
+	country = ERU
+	country = DHK
+	country = LEM
+	country = ODS
+	country = ULK
+	country = O3O
+	country = TOB
+	#country = SHO
+	
+	easy_country = ODS
+	easy_country = LEM
+	easy_country = ERU
+}

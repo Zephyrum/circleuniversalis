@@ -937,3 +937,41 @@ ERU_ideas = {
 		ae_impact = -0.1
 	}
 }
+
+O3O_ideas = {
+	start = {
+		shock_damage = 0.2
+		cavalry_cost = -0.2
+	}
+	
+	bonus = {
+		siege_ability = 0.15
+	}
+	trigger = {
+		tag = O3O
+	}
+	free = yes
+	
+	chem_tax_the_rich_and_the_poor = {
+		global_tax_modifier = 0.15
+	}
+	chem_shoshone_cockblockery = {
+		colonists = 1
+		auto_explore_adjacent_to_colony = yes
+	}
+	chem_has_good_army = {
+		discipline = 0.05
+	}
+	chemschluss = {
+		core_creation = -0.2
+	}
+	chem_silencing_the_peasant_cunts = {
+		global_unrest = -2
+	}
+	chem_blobbity_blobby = {
+		ae_impact = -0.15
+	}
+	chem_stab_stabby = {
+		stability_cost_modifier = -0.2
+	}
+}

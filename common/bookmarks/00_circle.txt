@@ -18,6 +18,10 @@ bookmark = {
 	country = ACE #Marco
 	country = TPG #Stewie
 	#country = VOC #Coins left
-	#country = OLJ #Oljo didn't end up joining
 	country = CTH #Undead
+	#country = SEM #Semice Joined
+	#Couch
+	#Relm
+	#Oljo
+	#Norm
 }
