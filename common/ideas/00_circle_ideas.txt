@@ -975,3 +975,50 @@ O3O_ideas = {
 		stability_cost_modifier = -0.2
 	}
 }
+
+AFR_ideas = {
+	start = {
+		may_perform_slave_raid = yes
+		tolerance_heathen = 3
+	}
+	
+	bonus = {
+		leader_siege = 1
+	}
+	
+	trigger = {
+		tag = AFR
+	}
+	
+	free = yes
+	
+	norman_aristocrats = {
+		cavalry_power = 0.15
+		army_tradition = 0.5
+	}
+	
+	dominate_african_trade = {
+		global_ship_trade_power = 0.2
+	}
+	
+	moorish_refugees = {
+		global_tax_modifier = 0.1
+		development_cost = -0.05
+	}
+	
+	ambitious_conquerors = {
+		core_creation = -0.2
+	}
+	
+	mediterranean_fleet = {
+		galley_power = 0.2
+	}
+	
+	surprise_raids = {
+		siege_ability = 0.1
+	}
+	
+	naval_raids = {
+		siege_blockade_progress = 1
+	}
+}

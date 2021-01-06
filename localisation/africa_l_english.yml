@@ -1,0 +1,36 @@
+﻿l_english:
+
+ # Info
+ AFR:0 "Africa"
+ AFR_ADJ:0 "African"
+ african_latin:0 "African"
+ 
+ # Ideas
+ AFR_ideas:0 "African Ideas"
+ AFR_ideas_start:0 "African Traditions"
+ AFR_ideas_bonus:0 "African Ambition"
+ norman_aristocrats:0 "Norman Aristocracy"
+ norman_aristocrats_desc:0 "Although a great many of our administrators are recruited from the locals, our military continues to be recruited from Norman Knights. This has given our cavalry a considerable edge against our enemies, as we trample them underneath armored horse."
+ dominate_african_trade:0 "Dominate African Trade"
+ dominate_african_trade_desc:0 "Africa is a land of great wealth, exporting gold and various other goods to Europe. So long as we control the sea, we control the wealth."
+ moorish_refugees:0 "Accept Moorish Refugees"
+ moorish_refugees_desc:0 "Ever since our conquest of Africa, we have insured that our Muslim subjects have been treated fairly, allowing them to govern themselves as they had with the addition of a poll tax. Spain, however, disagrees with our method of ruling, and has decided to expel the Moors from their realm. We shall accept these refugees - and their taxes - with open arms."
+ ambitious_conquerors:0 "Ambitious Conquerors"
+ ambitious_conquerors_desc:0 "Our Norman ancestors were great adventuring conquerors, conquering kingdoms from England to Antioch. We will of course continue this fine tradition, and bring ever more wealth and glory to our realm."
+ mediterranean_fleet:0 "Mediterranean Fleet"
+ mediterranean_fleet_desc:0 "We have long relied upon our naval dominance against the Muslims in order to disrupt their supplies and capture their cities. However, with the rise of the Ottomans in the east, this dominance is increasingly threatened. We must increase our naval strength if we are to match this threat."
+ surprise_raids:0 "Surprise Assaults"
+ surprise_raids_desc:0 "If your enemy knows you are coming, he will be able to better prepare defenses. We shall do everything in our power to confuse our opponents, from capturing pigeons and altering their messages or by simply showing before we are expected."
+ naval_raids:0 "Naval Raids"
+ naval_raids_desc:0 "While many have difficulty coordinating between naval and land forces, our expertise at sea has allowed us to overcome this problem. With both naval and terrestrial batteries raining fire down upon a target, no fortress can hope to stand against us!"
+ 
+ # Events
+ flavor_afr.EVTNAME1:0 "The Succession of King Martin"
+ flavor_afr.EVTDESC1:0 "The recently deceased King Martin has unfortunately produced no surviving children, leaving the House of Hauteville extinct. In addition, he has outlived all of his close relatives, meaning the kingdom has no clear line of succession. Already, multiple foreign dignitaries have arrived, insisting that their candidate holds the strongest claim."
+ flavor_afr.EVTOPTA1:0 "Aragon would make for a strong ally."
+ flavor_afr.EVTOPTB1:0 "But the French make a strong case."
+ flavor_afr.EVTOPTC1:0 "The Habsburg claim is legitimate."
+ flavor_afr.EVTOPTD1:0 "The Hautevilles extinct? What are you talking about?"
+ 
+ # Insults
+ 
