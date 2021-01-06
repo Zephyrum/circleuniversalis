@@ -75,7 +75,8 @@ country_event = {
 		highlight = yes
 		trigger = { exists = ATC }
 		ai_chance = { factor = 100 }
-		ATC = { create_union = AFR }
+		ATC = { create_union = AFR add_historical_friend = AFR }
+		add_historical_friend = ATC
 		add_stability = 1
 	}
 }
