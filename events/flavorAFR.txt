@@ -30,7 +30,7 @@ country_event = {
 		}
 		define_ruler = {
 			name = "Enrico I"
-			dynasty = "de Trast√°mara"
+			dynasty = "de Trast·mara"
 			culture = aragonese
 			birth_date = 1400.4.27
 			mil = 2
@@ -73,7 +73,7 @@ country_event = {
 	option = {
 		name = "flavor_afr.EVTOPTD1"
 		highlight = yes
-		trigger = { exists = ATC }
+		trigger = { 2213 = { owned_by = ATC } }
 		ai_chance = { factor = 100 }
 		ATC = { create_union = AFR add_historical_friend = AFR }
 		add_historical_friend = ATC
