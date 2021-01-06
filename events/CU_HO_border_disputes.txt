@@ -18,7 +18,6 @@ country_event = {
 				cede_province = TPG
 			}
 		}
-		country_event = { id = CU_HO_border_disputes.2 }
 	}
 	option = {
 		name = "CU_HO_border_disputes.EVTOPTB1"
@@ -30,12 +29,11 @@ country_event = {
 			capital_scope = { change_religion = hussite }
 		}
 		YOU = { set_capital = 667 }
-		country_event = { id = CU_HO_border_disputes.2 }
 	}
 	option = {
 		name = "CU_HO_border_disputes.EVTOPTC1"
-		country_event = { id = CU_HO_border_disputes.2 }
 	}
+	after = { country_event = { id = CU_HO_border_disputes.2 } }
 }
 
 country_event = {
