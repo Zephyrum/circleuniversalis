@@ -1,378 +1,48 @@
 #Welcome to the Circle!
 
-PRJ_ideas = {
+AFR_ideas = {
 	start = {
-		tolerance_own = 2
-		defensiveness = 0.10
-	}
-	
-	bonus = {
-		core_creation = -0.10
-	}
-	
-	trigger = {
-		tag = PRJ
-	}
-	
-	free = yes
-	
-	wealth_of_asia = {
-		global_trade_goods_size_modifier = 0.10
-	}
-	
-	legacy_of_saint_thomas = {
-		global_missionary_strength = 0.02
-	}
-	
-	control_caspian_trade = {
-		caravan_power = 0.20
-	}
-	
-	crossing_the_river = {
-		leader_land_manuever = 1
-	}
-	
-	prj_western_arms = {
-		fire_damage = 0.10
-	}
-	
-	prj_christian_allies = {
-		diplomatic_reputation = 1
-	}
-	
-	prj_great_crusade = {
-		discipline = 0.05
-	}
-}
-
-ZPY_ideas = {
-	start = {
+		may_perform_slave_raid = yes
 		tolerance_heathen = 3
-		infantry_power = 0.10
 	}
 	
 	bonus = {
-		build_cost = -0.20 # OSOI!!
+		leader_siege = 1
 	}
 	
 	trigger = {
-		tag = ZPY
+		tag = AFR
 	}
+	
 	free = yes
 	
-	zeph_idea_1 = {
-		siege_ability = 0.15
-	}
-	zeph_idea_2 = {
-		global_trade_goods_size_modifier = 0.10
-	}
-	zeph_idea_3 = {
-		global_manpower_modifier = 0.20
-	}
-	zeph_idea_4 = {
-		core_creation = -0.10
-	}
-	zeph_idea_5 = {
-		heavy_ship_power = 0.10
-	}
-	zeph_idea_6 = {
-		trade_efficiency = 0.10
-	}
-	zeph_idea_7 = {
-		discipline = 0.05
-	}
-}
-
-mcarab_ideas = {
-	start = {
-		land_attrition = -0.25
-		trade_steering = 0.15
-	}
-	bonus = {
-		movement_speed = 0.15
-	}
-	trigger = {
-		tag = MCL
-	}
-	free = yes
-	
-	mcarab_idea_1 = {
-		cavalry_power = 0.20
-		cavalry_cost = -0.25
-	}
-	
-	mcarab_idea_2 = {
-		global_trade_power = 0.10
-	}
-	
-	mcarab_idea_3 = {
-		global_missionary_strength = 0.02
-		missionary_maintenance_cost = -0.25
-	}
-	
-	mcarab_idea_4 = {
-		cavalry_flanking = 0.50
+	norman_aristocrats = {
+		cavalry_power = 0.15
 		army_tradition = 0.5
 	}
 	
-	mcarab_idea_5 = {
-		tolerance_own = 3
+	dominate_african_trade = {
+		global_ship_trade_power = 0.2
 	}
 	
-	mcarab_idea_6 = {
-		trade_efficiency = 0.10
+	moorish_refugees = {
+		global_tax_modifier = 0.1
+		development_cost = -0.05
 	}
 	
-	mcarab_idea_7 = {
-		fire_damage_received = -0.10
-	}
-}
-
-JEW_ideas = {
-	start = {
-		light_ship_cost = -0.25
-		may_perform_slave_raid_on_same_religion = yes
+	ambitious_conquerors = {
+		core_creation = -0.2
 	}
 	
-	bonus = {
-		infantry_power = 0.10
+	mediterranean_fleet = {
+		galley_power = 0.2
 	}
 	
-	trigger = {
-		tag = JEW
-	}
-	free = yes
-	
-	jew_idea_1 = {
-		global_ship_recruit_speed = -0.20
-		naval_maintenance_modifier = -0.15
-	}
-	jew_idea_2 = {
-		global_trade_goods_size_modifier = 0.10
-	}
-	jew_idea_3 = {
-		leader_naval_fire = 1
-	}
-	jew_idea_4 = {
-		development_cost = -0.10
-	}
-	jew_idea_5 = {
-		naval_morale = 0.15
-	}
-	jew_idea_6 = {
-		naval_forcelimit_modifier = 0.20
-		ship_durability = 0.05
-	}
-	jew_idea_7 = {
-		leader_naval_manuever = 1
-	}
-}
-
-taiping_ideas = {
-	start = {
-		global_missionary_strength = 0.02
-		infantry_power = 0.10
-	}
-	bonus = {
-		administrative_efficiency = 0.05
-	}
-	trigger = {
-		tag = TPG
-	}
-	free = yes
-	
-	taiping_idea_1 = {
-		province_warscore_cost = -0.20
+	surprise_raids = {
+		siege_ability = 0.1
 	}
 	
-	taiping_idea_2 = {
-		global_unrest = -2
-	}
-	
-	taiping_idea_3 = {
-		missionaries = 1
-	}
-	
-	taiping_idea_4 = {
-		core_creation = -0.10
-	}
-	
-	taiping_idea_5 = {
-		global_tax_modifier = 0.10
-	}
-	
-	taiping_idea_6 = {
-		yearly_corruption = -0.20
-	}
-	
-	taiping_idea_7 = {
-		development_cost = -0.15
-	}
-}
-
-CNE_ideas = {
-	start = {
-		army_tradition = 0.5
-		shock_damage = 0.15
-	}
-	bonus = {
-		ae_impact = -0.15
-	}
-	trigger = {
-		tag = CNE
-	}
-	free = yes
-	
-	CNE_idea_1 = {
-		global_manpower_modifier = 0.20
-	}
-	
-	CNE_idea_2 = {
-		siege_ability = 0.10
-	}
-	
-	CNE_idea_3 = {
-		global_tax_modifier = 0.20
-	}
-	
-	CNE_idea_4 = {
-		discipline = 0.05
-	}
-	
-	CNE_idea_5 = {
-		trade_efficiency = 0.10
-	}
-	
-	CNE_idea_6 = {
-		technology_cost = -0.10
-	}
-	
-	CNE_idea_7 = {
-		global_ship_cost = -0.10
-		global_ship_recruit_speed = -0.10
-	}
-}
-
-ACE_ideas = { # I still think we need to even out the numbers on this one
-	start = {
-		naval_maintenance_modifier = -0.15
-		merc_maintenance_modifier = -0.5
-	}
-	bonus = {
-		heavy_ship_power = 0.15
-	}
-	trigger = {
-		tag = ACE
-	}
-	free = yes
-	
-	ACE_idea_1 = {
-		global_trade_power = 0.15
-	}
-	
-	ACE_idea_2 = {
-		global_trade_goods_size_modifier = 0.15
-	}
-	
-	ACE_idea_3 = {
-		colonists = 1
-	}
-	
-	ACE_idea_4 = {
-		global_ship_trade_power = 0.1
-	}
-	
-	ACE_idea_5 = {
-		privateer_efficiency = 0.25
-	}
-	
-	ACE_idea_6 = {
-		mercenary_discipline = 0.05
-	}
-	
-	ACE_idea_7 = {
-		mercenary_manpower = 0.25
-	}
-}
-
-notkorea_ideas = {
-	start = {
-		leader_naval_manuever = 2
-		monarch_admin_power = 1
-	}
-	bonus = {
-		discipline = 0.05
-	}
-	trigger = {
-		tag = CTH
-	}
-	free = yes
-	
-	no_fear_of_food = {
-		land_morale = 0.1
-	}
-	
-	japanese_bureaucracy = {
-		administrative_efficiency = 0.05
-	}
-	
-	tentacled_ships = {
-		naval_morale = 0.1
-	}
-	
-	superior_korea = {
-		infantry_power = 0.1
-	}
-	
-	big_korean_guns = {
-		artillery_power = 0.05
-	}
-	
-	power_of_cthulhu = {
-		ship_durability = 0.1	
-	}
-	
-	big_naval_lines {
-		global_naval_engagement_modifier = 0.1	
-	}
-}
-
-OTA_ideas = {
-	start = {
-		land_morale = 0.15
-		land_forcelimit_modifier = 0.25
-	}
-	
-	bonus = {
-	 	production_efficiency = 0.15
-	}
-	
-	trigger = {
-		tag = OTA
-	}
-	free = yes		#will be added at load.
-	
-	OTA_idea_1 = {
-		global_tax_modifier = 0.20
-	}
-	OTA_idea_2 = {
-		tolerance_heretic = 3
-	}
-	OTA_idea_3 = {
-		global_manpower_modifier = 0.25
-	}
-	OTA_idea_4 = {
-		cavalry_power = 0.25
-		cav_to_inf_ratio = 0.25
-		cavalry_cost = -0.25
-	}
-	OTA_idea_5 = {
-		global_regiment_cost = -0.10
-	}
-	OTA_idea_6 = {
-		discipline = 0.05
-	}
-	OTA_idea_7 = {
-		navy_tradition = 1
+	naval_raids = {
+		siege_blockade_progress = 1
 	}
 }

@@ -1,9 +1,2 @@
-PRJ = "countries/PresterJohn.txt"
-ZPY = "countries/Zephyrids.txt"
-MCL = "countries/McArabia.txt"
-JEW = "countries/JewishPirates.txt"
-TPG = "countries/Taiping.txt"
-CNE = "countries/Canoe.txt"
-ACE = "countries/Aceh.txt"
-CTH = "countries/Corea.txt"
-OTA = "countries/Landland.txt"
+# Welcome to Round 2!
+AFR = "countries/Africa.txt"
