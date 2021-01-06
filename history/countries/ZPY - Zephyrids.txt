@@ -8,18 +8,18 @@ capital = 4457 # Zephyryie
 add_army_professionalism = 0.1
 religious_school = zaidi_school
 
-change_estate_land_share = {
-	estate = estate_church
-	share = -25
-}
-change_estate_land_share = {
-	estate = estate_nobles
-	share = -25
-}
-change_estate_land_share = {
-	estate = estate_burghers
-	share = -40
-}
+#change_estate_land_share = {
+#	estate = estate_church
+#	share = -25
+#}
+#change_estate_land_share = {
+#	estate = estate_nobles
+#	share = -25
+#}
+#change_estate_land_share = {
+#	estate = estate_burghers
+#	share = -40
+#} # No.
 	
 1444.1.1 = {
 	monarch = {

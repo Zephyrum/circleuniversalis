@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = autocracy_reform
 technology_group = chinese
 religion = confucianism
-mercantilism = 100
+#mercantilism = 100 # No.
 primary_culture = cantonese
 capital = 738	# Taiwan, should be Canton, but Taiping is in the way
 
