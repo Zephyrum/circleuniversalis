@@ -61,27 +61,27 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = minor_vision_tweaks.2
-	title = "minor_vision_tweaks.EVTNAME2"
-	desc = "minor_vision_tweaks.EVTDESC2"
-	picture = ACCUSATION_eventPicture
-	
-	fire_only_once = yes
-	
-	trigger = {
-		has_idea = zeph_idea_7
-	}
-	
-	mean_time_to_happen = {
-		months = 6
-	}
-	
-	option = {
-		name = "minor_vision_tweaks.EVTOPTA2"
-		add_country_modifier = {
-			name = prestige_from_seeing_stuff
-			duration = -1
-		}
-	}
-}
+#country_event = {
+#	id = minor_vision_tweaks.2
+#	title = "minor_vision_tweaks.EVTNAME2"
+#	desc = "minor_vision_tweaks.EVTDESC2"
+#	picture = ACCUSATION_eventPicture
+#	
+#	fire_only_once = yes
+#	
+#	trigger = {
+#		has_idea = zeph_idea_7
+#	}
+#	
+#	mean_time_to_happen = {
+#		months = 6
+#	}
+#	
+#	option = {
+#		name = "minor_vision_tweaks.EVTOPTA2"
+#		add_country_modifier = {
+#			name = prestige_from_seeing_stuff
+#			duration = -1
+#		}
+#	}
+#}
