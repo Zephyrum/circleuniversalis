@@ -3,8 +3,8 @@
 owner = AFR
 controller = AFR
 add_core = AFR
-culture = tunisian
-religion = sunni
+culture = african_latin
+religion = catholic
 capital = "Susa"
 trade_goods = sugar
 hre = no
