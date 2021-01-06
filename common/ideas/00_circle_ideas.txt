@@ -900,3 +900,40 @@ ULK_ideas = {
 		army_tradition = 1
 	}
 }
+
+ERU_ideas = {
+	start = {
+		idea_cost = -0.1
+		technology_cost = -0.05
+	}
+	bonus = {
+		global_unrest = -2
+	}
+	trigger = {
+		tag = ERU
+	}
+	free = yes
+	cultural_similarities = {
+		years_of_nationalism = -5
+	}
+	invencible_fleets = {
+		ship_durability = 0.1
+		naval_morale = 0.1
+	}
+	stonehenge = {
+		land_morale = 0.15
+	}
+	blitz_sieging = {
+		siege_ability = 0.1
+	}
+	crown_of_erusea = {
+		legitimacy = 1
+	}
+	careful_training = {
+		discipline = 0.05
+	}
+	expansion_policy = {
+		province_warscore_cost = -0.1
+		ae_impact = -0.1
+	}
+}

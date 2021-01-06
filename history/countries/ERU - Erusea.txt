@@ -1,0 +1,50 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 10
+primary_culture = tuscan
+religion = catholic
+technology_group = western
+capital = 116 # Firenze
+
+1444.1.1 = {
+	monarch = {
+		name = "Mihael"
+		dynasty = "di Fortuna"
+		birth_date = 1425.11.3
+		death_date = 1480.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = strict_personality
+}
+
+1444.5.1 = {
+	queen = {
+		country_of_origin = FER
+		name = "Paula"
+		dynasty = "di Ferrara"
+		birth_date = 1430.4.4
+		death_date = 1510.6.8
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+	add_queen_personality = embezzler_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Nicolas"
+		monarch_name = "Nicolas"
+		dynasty = "di Fortuna"
+		birth_date = 1439.1.1
+		death_Date = 1499.1.1
+		claim = 90
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = benevolent_personality
+}

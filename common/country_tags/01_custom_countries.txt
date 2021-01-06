@@ -23,6 +23,7 @@ SEM = "countries/Semiceland.txt" # Semice: Round 1+
 ATC = "countries/Antioch.txt" # Thrawn: Historical Oddity
 YOU = "countries/You.txt" # Zeph: Historical Oddity (Was actually just Yue in the original mod, we have two Acehs in game, we might as well have two Yues)
 ODS = "countries/Oldestones.txt" # Relm: Historical Oddity
+ERU = "countries/Erusea.txt" # Jules: Historical Oddity (The creator may be wrong, Jules could not be reached to make sure)
 LEM = "countries/Lemurville.txt" # Zenvue: Historical Oddity
 QAM = "countries/Qarmatia.txt" # Kar: Historical Oddity
 DHK = "countries/Dhaka.txt" # Eklipse: Historical Oddity
