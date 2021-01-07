@@ -3,6 +3,7 @@
 owner = BEL
 controller = BEL
 add_core = BEL
+add_core = MCN
 add_core = BRB
 is_city = yes
 capital = "Antwerp"

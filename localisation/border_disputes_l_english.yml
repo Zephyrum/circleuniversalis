@@ -10,3 +10,7 @@
  CU_HO_border_disputes.EVTDESC2:0 "Fighting has broken out between the McArabians and the Qarmatians over the city of Sila, with the Supersultan now threatening to \"come over and beat that furry's head in\" should Kar not acknowledge the city as his. Who should we give control of the city to?"
  CU_HO_border_disputes.EVTOPTA2:0 "The Supersultan's claim is legitimate."
  CU_HO_border_disputes.EVTOPTB2:0 "Sila is a key component of the Qarmatian trade network."
+ CU_HO_border_disputes.EVTNAME2:0 "The McHolland - Belgium Dispute"
+ CU_HO_border_disputes.EVTDESC2:0 "Recently, both the Belgians and the McHollanders have come to blows over the city of Antwerp. Flemish nationalists loyal to Belgium currently control the province, although McMuller continues his efforts to buy off the locals."
+ CU_HO_border_disputes.EVTOPTA2:0 "Flanders belongs to Belgium."
+ CU_HO_border_disputes.EVTOPTB2:0 "The city belongs to the Superstadtholder."

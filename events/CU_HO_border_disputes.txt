@@ -53,4 +53,24 @@ country_event = {
 		name = "CU_HO_border_disputes.EVTOPTB2"
 		2333 = { cede_province = QAM }
 	}
+	after = { country_event = { id = CU_HO_border_disputes.3 } }
+}
+
+country_event = {
+	id = CU_HO_border_disputes.3
+	title = "CU_HO_border_disputes.EVTNAME3"
+	desc = "CU_HO_border_disputes.EVTDESC3"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTA3"
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTB3"
+		1744 = { cede_province = MCN }
+	}
 }
