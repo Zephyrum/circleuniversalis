@@ -91,3 +91,43 @@ MCN_ideas = {
 		production_efficiency = 0.15
 	}
 }
+
+ZPJ_ideas = {
+	start = {
+		discipline = 0.05
+		infantry_power = 0.15
+	}
+	
+	bonus = {
+		discipline = 0.05
+	}
+	
+	trigger = {
+		#tag = ZPJ
+		always = no
+	}
+	
+	free = yes
+	
+	zpj_money = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	zpj_blob = {
+		administrative_efficiency = 0.05
+	}
+	zpj_shipdmg = {
+		heavy_ship_power = 0.10
+	}
+	zpj_siege = {
+		siege_ability = 0.20
+	}
+	zpj_firedmg = {
+		fire_damage = 0.10
+	}
+	zpj_shipnodie = {
+		naval_morale = 0.15
+	}
+	zpj_bodies_hitting_floor_noises = {
+		global_manpower_modifier = 0.20
+	}
+}
