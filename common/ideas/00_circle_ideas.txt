@@ -103,7 +103,10 @@ ZPJ_ideas = {
 	}
 	
 	trigger = {
-		#tag = ZPJ
+		#OR = {
+		#	tag = ZPD
+		#	tag = ZPJ
+		#}
 		always = no
 	}
 	
