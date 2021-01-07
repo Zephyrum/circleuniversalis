@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = hussite
+religion = shamanism #Fetishism
+technology_group = central_african
+
+unit_type = sub_saharan
+capital = 4064 # Buganda
+
+1444.1.1 = {
+	monarch = {
+		name = "Noah I"
+		dynasty = "Israel"
+		birth_date = 1410.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
