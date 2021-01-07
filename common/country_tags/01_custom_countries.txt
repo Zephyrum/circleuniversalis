@@ -1,3 +1,4 @@
 # Welcome to Round 2!
 AFR = "countries/Africa.txt"
 MCN = "countries/McHolland.txt"
+WAG = "countries/Waganda.txt"

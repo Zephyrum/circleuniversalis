@@ -134,3 +134,40 @@ ZPJ_ideas = {
 		global_manpower_modifier = 0.20
 	}
 }
+
+WAG_ideas = {
+	start = {
+		technology_cost = -0.1
+		land_morale = 0.1
+	}
+	bonus = {
+		fire_damage_received = -0.1
+	}
+	
+	trigger = {
+		tag = WAG
+	}
+	free = yes
+	
+	wagandan_youth = {
+		discipline = 0.05
+	}
+	wagandan_tax = {
+		global_tax_modifier = 0.1
+	}
+	wagandan_expansion = {
+		colonists = 1
+	}
+	wagandan_manhood = {
+		infantry_power = 0.1
+	}
+	wagandan_building = {
+		development_cost = -0.1
+	}
+	wagandan_boomstick = {
+		artillery_power = 0.1
+	}
+	wagandan_generals = {
+		leader_land_fire = 1
+	}
+}
