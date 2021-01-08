@@ -206,3 +206,38 @@ ODS_ideas = {
 		production_efficiency = 0.1
 	}
 }
+
+GAE_ideas = {
+	start = {
+		discipline = 0.05
+		global_trade_power = 0.1
+	}
+	bonus = {
+		leader_land_fire = 1
+	}
+	free = yes
+	grainne_ni_mhaille = {
+		diplomatic_reputation = 1
+		may_perform_slave_raid = yes
+	}
+	barrels_of_whiskey = {
+		land_morale = 0.1
+	}
+	GAE_exploring = {
+		colonists = 1
+	}
+	roman_trading = {
+		trade_efficiency =0.1
+		build_cost = -0.05
+	}
+	persecuted_people = {
+		ae_impact = -0.1
+		core_creation = -0.05
+	}
+	GAE_poor = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	another_risin = {
+		fire_damage = 0.1
+	}
+}
