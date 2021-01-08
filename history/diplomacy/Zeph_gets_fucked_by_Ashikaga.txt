@@ -1,0 +1,6 @@
+vassal = { #Zeph moment
+	first = ASK
+	second = ZPD
+	start_date = 1444.11.11
+	end_date = 1450.1.1
+}
