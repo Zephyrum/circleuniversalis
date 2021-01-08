@@ -1,0 +1,50 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 10
+primary_culture = welsh
+add_accepted_culture = cornish
+religion = catholic
+technology_group = western
+capital = 242 #Caernarfon
+
+1444.1.1 = {
+	monarch = {
+		name = "Harren"
+		dynasty = "Lothston"
+		birth_date = 1424.11.13
+		death_date = 1478.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
+}
+1444.1.1 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Dannel"
+		dynasty = "Lothston"
+		birth_date = 1429.11.13
+		female = yes
+		adm = 6
+		dip = 5
+		mil = 4
+		death_date = 1467.3.21
+	}
+	add_queen_personality = well_connected_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Petyr"
+		monarch_name = "Petyr"
+		dynasty = "Lothston"
+		birth_date = 1443.11.13
+		death_Date = 1497.1.1
+		claim = 90
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
