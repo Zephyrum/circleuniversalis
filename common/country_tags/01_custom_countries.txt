@@ -32,4 +32,5 @@ TOB = "countries/TBeja.txt" # Diplomatic Immunity: Historical Oddity (The creato
 ULK = "countries/TuranHorde.txt" # Stewie: Historical Oddity
 AFR = "countries/Africa.txt" # Thrawn: Round 2
 MCN = "countries/McHolland.txt" # McMuller: Round 2
-WAG = "countries/Waganda.txt" # Waganda: Round 2
+WAG = "countries/Waganda.txt" # Zenvue: Round 2
+GAE = "countries/Gaeltacht.txt" # Marco: Round 2
