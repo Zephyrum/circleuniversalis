@@ -110,3 +110,18 @@ song = {
 		}
 	}
 }
+
+song = {
+	name = "Irish Bullshit"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = GAE }
+		}	
+		modifier = {
+			factor = 4
+			war_with = GAE
+		}
+	}
+}

@@ -32,3 +32,8 @@ music = {
 	name = "Cripple Creek"
 	file = "cripplecreek.ogg"
 }
+
+music = {
+	name = "Irish Bullshit"
+	file = "irishbs.ogg"
+}
