@@ -3,8 +3,8 @@ add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
 religion = shinto
-technology_group = ottoman
-capital = 4457 # Zephyryie
+technology_group = chinese
+capital = 1028 # Musashi or Tokyo
 add_army_professionalism = 0.1
 
 change_estate_land_share = {
@@ -22,8 +22,8 @@ change_estate_land_share = {
 	
 1444.1.1 = {
 	monarch = {
-		name = "Selim"
-		dynasty = "Zephyrid"
+		name = "Kaiketsu"
+		dynasty = "Fujiwara"
 		birth_date = 1420.3.30
 		death_date = 1500.1.1
 		adm = 4
@@ -36,8 +36,8 @@ change_estate_land_share = {
 
 1444.1.1 = {
 	heir = {
-		name = "Zephyros"
-		dynasty = "Zephyrid"
+		name = "Tamaki"
+		dynasty = "Fujiwara"
 		birth_date = 1434.8.10
 		death_date = 1500.1.1
 		claim = 95
