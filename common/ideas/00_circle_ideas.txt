@@ -240,3 +240,89 @@ GAE_ideas = {
 		fire_damage = 0.1
 	}
 }
+
+vocoins_ideas = {
+	start = {
+		manpower_recovery_speed = 0.20
+		idea_cost = -0.10
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = VOC
+	}
+	free = yes
+	
+	vocoins_idea_1 = {
+		naval_morale = 0.15
+	}
+	
+	vocoins_idea_2 = {
+		prestige = 1
+	}
+	
+	vocoins_idea_3 = {
+		colonists = 1
+	}
+	
+	vocoins_idea_4 = {
+		trade_efficiency = 0.10
+	}
+	
+	vocoins_idea_5 = {
+		global_colonial_growth = 20
+	}
+	
+	vocoins_idea_6 = {
+		trade_steering = 0.20
+	}
+	
+	vocoins_idea_7 = {
+		diplomatic_reputation = 2
+	}
+}
+
+SEM_ideas = {
+	start = {
+		infantry_cost = -0.2
+		land_attrition = -0.2
+	}
+	bonus = {
+		core_creation = -0.2
+	}
+	trigger = {
+		tag = SEM
+	}
+	free = yes
+	
+	SEM_idea_1 = {
+		spy_offence = 0.25
+	}
+	
+	SEM_idea_2 = {
+		global_tax_modifier = 0.1
+	}
+	
+	SEM_idea_3 = {
+		may_establish_frontier = yes
+		auto_explore_adjacent_to_colony = yes
+	}
+	
+	SEM_idea_4 = {
+		global_manpower_modifier = 0.33
+	}
+	
+	SEM_idea_5 = {
+		global_unrest = -1
+		production_efficiency = 0.05
+	}
+	
+	SEM_idea_6 = {
+		land_forcelimit_modifier = 0.25
+	}
+	
+	SEM_idea_7 = {
+		hostile_attrition = 1
+	}
+}

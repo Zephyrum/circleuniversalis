@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = semician
+religion = orthodox
+technology_group = eastern
+historical_rival = NOV
+capital = 295 # Moskva
+fixed_capital = 295 # Cannot move capital away from this province & no power cost to move to it
+
+national_focus = ADM
+
+1444.1.1 = {
+    monarch = {
+        name = "Semice"
+        birth_date = 1443.6.27
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
