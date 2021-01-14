@@ -1,5 +1,27 @@
+#Europe; shitposts
+33 = "Anthesigrad"
+4768 = "Düsseldorf"
+
+#Malaysia and Sumatra; Pendraic
+596 = "Faroin"
+597 = "Essorath"
+2673 = "Marquess"
+2686 = "Sveliga"
+
+#Java; IRL V.O.C
+628 = "Stadt der Helden"
 630 = "Batavia"
+
+#Sulawesi; Haven's Continent
 641 = "Haven's Cross"
+643 = "Kestramore"
+644 = "Loren Harbor"
+2713 = "Lorenth"
 2714 = "Coinstadt"
 2716 = "Seefels"
-4768 = "Rhinefurria"
+
+#Borneo; Molaesmyr
+636 = "Cyferalias"
+638 = "Cilima"
+640 = "Telissa"
+2710 = "Svaliya"
