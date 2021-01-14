@@ -3,7 +3,7 @@ add_government_reform = prussian_monarchy
 government_rank = 2
 mercantilism = 10
 primary_culture = roman
-=religion = catholic
+religion = catholic
 technology_group = western
 capital = 182 # Soissons
 
