@@ -1,0 +1,24 @@
+﻿l_english:
+
+ # Info
+ SOI:0 "Soissons"
+ SOI_ADJ:0 "Soissonnais"
+ 
+ # Ideas
+ SOI_ideas:0 "Soissons Ideas"
+ SOI_ideas_start:0 "Soissons Traditions"
+ SOI_ideas_bonus:0 "Soissons Ambition"
+ SOI_idea_1:0 ""
+ SOI_idea_1_desc:0 ""
+ SOI_idea_2:0 ""
+ SOI_idea_2_desc:0 ""
+ SOI_idea_3:0 ""
+ SOI_idea_3_desc:0 ""
+ SOI_idea_4:0 ""
+ SOI_idea_4_desc:0 ""
+ SOI_idea_5:0 ""
+ SOI_idea_5_desc:0 ""
+ SOI_idea_6:0 ""
+ SOI_idea_6_desc:0 ""
+ SOI_idea_7:0 ""
+ SOI_idea_7_desc:0 ""
