@@ -1,206 +1,348 @@
 insult_zeph_1 = { #Zeph Generic
 	trigger = {
-		FROM = { tag = ZPY }
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
 	}
 }
 
 insult_zeph_2 = { #Zeph Generic
 	trigger = {
-		FROM = { tag = ZPY }
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
 	}
 }
 
 insult_zeph_3 = { #Zeph Generic
 	trigger = {
-		FROM = { tag = ZPY }
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
 	}
 }
 
 insult_zeph_4 = { #Zeph to Thrawn
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = PRJ
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = AFR
 	}
 }
 
 insult_zeph_5 = { #Zeph to Zenvue
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = JEW
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = WAG
 	}
 }
 
-#insult_zeph_6 = { #Zeph to Badassbo
-#	trigger = {
-#		FROM = { tag = ZPY }
-#		tag = BEL
-#	}
-#}
+insult_zeph_6 = { #Zeph to Coins
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = VOC
+	}
+}
 
 insult_zeph_7 = { #Zeph to Canoe
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = PRU #replace with canoe's tag
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = QAN
 	}
 }
 
 insult_zeph_8 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
 insult_zeph_9 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
-#insult_zeph_10 = { #Zeph to Coins
-#	trigger = {
-#		FROM = { tag = ZPY }
-#		tag = VOC #replace with coins' tag
-#	}
-#}
+insult_zeph_10 = { #Zeph to Coins
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = VOC #replace with coins' tag
+	}
+}
 
-#insult_zeph_11 = { #Zeph to Coins
-#	trigger = {
-#		FROM = { tag = ZPY }
-#		tag = VOC #replace with coins' tag
-#	}
-#}
+insult_zeph_11 = { #Zeph to Coins
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = VOC #replace with coins' tag
+	}
+}
 
-#insult_zeph_12 = { #Zeph to Franco
-#	trigger = {
-#		FROM = { tag = ZPY }
-#		tag = PHO
-#	}
-#}
+insult_zeph_12 = { #Zeph to Relm
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
+	}
+}
 
 insult_zeph_13 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
 insult_zeph_14 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
-insult_zeph_15 = { #Zeph to McMuller
+insult_zeph_15 = { #Zeph to McMuller or Canoe
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		OR = {
+			tag = MCN
+			tag = QAN
+		}
 	}
 }
 
-insult_zeph_16 = { #Zeph to Undead
+insult_zeph_16 = { #Zeph Generic
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = CTH
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
 	}
 }
 
 insult_zeph_17 = { #Zeph to Undead
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = CTH
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = PAE
 	}
 }
 
 insult_zeph_18 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
 insult_zeph_19 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
 insult_zeph_20 = { #Zeph to McMuller
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = MCL
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = MCN
 	}
 }
 
 insult_zeph_21 = { #Zeph to Stewie
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = TPG
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SOI
 	}
 }
 
 insult_zeph_22 = { #Zeph to Stewie
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = TPG
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SOI
 	}
 }
 
 insult_zeph_23 = { #Zeph to Stewie
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = TPG
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SOI
 	}
 }
 
 insult_zeph_24 = { #Zeph to Stewie
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = TPG
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SOI
 	}
 }
 
 insult_zeph_25 = { #Zeph to Marco
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = ACE
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = GAE
 	}
 }
 
-insult_zeph_26 = { #Zeph to Ox, needs tag fixing later
+insult_zeph_26 = { #Zeph to Relm
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = OTA
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
 	}
 }
 
-insult_zeph_27 = { #Zeph to Ox, needs tag fixing later
+insult_zeph_27 = { #Zeph to Relm
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = OTA
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
 	}
 }
 
-insult_zeph_28 = { #Zeph to Ox, needs tag fixing later
+insult_zeph_28 = { #Zeph to Relm
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = OTA
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
 	}
 }
 
-insult_zeph_29 = { #Zeph to Ox, needs tag fixing later
+insult_zeph_29 = { #Zeph to Relm
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = OTA
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
 	}
 }
 
-insult_zeph_30 = { #Zeph to Ox, needs tag fixing later
+insult_zeph_30 = { #Zeph to Relm
 	trigger = {
-		FROM = { tag = ZPY }
-		tag = OTA
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
+	}
+}
+
+insult_zeph_31 = { #Zeph to Relm
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = ODS
+	}
+}
+
+insult_zeph_32 = { #Zeph to Semice
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SEM
+	}
+}
+
+insult_zeph_33 = { #Zeph to Semice
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = SEM
+	}
+}
+
+insult_zeph_34 = { #Zeph to Oljo
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = JLL
+	}
+}
+
+insult_zeph_35 = { #Zeph to Oljo
+	trigger = {
+		OR = {
+			FROM = { tag = ZPD }
+			FROM = { tag = ZPJ }
+		}
+		tag = JLL
 	}
 }

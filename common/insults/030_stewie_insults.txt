@@ -1,72 +1,62 @@
 insult_stewie_1 = { #Stewie send to 151 owner
 	trigger = {
-		FROM = { tag = TPG }
+		FROM = { tag = SOI }
 		controls = 151
 	}
 }
 
-#insult_stewie_2 = { #Stewie to VOC
-#	trigger = {
-#		FROM = { tag = TPG }
-#		tag = VOC
-#	}
-#}
-
-insult_stewie_3 = { #Stewie to Pirates
+insult_stewie_2 = { #Stewie to VOC
 	trigger = {
-		FROM = { tag = TPG }
-		tag = JEW
+		FROM = { tag = SOI }
+		tag = VOC
+	}
+}
+
+insult_stewie_3 = { #Stewie to Italian culture
+	trigger = {
+		FROM = { tag = SOI }
+		culture_group = latin
 	}
 }
 
 insult_stewie_4 = { #Stewie generic send
 	trigger = {
-		FROM = { tag = TPG }
+		FROM = { tag = SOI }
 	}
 }
 
 insult_stewie_5 = { #Stewie to Zeph
 	trigger = {
-		FROM = { tag = TPG }
-		tag = ZPY
+		FROM = { tag = SOI }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
 	}
 }
 
 insult_stewie_6 = { #Stewie generic send
 	trigger = {
-		FROM = { tag = TPG }
+		FROM = { tag = SOI }
 	}
 }
 
 insult_stewie_7 = { #Stewie generic send
 	trigger = {
-		FROM = { tag = TPG }
+		FROM = { tag = SOI }
 	}
 }
 
 insult_stewie_8 = { #Stewie to McMuller
 	trigger = {
-		FROM = { tag = TPG }
-		tag = MCL
+		FROM = { tag = SOI }
+		tag = MCN
 	}
 }
 
 insult_stewie_9 = { #Stewie to bordering nation
 	trigger = {
-		FROM = { tag = TPG }
-		is_neighbor_of = TPG
-	}
-}
-
-insult_stewie_10 = { #Stewie to Italian culture
-	trigger = {
-		FROM = { tag = TPG }
-		culture_group = latin
-	}
-}
-
-insult_stewie_11 = { #Stewie generic send
-	trigger = {
-		FROM = { tag = TPG }
+		FROM = { tag = SOI }
+		is_neighbor_of = SOI
 	}
 }

@@ -1,6 +1,6 @@
-insult_thrawn_1 = { #Thrawn to Zeph
+insult_thrawn_1 = { #Thrawn to Canoe
 	trigger = {
-		FROM = { tag = PRJ }
-		tag = ZPY
+		FROM = { tag = AFR }
+		tag = QAN
 	}
 }
