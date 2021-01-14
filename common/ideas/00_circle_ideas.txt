@@ -267,7 +267,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_2 = {
-		prestige = 1
+		infantry_power = 0.10
 	}
 	
 	vocoins_idea_3 = {
@@ -283,7 +283,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_6 = {
-		trade_steering = 0.20
+		discipline = 0.05
 	}
 	
 	vocoins_idea_7 = {
