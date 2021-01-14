@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = prussian_monarchy
+government_rank = 2
+mercantilism = 10
+primary_culture = roman
+=religion = catholic
+technology_group = western
+capital = 182 # Soissons
+
+1444.1.1 = {
+	monarch = {
+		name = "Aegidius"
+		dynasty = "Stewus"
+		birth_date = 1411.3.27
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = cruel_personality
+	queen = {
+		name = "Secunda"
+		dynasty = "Lowbornus"
+		birth_date = 1424.3.1
+		female = yes
+		adm = 0
+		dip = 0
+		mil = 0
+		death_date = 1467.3.21
+	}
+	add_queen_personality = cruel_personality
+	heir = {
+		name = "Topkekus"
+		monarch_name = "Topkekus"
+		dynasty = "Stewus"
+		birth_date = 1429.12.29
+		death_date = 1445.3.2
+		claim = 90
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
