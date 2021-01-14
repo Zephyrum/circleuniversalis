@@ -1,0 +1,33 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = chinese
+primary_culture = manchu
+religion = tengri_pagan_reformed #change to Bologomist later
+capital = 4201
+
+1444.1.1 = {
+	monarch = {
+		name = "Muzhou"
+		dynasty = "Qanoe"
+		birth_date = 1420.1.1
+		death_date = 1480.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+		leader = { name = "Cungsan" type = general	fire = 2	shock = 2	manuever = 4	siege = 1 }
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Youting"
+		monarch_name = "Youting"
+		dynasty = "Qanoe"
+		birth_date = 1435.1.1
+		death_date = 1500.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
