@@ -385,6 +385,7 @@ QAN_ideas = {
 	trigger = {
 		tag = QAN
 	}
+	free = yes
 	
 	QAN_idea_1 = {
 		tolerance_heathen = 2
