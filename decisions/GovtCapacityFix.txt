@@ -2,27 +2,63 @@ country_decisions = {
 
 	give_everyone_govcap = {
 		potential = {
-			tag = ZPY
+			tag = ZPD
 			NOT = { has_country_flag = govcapfix }
 		}
 		allow = {
-			tag = ZPY
+			tag = ZPD
 		}
 		effect = {
 			set_country_flag = govcapfix
-			JEW = {
+			GAE = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
 				}
 			}
-			ZPY = {
+			ODS = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
 				}
 			}
-			PRJ = {
+			SOI = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			MCN = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			AFR = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			SEM = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			WAG = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			PAE = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			JLL = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
@@ -34,25 +70,13 @@ country_decisions = {
 					duration = -1  
 				}
 			}
-			MCL = {
+			QAN = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
 				}
 			}
-			NRE = {
-				add_country_modifier = { 
-					name = circle_government_capacity
-					duration = -1  
-				}
-			}
-			CNE = {
-				add_country_modifier = { 
-					name = circle_government_capacity
-					duration = -1  
-				}
-			}
-			TPG = {
+			ZPD = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
