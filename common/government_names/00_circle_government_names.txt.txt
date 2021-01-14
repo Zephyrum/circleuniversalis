@@ -83,7 +83,7 @@ mc_titles = {
 	rank = {
 		1 = MCDUCHY
 		2 = MCKINGDOM
-		3 = MCCALIPHATE
+		3 = MCEMPIRE
 	}	
 
 	ruler_male = {
