@@ -126,3 +126,78 @@ mc_titles = {
 		tag = MCN
 	}
 }
+
+coins_ruler_titles = {
+	rank = {
+		1 = VOCOINS_DUCHY
+		2 = VOCOINS_KINGDOM
+		3 = VOCOINS_EMPIRE
+	}
+
+	ruler_male = {
+		1 = VOCOINS_DUKE
+		2 = VOCOINS_KING
+		3 = VOCOINS_EMPEROR
+	}
+
+	ruler_female = {
+		1 = VOCOINS_DUCHESS
+		2 = VOCOINS_QUEEN
+		3 = VOCOINS_EMPRESS
+	}
+	
+	consort_male = {
+		1 = VOCOINS_CONSORT_MALE
+		2 = VOCOINS_CONSORT_MALE
+		3 = VOCOINS_CONSORT_MALE
+	}
+
+	consort_female = {
+		1 = VOCOINS_CONSORT_FEMALE
+		2 = VOCOINS_CONSORT_FEMALE
+		3 = VOCOINS_CONSORT_FEMALE
+	}
+	
+	heir_male = {
+		1 = VOCOINS_HEIR_MALE
+		2 = VOCOINS_HEIR_MALE
+		3 = VOCOINS_HEIR_MALE
+	}
+	
+	heir_female = {
+		1 = VOCOINS_HEIR_FEMALE
+		2 = VOCOINS_HEIR_FEMALE
+		3 = VOCOINS_HEIR_FEMALE
+	}
+
+	trigger = {
+		government = monarchy
+		tag = VOC
+	}
+}
+
+coins_vassal_titles = {
+	rank = {
+		1 = VOCOINS_VASSALSTATE
+		2 = VOCOINS_VASSALSTATE
+		3 = VOCOINS_VASSALSTATE
+	}	
+
+	ruler_male = {
+		1 = VOCOINS_VASSALPERSON
+		2 = VOCOINS_VASSALPERSON
+		3 = VOCOINS_VASSALPERSON
+	}
+
+	ruler_female = {
+		1 = VOCOINS_VASSALPERSONFEMALE
+		2 = VOCOINS_VASSALPERSONFEMALE
+		3 = VOCOINS_VASSALPERSONFEMALE
+	}
+	
+	trigger = {
+		overlord = {
+			tag = VOC
+		}
+	}
+}

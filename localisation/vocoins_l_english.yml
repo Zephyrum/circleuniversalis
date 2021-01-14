@@ -25,9 +25,26 @@
  vocoins_idea_7_desc:0 "Since our arrival here we've brought only good for those poor savages we found here. The idea of Feudalism, the word of Christ, economical improvements... Yes, we are the light of civilization in the darkness!"
  
  # Titles
- #vocoins_RANK_1_GOVERNMENT:0 "Duchy"
- #vocoins_RANK_2_GOVERNMENT:0 "Kingdom"
- #vocoins_RANK_3_GOVERNMENT:0 "Empire"
+ VOCOINS_DUCHY: "Kammer" #Duchy
+ VOCOINS_KINGDOM: "Ratskammer" #Kingdom
+ VOCOINS_EMPIRE: "Direktorium" #Empire
+ 
+ VOCOINS_DUKE: "Mijnheer" #Duke
+ VOCOINS_KING: "Ratsherr" #King
+ VOCOINS_EMPEROR: "Lord-Direktor" #Emperor
+ 
+ VOCOINS_DUCHESS: "Mevrouw" #Duchess
+ VOCOINS_QUEEN: "Ratsdame" #Queen
+ VOCOINS_EMPRESS: "Mevrouw Direktor" #Empress
+ 
+ VOCOINS_CONSORT_MALE: "Porter" #Consort (male)
+ VOCOINS_CONSORT_FEMALE: "Mevrouw" #Consort (female)
+ VOCOINS_HEIR_MALE: "Jongeheer" #Heir
+ VOCOINS_HEIR_FEMALE: "Jongedame" #Heiress
+
+ VOCOINS_VASSALSTATE: "Fürstentum" #Vassal (state)
+ VOCOINS_VASSALPERSON: "Freyheer" #Vassal (person)
+ VOCOINS_VASSALPERSONFEMALE: "Freyvrouw" #Vassal (person)
  
  # Insults
  insult_vocoins_1:0 "I sure hope your wife cheated on you; or your poor children will be damned to be as ugly and dumb as you!"
