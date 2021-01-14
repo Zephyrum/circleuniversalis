@@ -6,45 +6,45 @@
 
 zephyrum_ruler_titles = {
 	rank = {
-		1 = ZEPH_BEYLIK
-		2 = ZEPH_BEYLERBEYLIK
-		3 = ZEPH_IMPARATORLUK
+		1 = ZEPH_DUCHY
+		2 = ZEPH_KINGDOM
+		3 = ZEPH_EMPIRE
 	}
 
 	ruler_male = {
-		1 = ZEPH_BEY
-		2 = ZEPH_CELEBI
-		3 = ZEPH_IMPARATOR
+		1 = ZEPH_DUKE
+		2 = ZEPH_KING
+		3 = ZEPH_EMPEROR
 	}
 
 	ruler_female = {
-		1 = ZEPH_BEYSADE
-		2 = ZEPH_HATUN
-		3 = ZEPH_IMPARATORICE
+		1 = ZEPH_DUCHESS
+		2 = ZEPH_QUEEN
+		3 = ZEPH_EMPRESS
 	}
 	
 	consort_male = {
-		1 = ZEPH_CELEBI
-		2 = ZEPH_CELEBI
-		3 = ZEPH_CELEBI
+		1 = ZEPH_CONSORT_MALE
+		2 = ZEPH_CONSORT_MALE
+		3 = ZEPH_CONSORT_MALE
 	}
 
 	consort_female = {
-		1 = ZEPH_WAIFU
-		2 = ZEPH_WAIFU
-		3 = ZEPH_WAIFU
+		1 = ZEPH_CONSORT_FEMALE
+		2 = ZEPH_CONSORT_FEMALE
+		3 = ZEPH_CONSORT_FEMALE
 	}
 	
 	heir_male = {
-		1 = ZEPH_SEHZADE
-		2 = ZEPH_SEHZADE
-		3 = ZEPH_SEHZADE
+		1 = ZEPH_HEIR_MALE
+		2 = ZEPH_HEIR_MALE
+		3 = ZEPH_HEIR_MALE
 	}
 	
 	heir_female = {
-		1 = ZEPH_HASEKISULTAN
-		2 = ZEPH_HASEKISULTAN
-		3 = ZEPH_HASEKISULTAN
+		1 = ZEPH_HEIR_FEMALE
+		2 = ZEPH_HEIR_FEMALE
+		3 = ZEPH_HEIR_FEMALE
 	}
 
 	trigger = {
@@ -55,21 +55,21 @@ zephyrum_ruler_titles = {
 
 zephyrum_vassal_titles = {
 	rank = {
-		1 = ZEPH_DIADOHOI
-		2 = ZEPH_DIADOHOI
-		3 = ZEPH_DIADOHOI
+		1 = ZEPH_VASSALSTATE
+		2 = ZEPH_VASSALSTATE
+		3 = ZEPH_VASSALSTATE
 	}	
 
 	ruler_male = {
-		1 = ZEPH_DIADOHLAR
-		2 = ZEPH_DIADOHLAR
-		3 = ZEPH_DIADOHLAR
+		1 = ZEPH_VASSALPERSON
+		2 = ZEPH_VASSALPERSON
+		3 = ZEPH_VASSALPERSON
 	}
 
 	ruler_female = {
-		1 = ZEPH_DIADOHLAR
-		2 = ZEPH_DIADOHLAR
-		3 = ZEPH_DIADOHLAR
+		1 = ZEPH_VASSALPERSON
+		2 = ZEPH_VASSALPERSON
+		3 = ZEPH_VASSALPERSON
 	}
 	
 	trigger = {

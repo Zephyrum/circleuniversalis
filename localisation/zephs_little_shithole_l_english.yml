@@ -33,25 +33,25 @@
  desc_zpj_now_orthodox: "This country has recently converted."
  
  # Titles
- ZEPH_BEYLIK: "Kōkoku" #Duchy
- ZEPH_BEYLERBEYLIK: "Kōkoku" #Kingdom
- ZEPH_IMPARATORLUK: "Teikoku" #Empire
+ ZEPH_DUCHY: "Kōkoku" #Duchy
+ ZEPH_KINGDOM: "Kōkoku" #Kingdom
+ ZEPH_EMPIRE: "Teikoku" #Empire
  
- ZEPH_DIADOHOI: "Daimyo" #Vassal (state)
- ZEPH_DIADOHLAR: "Daimyo" #Vassal (person)
+ ZEPH_DUKE: "Kōshaku" #Duke
+ ZEPH_KING: "Kōshaku" #King
+ ZEPH_EMPEROR: "Kōtei" #Emperor
  
- ZEPH_BEY: "Kōshaku" #Duke
- ZEPH_BEYLERBEY: "Kōshaku" #King
- ZEPH_IMPARATOR: "Kōtei" #Emperor
+ ZEPH_DUCHESS: "Kōshaku" #Duchess
+ ZEPH_QUEEN: "Joō" #Queen
+ ZEPH_EMPRESS: "Kōgou" #Empress
  
- ZEPH_BEYSADE: "Kōshaku" #Duchess
- ZEPH_HATUN: "Joō" #Queen
- ZEPH_IMPARATORICE: "Kōgou" #Empress
- 
- ZEPH_CELEBI: "Haigūsha" #Consort (male)
- ZEPH_WAIFY: "Waifu" #Consort (female)
- ZEPH_SEHZADE: "Ōji" #Heir
- ZEPH_HASEKISULTAN: "Hime" #Heiress
+ ZEPH_CONSORT_MALE: "Haigūsha" #Consort (male)
+ ZEPH_CONSORT_FEMALE: "Waifu" #Consort (female)
+ ZEPH_HEIR_MALE: "Ōji" #Heir
+ ZEPH_HEIR_FEMALE: "Hime" #Heiress
+
+ ZEPH_VASSALSTATE: "Daimyo" #Vassal (state)
+ ZEPH_VASSALPERSON: "Daimyo" #Vassal (person)
  
  # Insults
  insult_zeph_1:0 "Why are you gay?"
