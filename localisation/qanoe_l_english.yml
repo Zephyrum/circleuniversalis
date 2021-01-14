@@ -22,3 +22,11 @@
  QAN_idea_6_desc:0 ""
  QAN_idea_7:0 ""
  QAN_idea_7_desc:0 ""
+ 
+ # Bogomilism
+ bogomilist:0 "Bogomilist"
+ bogomilist_religion_desc: "Bogomilism is an originally Orthodox Christian heresy with Gnostic elements that completely rejects the ecclesiastical hierarchy and advocates a return to early Christianity. Bogomilists believe that the world was created by an evil demiurge - the Devil."
+ bogomilist_rebels_title: "Religious"
+ bogomilist_rebels_name: "$RELIGION$ Zealots"
+ bogomilist_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ bogomilist_rebels_army: "$RELIGION$ Army"
