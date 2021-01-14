@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = tribal_kingdom
-primary_culture = greek
+primary_culture = ganda
 religion = hussite
 technology_group = central_african
 
