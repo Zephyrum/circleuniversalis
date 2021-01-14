@@ -63,3 +63,55 @@ insult_vocoins_11 = { #Coins generic
 		FROM = { tag = VOC }
 	}
 }
+
+insult_vocoins_12 = { #Coins to McMuller
+	trigger = {
+		FROM = { tag = VOC }
+		tag = MCN
+	}
+}
+
+insult_vocoins_13 = { #Coins to Oljo
+	trigger = {
+		FROM = { tag = VOC }
+		tag = JLL
+	}
+}
+
+insult_vocoins_14 = { #Coins to Oljo
+	trigger = {
+		FROM = { tag = VOC }
+		tag = JLL
+	}
+}
+
+insult_vocoins_15 = { #Coins to Thrawn
+	trigger = {
+		FROM = { tag = VOC }
+		tag = AFR
+	}
+}
+
+insult_vocoins_16 = { #Coins to Canoe
+	trigger = {
+		FROM = { tag = VOC }
+		tag = QAN
+	}
+}
+
+insult_vocoins_17 = { #Coins to Zenvue
+	trigger = {
+		FROM = { tag = VOC }
+		tag = WAG
+	}
+}
+
+insult_vocoins_18 = { #Coins to Zeph
+	trigger = {
+		FROM = { tag = VOC }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
