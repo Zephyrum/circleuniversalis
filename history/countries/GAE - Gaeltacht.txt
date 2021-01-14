@@ -17,6 +17,9 @@ capital = 376
 		birth_date = 1415.1.1
 		female = yes
 	}
+}
+
+1444.1.1 = {
 	heir = {
 		name = "Eoghain"
 		dynasty = "Ní Mháille"
@@ -25,7 +28,7 @@ capital = 376
 		mil = 4
 		birth_date = 1435.1.1
 	}
-	clear_scripted_personality = yes
+	clear_scripted_personalities = yes
 	add_heir_personality = strict_personality
 	add_ruler_personality = industrious_personality
 }

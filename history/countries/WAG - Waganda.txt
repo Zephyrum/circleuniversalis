@@ -1,7 +1,7 @@
 government = tribal
 add_government_reform = tribal_kingdom
-primary_culture = hussite
-religion = shamanism #Fetishism
+primary_culture = greek
+religion = hussite
 technology_group = central_african
 
 unit_type = sub_saharan
