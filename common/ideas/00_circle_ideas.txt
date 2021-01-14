@@ -326,3 +326,36 @@ SEM_ideas = {
 		hostile_attrition = 1
 	}
 }
+
+SOI_ideas = {
+	start = {
+		advisor_cost = -0.1
+		improve_relation_modifier = 0.15
+	}
+	bonus = {
+		land_maintenance_modifier = -0.15
+	}
+	free = yes
+	
+	SOI_idea_1 = {
+		idea_cost = -0.1
+	}
+	SOI_idea_2 = {
+		monthly_militarized_society = 0.1
+	}
+	SOI_idea_3 = {
+		trade_efficiency = 0.1
+	}
+	SOI_idea_4 = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	SOI_idea_5 = {
+		global_own_trade_power = 0.1
+	}
+	SOI_idea_6 = {
+		culture_conversion_cost = -0.2
+	}
+	SOI_idea_7 = {
+		discipline = 0.05
+	}
+}
