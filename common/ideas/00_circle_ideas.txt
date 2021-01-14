@@ -267,7 +267,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_2 = {
-		infantry_power = 0.10
+		prestige = 1
 	}
 	
 	vocoins_idea_3 = {
@@ -283,7 +283,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_6 = {
-		discipline = 0.05
+		trade_steering = 0.20
 	}
 	
 	vocoins_idea_7 = {
@@ -410,5 +410,42 @@ QAN_ideas = {
 	}
 	QAN_idea_7 = {
 		stability_cost_modifier = -0.1
+	}
+}
+
+JLD_ideas = {
+	start = {
+		production_efficiency = 0.1
+		land_forcelimit_modifier = 0.25
+	}
+	bonus = {
+		build_cost = -0.1
+	}
+	
+	trigger = {
+		tag = JLD
+	}
+	free = yes
+	
+	JLD_idea_1 = {
+		global_manpower_modifier = 0.25
+	}
+	JLD_idea_2 = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	JLD_idea_3 = {
+		technology_cost = -0.1
+	}
+	JLD_idea_4 = {
+		core_creation = -0.1
+	}
+	JLD_idea_5 = {
+		global_unrest = -2
+	}
+	JLD_idea_6 = {
+		discipline = 0.05
+	}
+	JLD_idea_7 = {
+		development_cost = -0.2
 	}
 }
