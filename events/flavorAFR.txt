@@ -95,6 +95,7 @@ province_event = {
 		}
 		NOT = { religion = catholic }
 		owned_by = AFR
+		AFR = { religion = catholic }
 	}
 	
 	mean_time_to_happen = {
