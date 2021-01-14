@@ -1,39 +1,4 @@
 music = {
-	name = "Wide Muller"
-	file = "widemuller.ogg"
-}
-
-music = {
-	name = "Rumor Theater"
-	file = "rumortheater.ogg"
-}
-
-music = {
-	name = "He's a Pirate"
-	file = "hesapirate.ogg"
-}
-
-music = {
-	name = "Fourth Season"
-	file = "fourthseason.ogg"
-}
-
-music = {
-	name = "Devil"
-	file = "devil.ogg"
-}
-
-music = {
-	name = "Dombra"
-	file = "dombra.ogg"
-}
-
-music = {
-	name = "Cripple Creek"
-	file = "cripplecreek.ogg"
-}
-
-music = {
 	name = "Irish Bullshit"
 	file = "irishbs.ogg"
 }
