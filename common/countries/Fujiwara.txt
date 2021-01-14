@@ -2,7 +2,7 @@
 
 graphical_culture = asiangfx
 
-color = { 240  100  74 }
+color = { 15  10  190 }
 
 revolutionary_colors = { 0 13 0 }
 

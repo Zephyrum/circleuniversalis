@@ -183,6 +183,7 @@ ODS_ideas = {
 		tag = ODS
 	}
 	free = yes
+	
 	black_reaver = {
 		core_creation = -0.15
 	}
@@ -214,7 +215,12 @@ GAE_ideas = {
 	bonus = {
 		leader_land_fire = 1
 	}
+	
+	trigger = {
+		tag = GAE
+	}
 	free = yes
+	
 	grainne_ni_mhaille = {
 		diplomatic_reputation = 1
 		may_perform_slave_raid = yes
@@ -249,9 +255,11 @@ vocoins_ideas = {
 	bonus = {
 		prestige = 1
 	}
+	
 	trigger = {
 		tag = VOC
 	}
+	
 	free = yes
 	
 	vocoins_idea_1 = {
@@ -291,6 +299,7 @@ SEM_ideas = {
 	bonus = {
 		core_creation = -0.2
 	}
+	
 	trigger = {
 		tag = SEM
 	}
@@ -335,7 +344,12 @@ SOI_ideas = {
 	bonus = {
 		land_maintenance_modifier = -0.15
 	}
+	
+	trigger = {
+		tag = SOI
+	}
 	free = yes
+	
 	SOI_idea_1 = {
 		idea_cost = -0.1
 	}
@@ -367,6 +381,11 @@ QAN_ideas = {
 	bonus = {
 		global_manpower_modifier = 0.2
 	}
+	
+	trigger = {
+		tag = QAN
+	}
+	
 	QAN_idea_1 = {
 		tolerance_heathen = 2
 		warscore_cost_vs_other_religion = -0.25
