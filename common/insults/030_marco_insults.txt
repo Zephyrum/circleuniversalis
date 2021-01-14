@@ -7,3 +7,48 @@ insult_marco_1 = { #Marco to Zeph
 		}
 	}
 }
+
+insult_marco_2 = { #Marco to McMuller
+	trigger = {
+		FROM = { tag = GAE }
+		tag = MCN
+	}
+}
+
+insult_marco_3 = { #Marco to Zeph
+	trigger = {
+		FROM = { tag = GAE }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_marco_4 = { #Marco to Relm
+	trigger = {
+		FROM = { tag = GAE }
+		tag = ODS
+	}
+}
+
+insult_marco_5 = { #Marco to Undead
+	trigger = {
+		FROM = { tag = GAE }
+		tag = PAE
+	}
+}
+
+insult_marco_6 = { #Marco to Thrawn
+	trigger = {
+		FROM = { tag = GAE }
+		tag = AFR
+	}
+}
+
+insult_marco_7 = { #Marco to Stewie
+	trigger = {
+		FROM = { tag = GAE }
+		tag = SOI
+	}
+}
