@@ -80,3 +80,30 @@ country_event = {
 		add_stability = 1
 	}
 }
+
+# Growth of the Latin Community
+province_event = {
+	id = flavor_afr.2
+	title = "flavor_afr.EVTNAME2"
+	desc = "flavor_afr.EVTDESC2"
+	picture = REFORM_eventPicture
+	
+	trigger = {
+		OR = {
+			province_id = 2452
+			province_id = 2453
+		}
+		NOT = { religion = catholic }
+		owned_by = AFR
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "flavor_afr.EVTOPTA2"
+		change_religion = catholic
+		change_culture = african_latin
+	}
+}
