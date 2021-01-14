@@ -376,7 +376,7 @@ SOI_ideas = {
 QAN_ideas = {
 	start = {
 		land_morale = 0.10
-		diplomatic_reputation = 2
+		tolerance_heathen = 2
 	}
 	bonus = {
 		global_manpower_modifier = 0.20
@@ -388,7 +388,7 @@ QAN_ideas = {
 	free = yes
 	
 	QAN_idea_1 = {
-		tolerance_heathen = 2
+		diplomatic_reputation = 2
 		warscore_cost_vs_other_religion = -0.20
 	}
 	QAN_idea_2 = {
