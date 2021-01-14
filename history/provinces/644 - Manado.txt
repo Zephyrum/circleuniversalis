@@ -1,6 +1,6 @@
 #644 - Manado
 
-culture = sulawesi
+culture = voc_dutch
 religion = catholic
 capital = "Manado"
 trade_goods = spices

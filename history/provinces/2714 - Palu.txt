@@ -1,6 +1,6 @@
 #2714 - Palu
 
-culture = dutch
+culture = voc_dutch
 religion = catholic
 capital = "Coinstadt"
 trade_goods = cloth

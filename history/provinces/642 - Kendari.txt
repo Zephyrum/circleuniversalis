@@ -1,6 +1,6 @@
 #642 - Kendari
 
-culture = sulawesi
+culture = voc_dutch
 religion = catholic
 capital = "Kendari"
 trade_goods = fish

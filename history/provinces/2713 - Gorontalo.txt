@@ -1,6 +1,6 @@
 #2713 - Gorontalo
 
-culture = sulawesi
+culture = voc_dutch
 religion = catholic
 capital = "Gorontalo"
 trade_goods = tropical_wood

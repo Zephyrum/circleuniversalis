@@ -8,6 +8,7 @@
 628 = "McStadt der Helden"
 630 = "McBatavia"
 641 = "McHaven's Cross"
+642 = "Supertown Extraordinaire"
 643 = "McKestramore"
 644 = "McLoren Harbor"
 2713 = "McLorenth"

@@ -1,6 +1,7 @@
 #Europe -> REAL names, I swear!
-33 = "Anthesigrad"
-4768 = "Düsseldorf"
+33 = "Engevya"
+84 = "Düsseldorf"
+295 = "Anthesigrad"
 
 #Malaysia and Sumatra -> Pendraic
 596 = "Faroin"
@@ -14,6 +15,7 @@
 
 #Sulawesi -> Haven's Continent
 641 = "Haven's Cross"
+642 = "Stratford-upon-Avon"
 643 = "Kestramore"
 644 = "Loren Harbor"
 2713 = "Lorenth"
