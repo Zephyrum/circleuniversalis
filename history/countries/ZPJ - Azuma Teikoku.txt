@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = daimyo
+add_government_reform = plutocratic_reform
 government_rank = 3
 primary_culture = togoku
 religion = orthodox
