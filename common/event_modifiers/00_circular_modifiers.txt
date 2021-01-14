@@ -5,3 +5,7 @@
 circle_government_capacity = {
 	governing_capacity = 400
 }
+
+zpj_now_orthodox = {
+	global_missionary_strength = 0.1
+}

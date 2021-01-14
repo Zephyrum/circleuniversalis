@@ -26,6 +26,11 @@
  zpj_bodies_hitting_floor_noises_desc:0 "We're not a cult. Cults are exclusive. We recruit literally anyone to serve as expendable manpower in our army."
  
  # Events & Decisions
+ azuma_teikoku:0 "The Eastern Empire"
+ desc_azuma_teikoku:0 "With Japan unified, no one stands in the way of our ambition. Let us create Azuma Teikoku, the Empire of the East!"
+
+ zpj_now_orthodox: "Recent Converts"
+ desc_zpj_now_orthodox: "This country has recently converted."
  
  # Titles
  ZEPH_BEYLIK: "Beylik"
