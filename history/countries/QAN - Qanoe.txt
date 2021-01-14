@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = chinese
 primary_culture = manchu
-religion = tengri_pagan_reformed #change to Bologomist later
+religion = bogomilist
 capital = 4201
 
 1444.1.1 = {

@@ -1,6 +1,6 @@
 #643 - Poso
 
-culture = sulawesi
+culture = voc_dutch
 religion = catholic
 capital = "Poso"
 trade_goods = spices
