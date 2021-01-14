@@ -4,4 +4,4 @@ government_rank = 3
 primary_culture = togoku
 religion = orthodox
 technology_group = chinese
-capital = 4457 # Zephyryie
+capital = 1028 # Musashi or Tokyo
