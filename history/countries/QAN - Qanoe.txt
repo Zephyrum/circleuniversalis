@@ -1,5 +1,5 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = republic
+add_government_reform = presidential_despot_reform
 technology_group = chinese
 primary_culture = manchu
 religion = bogomilist
@@ -14,7 +14,7 @@ capital = 4201
 		adm = 3
 		dip = 3
 		mil = 3
-		leader = { name = "Cungsan" type = general	fire = 2	shock = 2	manuever = 4	siege = 1 }
+		leader = { name = "Little Shit" type = general	fire = 2	shock = 2	manuever = 4	siege = 1 }
 	}
 }
 

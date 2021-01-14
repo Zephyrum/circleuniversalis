@@ -375,11 +375,11 @@ SOI_ideas = {
 
 QAN_ideas = {
 	start = {
-		land_morale = 0.1
+		land_morale = 0.10
 		diplomatic_reputation = 2
 	}
 	bonus = {
-		global_manpower_modifier = 0.2
+		global_manpower_modifier = 0.20
 	}
 	
 	trigger = {
@@ -392,13 +392,13 @@ QAN_ideas = {
 		warscore_cost_vs_other_religion = -0.20
 	}
 	QAN_idea_2 = {
-		discipline = 0.05
+		infantry_power = 0.10
 	}
 	QAN_idea_3 = {
 		fire_damage = 0.10
 	}
 	QAN_idea_4 = {
-		development_cost = -0.10
+		development_cost = -0.05
 		build_cost = -0.05
 	}
 	QAN_idea_5 = {
