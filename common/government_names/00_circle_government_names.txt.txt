@@ -4,7 +4,7 @@
 #Heir and consort titles are generally kept simple for clarity unless there is something special in particular that can be used.
 
 
-zephyrids_ruler_titles = {
+zephyrum_ruler_titles = {
 	rank = {
 		1 = ZEPH_BEYLIK
 		2 = ZEPH_BEYLERBEYLIK
@@ -30,9 +30,9 @@ zephyrids_ruler_titles = {
 	}
 
 	consort_female = {
-		1 = ZEPH_HATUN
-		2 = ZEPH_HATUN
-		3 = ZEPH_HATUN
+		1 = ZEPH_WAIFU
+		2 = ZEPH_WAIFU
+		3 = ZEPH_WAIFU
 	}
 	
 	heir_male = {
@@ -49,11 +49,11 @@ zephyrids_ruler_titles = {
 
 	trigger = {
 		government = monarchy
-		tag = ZPY
+		tag = ZPJ
 	}
 }
 
-zephyrids_vassal_titles = {
+zephyrum_vassal_titles = {
 	rank = {
 		1 = ZEPH_DIADOHOI
 		2 = ZEPH_DIADOHOI
@@ -72,54 +72,30 @@ zephyrids_vassal_titles = {
 		3 = ZEPH_DIADOHLAR
 	}
 	
-	heir_male = {
-		1 = ZEPH_VALIAHAD
-		2 = ZEPH_VALIAHAD
-		3 = ZEPH_VALIAHAD
-	}
-
-	heir_female = {
-		1 = ZEPH_VALIAHAD
-		2 = ZEPH_VALIAHAD
-		3 = ZEPH_VALIAHAD
-	}
-	
-	consort_male = {
-		1 = ZEPH_CELEBI
-		2 = ZEPH_CELEBI
-		3 = ZEPH_CELEBI
-	}
-	
-	consort_female = {
-		1 = ZEPH_HATUN
-		2 = ZEPH_HATUN
-		3 = ZEPH_HATUN
-	}
-	
 	trigger = {
 		overlord = {
-			tag = ZPY
+			tag = ZPJ
 		}
 	}
 }
 
 mc_titles = {
 	rank = {
-		1 = MCEMIRATE
-		2 = MCSULTANATE
+		1 = MCDUCHY
+		2 = MCKINGDOM
 		3 = MCCALIPHATE
 	}	
 
 	ruler_male = {
-		1 = MCEMIR
-		2 = MCSULTAN
-		3 = MCCALIPH
+		1 = MCRULER1
+		2 = MCRULER2
+		3 = MCRULER3
 	}
 
 	ruler_female = {
-		1 = MCEMIRA
-		2 = MCSULTANA
-		3 = MCCALIPHA
+		1 = MCSHERULER1
+		2 = MCSHERULER2
+		3 = MCSHERULER3
 	}
 	
 	heir_male = {
@@ -147,55 +123,6 @@ mc_titles = {
 	}
 	
 	trigger = {
-		tag = MCL
-	}
-}
-
-taiping_ruler_titles = {
-	rank = {
-		1 = HEAVENLYRANK1
-		2 = HEAVENLYRANK2
-		3 = HEAVENLYRANK3
-	}
-
-	ruler_male = {
-		1 = HEAVENLYSON
-		2 = HEAVENLYSON
-		3 = HEAVENLYSON
-	}
-
-	ruler_female = {
-		1 = HEAVENLYDAUGHTER
-		2 = HEAVENLYDAUGHTER
-		3 = HEAVENLYDAUGHTER
-	}
-	
-	consort_male = {
-		1 = HEAVENLYSON
-		2 = HEAVENLYSON
-		3 = HEAVENLYSON
-	}
-
-	consort_female = {
-		1 = HEAVENLYDAUGHTER
-		2 = HEAVENLYDAUGHTER
-		3 = HEAVENLYDAUGHTER
-	}
-	
-	heir_male = {
-		1 = HEAVENLYSON
-		2 = HEAVENLYSON
-		3 = HEAVENLYSON
-	}
-	
-	heir_female = {
-		1 = HEAVENLYDAUGHTER
-		2 = HEAVENLYDAUGHTER
-		3 = HEAVENLYDAUGHTER
-	}
-
-	trigger = {
-		government = theocracy
-		tag = TPG
+		tag = MCN
 	}
 }

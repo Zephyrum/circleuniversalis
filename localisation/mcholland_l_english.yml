@@ -23,6 +23,21 @@
  MCN_windmills:0 "Windmills"
  MCN_windmills_desc:0 "Thought those windmills were just for show? think again. These bad boys spin day and night, powering the production of dutch goods."
  
+ # Titles
+ MCDUCHY:0 "McDuchy"
+ MCKINGDOM:0 "McKingdom"
+ MCEMPIRE:0 "McEmpire"
+ MCRULER1:0 "McPensionary"
+ MCRULER2:0 "McStadtholder"
+ MCRULER3:0 "Superstadtholder Extraodinaire"
+ MCSHERULER1:0 "McPensionary"
+ MCSHERULER2:0 "McStadtholder"
+ MCSHERULER3:0 "Superstadtholder Extraodinaire"
+ MCHEIR:0 "McHeir"
+ MCHEIRESS:0 "McHeiress"
+ MCCONSORT:0 "McBro"
+ MCWHORE:0 "McWhore"
+ 
  # Insults
  insult_mcm_1:0 "Go McFuck yourself"
  insult_mcm_2:0 "Go McFuck yourself"

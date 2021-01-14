@@ -33,21 +33,25 @@
  desc_zpj_now_orthodox: "This country has recently converted."
  
  # Titles
- ZEPH_BEYLIK: "Beylik"
- ZEPH_BEYLERBEYLIK: "Beylerbeylik"
- ZEPH_DIADOHOI: "Diadohoi"
- ZEPH_IMPARATORLUK: "Imparatorluk"
- ZEPH_BEY: "Bey"
- ZEPH_BEYLERBEY: "Beylerbey"
- ZEPH_DIADOHLAR: "Diadohlar"
- ZEPH_IMPARATOR: "Imparator"
- ZEPH_BEYSADE: "Beysade"
- ZEPH_IMPARATORICE: "Imparatorice"
- ZEPH_CELEBI: "Çelebi"
- ZEPH_HATUN: "Hatun"
- ZEPH_SEHZADE: "Sehzade"
- ZEPH_HASEKISULTAN: "Haseki Sultan"
- ZEPH_VALIAHAD: "Vali Ahad"
+ ZEPH_BEYLIK: "Kōkoku" #Duchy
+ ZEPH_BEYLERBEYLIK: "Kōkoku" #Kingdom
+ ZEPH_IMPARATORLUK: "Teikoku" #Empire
+ 
+ ZEPH_DIADOHOI: "Daimyo" #Vassal (state)
+ ZEPH_DIADOHLAR: "Daimyo" #Vassal (person)
+ 
+ ZEPH_BEY: "Kōshaku" #Duke
+ ZEPH_BEYLERBEY: "Kōshaku" #King
+ ZEPH_IMPARATOR: "Kōtei" #Emperor
+ 
+ ZEPH_BEYSADE: "Kōshaku" #Duchess
+ ZEPH_HATUN: "Joō" #Queen
+ ZEPH_IMPARATORICE: "Kōgou" #Empress
+ 
+ ZEPH_CELEBI: "Haigūsha" #Consort (male)
+ ZEPH_WAIFY: "Waifu" #Consort (female)
+ ZEPH_SEHZADE: "Ōji" #Heir
+ ZEPH_HASEKISULTAN: "Hime" #Heiress
  
  # Insults
  insult_zeph_1:0 "Why are you gay?"
