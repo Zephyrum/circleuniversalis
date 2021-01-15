@@ -5,7 +5,6 @@ country_decisions = {
 		major = yes
 		potential = {
 			tag = ZPD
-			has_reform = shogunate
 			NOT = { has_country_flag = formed_zpj_flag }
 			NOT = { exists = ZPJ }
 		}
