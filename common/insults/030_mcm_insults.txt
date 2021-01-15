@@ -52,3 +52,162 @@ insult_mcm_7 = { #McMuller to Zeph
 		}
 	}
 }
+
+insult_mcm_8 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCN }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_mcm_9 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCN }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_mcm_10 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCN }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_mcm_11 = { #McMuller to Zeph
+	trigger = {
+		FROM = { tag = MCN }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_mcm_12 = { #McMuller to Relm
+	trigger = {
+		FROM = { tag = MCN }
+		tag = ODS
+	}
+}
+
+insult_mcm_13 = { #McMuller to Relm
+	trigger = {
+		FROM = { tag = MCN }
+		tag = ODS
+	}
+}
+
+insult_mcm_14 = { #McMuller to Marco
+	trigger = {
+		FROM = { tag = MCN }
+		tag = GAE
+	}
+}
+
+insult_mcm_15 = { #McMuller to Marco
+	trigger = {
+		FROM = { tag = MCN }
+		tag = GAE
+	}
+}
+
+insult_mcm_16 = { #McMuller to Marco
+	trigger = {
+		FROM = { tag = MCN }
+		tag = GAE
+	}
+}
+
+insult_mcm_17 = { #McMuller to Canoe
+	trigger = {
+		FROM = { tag = MCN }
+		tag = QAN
+	}
+}
+
+insult_mcm_18 = { #McMuller to Undead
+	trigger = {
+		FROM = { tag = MCN }
+		tag = PAE
+	}
+}
+
+insult_mcm_19 = { #McMuller to Thrawn
+	trigger = {
+		FROM = { tag = MCN }
+		tag = AFR
+	}
+}
+
+insult_mcm_20 = { #McMuller to Thrawn
+	trigger = {
+		FROM = { tag = MCN }
+		tag = AFR
+	}
+}
+
+insult_mcm_21 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCN }
+		tag = WAG
+	}
+}
+
+insult_mcm_22 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCN }
+		tag = WAG
+	}
+}
+
+insult_mcm_23 = { #McMuller to Zenvue
+	trigger = {
+		FROM = { tag = MCN }
+		tag = WAG
+	}
+}
+
+insult_mcm_24 = { #McMuller to Stewie
+	trigger = {
+		FROM = { tag = MCN }
+		tag = SOI
+	}
+}
+
+insult_mcm_25 = { #McMuller to Stewie
+	trigger = {
+		FROM = { tag = MCN }
+		tag = SOI
+	}
+}
+
+insult_mcm_26 = { #McMuller to Semice
+	trigger = {
+		FROM = { tag = MCN }
+		tag = SEM
+	}
+}
+
+insult_mcm_27 = { #McMuller to Oljo
+	trigger = {
+		FROM = { tag = MCN }
+		tag = JLL
+	}
+}
+
+insult_mcm_28 = { #McMuller to Oljo
+	trigger = {
+		FROM = { tag = MCN }
+		tag = JLL
+	}
+}
