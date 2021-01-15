@@ -19,6 +19,15 @@
 640 = "McTelissa"
 2710 = "McSvaliya"
 
+#Names that Vanilla didn't add
+92 = "McBrussels"
+97 = "McAmsterdam"
+1742 = "Upper McGuelders"
+2974 = "McLoon"
+4381 = "McOversticht"
+4382 = "McGroningen"
+4383 = "The McHague"
+
 43 = "McDantzig"
 50 = "McBerlijn"
 56 = "McOsnabrugge"

@@ -3,5 +3,5 @@
  MCMULLER_IS_GAY:0 "The Circle Rises"
  MCMULLER_IS_GAY_DESC:0 "To put it bluntly: shit's fucked up. Many countries born out of the ideas of twisted minds have appeared across the old world to terrorize the early modern era. Will the the forces of history revert the disaster and railroad itself, or will these new states rise to greatness and prevail over their rivals at the end of the Dark Ages? Are those new forces going to be fleeting or are they going to truly endure the test of time? But most pressingly, the question that is in all of our minds: can McMuller survive past the 1480s?"
  
- circle_government_capacity:0 "Circular Governing"
- desc_circle_government_capacity:0 "Flat government capacity boost. Make good use of it!"
+ circle_government_capacity_title:0 "Circular Governing"
+ circle_government_capacity_desc:0 "Flat government capacity boost. Make good use of it!"
