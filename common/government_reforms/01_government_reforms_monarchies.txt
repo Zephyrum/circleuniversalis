@@ -513,7 +513,7 @@ prussian_monarchy = {
 	trigger = {
 		OR = {
 			is_playing_custom_nation = yes
-			culture = roman
+			tag = SOI
 			religion = protestant
 			religion = reformed
 		}
