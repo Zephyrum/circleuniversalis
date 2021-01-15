@@ -1,6 +1,6 @@
 #Europe -> REAL names, I swear!
 33 = "Engevya"
-84 = "Düsseldorf"
+84 = "Dusseldorf"
 295 = "Anthesigrad"
 
 #Malaysia and Sumatra -> Pendraic
