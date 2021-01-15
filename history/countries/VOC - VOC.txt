@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = plutocratic_reform
 government_rank = 1
 technology_group = chinese
+unit_type = western
 primary_culture = voc_dutch
 add_accepted_culture = sulawesi
 religion = catholic
