@@ -52,3 +52,13 @@ insult_marco_7 = { #Marco to Stewie
 		tag = SOI
 	}
 }
+
+insult_marco_8 = { #Marco to Zeph
+	trigger = {
+		FROM = { tag = GAE }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
