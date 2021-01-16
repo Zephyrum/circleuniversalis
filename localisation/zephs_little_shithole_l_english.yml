@@ -33,21 +33,21 @@
  desc_zpj_now_orthodox: "This country has recently converted."
  
  # Titles
- ZEPH_DUCHY: "Kōkoku" #Duchy
- ZEPH_KINGDOM: "Kōkoku" #Kingdom
+ ZEPH_DUCHY: "Koukoku" #Duchy
+ ZEPH_KINGDOM: "Koukoku" #Kingdom
  ZEPH_EMPIRE: "Teikoku" #Empire
  
- ZEPH_DUKE: "Kōshaku" #Duke
- ZEPH_KING: "Kōshaku" #King
- ZEPH_EMPEROR: "Kōtei" #Emperor
+ ZEPH_DUKE: "Koushaku" #Duke
+ ZEPH_KING: "Koushaku" #King
+ ZEPH_EMPEROR: "Koutei" #Emperor
  
- ZEPH_DUCHESS: "Kōshaku" #Duchess
- ZEPH_QUEEN: "Joō" #Queen
- ZEPH_EMPRESS: "Kōgou" #Empress
+ ZEPH_DUCHESS: "Koushaku" #Duchess
+ ZEPH_QUEEN: "Joou" #Queen
+ ZEPH_EMPRESS: "Kougou" #Empress
  
- ZEPH_CONSORT_MALE: "Haigūsha" #Consort (male)
+ ZEPH_CONSORT_MALE: "Haiguusha" #Consort (male)
  ZEPH_CONSORT_FEMALE: "Waifu" #Consort (female)
- ZEPH_HEIR_MALE: "Ōji" #Heir
+ ZEPH_HEIR_MALE: "Ouji" #Heir
  ZEPH_HEIR_FEMALE: "Hime" #Heiress
 
  ZEPH_VASSALSTATE: "Daimyo" #Vassal (state)
