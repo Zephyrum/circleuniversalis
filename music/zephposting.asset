@@ -2,3 +2,8 @@ music = {
 	name = "Irish Bullshit"
 	file = "irishbs.ogg"
 }
+
+music = {
+	name = "Aeterna Victrix"
+	file = "aeternavictrix.ogg"
+}

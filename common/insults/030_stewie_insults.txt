@@ -1,31 +1,31 @@
-insult_stewie_1 = { #Stewie send to 151 owner
+insult_old_stewie_1 = { #Stewie send to 151 owner
 	trigger = {
 		FROM = { tag = SOI }
 		controls = 151
 	}
 }
 
-insult_stewie_2 = { #Stewie to VOC
+insult_old_stewie_2 = { #Stewie to VOC
 	trigger = {
 		FROM = { tag = SOI }
 		tag = VOC
 	}
 }
 
-insult_stewie_3 = { #Stewie to Italian culture
+insult_old_stewie_3 = { #Stewie to Italian culture
 	trigger = {
 		FROM = { tag = SOI }
 		culture_group = latin
 	}
 }
 
-insult_stewie_4 = { #Stewie generic send
+insult_old_stewie_4 = { #Stewie generic send
 	trigger = {
 		FROM = { tag = SOI }
 	}
 }
 
-insult_stewie_5 = { #Stewie to Zeph
+insult_old_stewie_5 = { #Stewie to Zeph
 	trigger = {
 		FROM = { tag = SOI }
 		OR = {
@@ -35,26 +35,26 @@ insult_stewie_5 = { #Stewie to Zeph
 	}
 }
 
-insult_stewie_6 = { #Stewie generic send
+insult_old_stewie_6 = { #Stewie generic send
 	trigger = {
 		FROM = { tag = SOI }
 	}
 }
 
-insult_stewie_7 = { #Stewie generic send
+insult_old_stewie_7 = { #Stewie generic send
 	trigger = {
 		FROM = { tag = SOI }
 	}
 }
 
-insult_stewie_8 = { #Stewie to McMuller
+insult_old_stewie_8 = { #Stewie to McMuller
 	trigger = {
 		FROM = { tag = SOI }
 		tag = MCN
 	}
 }
 
-insult_stewie_9 = { #Stewie to bordering nation
+insult_old_stewie_9 = { #Stewie to bordering nation
 	trigger = {
 		FROM = { tag = SOI }
 		is_neighbor_of = SOI

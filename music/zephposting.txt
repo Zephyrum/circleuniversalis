@@ -14,3 +14,18 @@ song = {
 		}
 	}
 }
+
+song = {
+	name = "Aeterna Victrix"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = SOI }
+		}	
+		modifier = {
+			factor = 4
+			war_with = SOI
+		}
+	}
+}
