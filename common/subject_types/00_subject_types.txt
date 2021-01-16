@@ -485,7 +485,7 @@ tributary_state = {
 			has_reform = celestial_empire
 			is_nomad = yes
 			religion_group = eastern
-			tag = ZPJ
+			culture_group = japanese_g
 		}
 	}
 	
