@@ -1,4 +1,4 @@
-ogomilist_rebels = {
+bogomilist_rebels = {
 
 	area = nation 					# Sticks to provinces of their nation
 	government = theocracy 			# Desires Theocracy
