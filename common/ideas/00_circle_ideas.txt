@@ -449,3 +449,40 @@ JLL_ideas = {
 		development_cost = -0.2
 	}
 }
+
+rio_ideas = {
+	start = {
+		infantry_power = 0.15
+		ae_impact = -0.25
+	}
+	bonus = {
+		fire_damage_received = -0.10
+	}
+	
+	trigger = {
+		tag = RIO
+	}
+	free = yes
+	
+	rio_idea_1 = {
+		global_unrest = -2
+	}
+	rio_idea_2 = {
+		development_cost = -0.10
+	}
+	rio_idea_3 = {
+		global_manpower_modifier = 0.25
+	}
+	rio_idea_4 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	rio_idea_5 = {
+		build_cost = -0.20
+	}
+	rio_idea_6 = {
+		trade_efficiency = 0.10
+	}
+	rio_idea_7 = {
+		discipline = 0.05
+	}
+}

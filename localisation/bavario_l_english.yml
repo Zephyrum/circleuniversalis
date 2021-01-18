@@ -1,0 +1,28 @@
+﻿l_english:
+
+ # Info
+ RIO:0 "Bavario"
+ RIO_ADJ:0 "Carioca"
+ 
+ # Ideas
+ rio_ideas:0 "Carioca Ideas"
+ rio_ideas_start:0 "Carioca Traditions"
+ rio_ideas_bonus:0 "Carioca Ambition"
+ rio_idea_1:0 ""
+ rio_idea_1_desc:0 ""
+ rio_idea_2:0 ""
+ rio_idea_2_desc:0 ""
+ rio_idea_3:0 ""
+ rio_idea_3_desc:0 ""
+ rio_idea_4:0 ""
+ rio_idea_4_desc:0 ""
+ rio_idea_5:0 ""
+ rio_idea_5_desc:0 ""
+ rio_idea_6:0 ""
+ rio_idea_6_desc:0 ""
+ rio_idea_7:0 ""
+ rio_idea_7_desc:0 ""
+ 
+ # Insults
+ insult_prz_1:0 "baiano fudido"
+ insult_prz_2:0 "vai la pegar agua"
