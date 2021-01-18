@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 65	# München!
+
+1444.1.1 = {
+	monarch = {
+		name = "Lil' Charlie"
+		dynasty = "Junkyard"
+		birth_date = 1421.8.30
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
