@@ -1,7 +1,7 @@
 # - Bizerte
 
-owner = AFR
-controller = AFR
+owner = TUN
+controller = TUN
 add_core = AFR
 culture = tunisian
 religion = sunni
