@@ -65,7 +65,7 @@
  #WRE namechange decisions, see decision file
  form_wre_title:0 "Reform the Western Roman Empire"
  form_wre_desc:0 "We have liberated Rome from the barbarians that infested it. It is time to proclaim our return."
- THE_WRE:0 "Western Roman Empire"
+ THE_WRE:0 "West Rome"
  THE_WRE_ADJ:0 "West Roman"
  
  #Salt, see decision file
@@ -77,5 +77,5 @@
  #Proper ERE larping, just in case
  rename_byzantium_title:0 "Rename Byzantium"
  rename_byzantium_desc:0 "Get rid of that cringe ass name in place of a TRVE ROMAN one."
- THE_EREE:0 "Eastern Roman Empire"
+ THE_EREE:0 "East Rome"
  THE_EREE_ADJ:0 "East Roman"
