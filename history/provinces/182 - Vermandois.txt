@@ -2,6 +2,7 @@
 
 owner = SOI
 controller = SOI
+add_core = SOI
 capital = "Soissons"
 is_city = yes
 culture = roman
