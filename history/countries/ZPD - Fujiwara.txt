@@ -13,7 +13,7 @@ change_estate_land_share = {
 }
 change_estate_land_share = {
 	estate = estate_nobles
-	share = -5
+	share = -10
 }
 change_estate_land_share = {
 	estate = estate_burghers
@@ -32,6 +32,7 @@ change_estate_land_share = {
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
+	add_ruler_personality = careful_personality
 }
 
 1444.1.1 = {
