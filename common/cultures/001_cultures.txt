@@ -202,6 +202,21 @@ germanic = {
 			"von Koenigsegg"
 		}
 	}
+	complex_german = {
+		primary = RIO
+		dynasty_names = {
+			"do Lixão" Brinquedo "da Rocinha" "Maluco" Pezão Cabral Witzel Garotinho Allencar Pequeno Paes Frota
+			Crivella Daleste "Bin Laden" "do Borel" Catra "Quebra-Barraco" Bolsonaro "de Caxias" Przybycien Pinto "Beira-Mar"
+		}
+		male_names = {
+			Charlinho Xaropinho Manteiguinha Tripa Baratão Tandera Wellington Jesus Matheus Zeca Alexandre
+			Evinho Titico Alemão Marcão Zé Pingu Gustavo Nego "Nego Bam" Marcola Wilson Dadinho Buscapé
+			Neguinho Palito Bené Mané Marreco "Seu Jorge" Gui Rarirama Flávio Eduardo Jair Menor Enzo Nem Fernandinho
+		}
+		female_names = {
+			"Templária do Tráfico" Deize Inês Anitta Carol Melody Tati Francinne Valesca Valentina
+		}
+	}
 	austrian = {
 		primary = HAB
 		male_names = {

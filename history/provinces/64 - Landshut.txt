@@ -4,14 +4,14 @@ owner = RIO
 controller = RIO
 add_core = RIO
 add_core = LBV
-culture = bavarian
+culture = complex_german
 religion = catholic
 base_tax = 5
 base_production = 5
 trade_goods = salt
 base_manpower = 2
 fort_15th = yes #Trausnitz Castle
-capital	= "Landshut" 
+capital	= "Duque de Caxias" 
 is_city = yes
 hre = yes
 

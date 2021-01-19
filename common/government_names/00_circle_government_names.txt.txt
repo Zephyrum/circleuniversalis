@@ -201,3 +201,51 @@ coins_vassal_titles = {
 		}
 	}
 }
+
+pornguy_ruler_titles = {
+	rank = {
+		1 = RIO_DUCHY
+		2 = RIO_KINGDOM
+		3 = RIO_EMPIRE
+	}
+
+	ruler_male = {
+		1 = RIO_DUKE
+		2 = RIO_KING
+		3 = RIO_EMPEROR
+	}
+
+	ruler_female = {
+		1 = RIO_DUCHESS
+		2 = RIO_QUEEN
+		3 = RIO_EMPRESS
+	}
+	
+	consort_male = {
+		1 = RIO_CONSORT_MALE
+		2 = RIO_CONSORT_MALE
+		3 = RIO_CONSORT_MALE
+	}
+
+	consort_female = {
+		1 = RIO_CONSORT_FEMALE
+		2 = RIO_CONSORT_FEMALE
+		3 = RIO_CONSORT_FEMALE
+	}
+	
+	heir_male = {
+		1 = RIO_HEIR_MALE
+		2 = RIO_HEIR_MALE
+		3 = RIO_HEIR_MALE
+	}
+	
+	heir_female = {
+		1 = RIO_HEIR_FEMALE
+		2 = RIO_HEIR_FEMALE
+		3 = RIO_HEIR_FEMALE
+	}
+
+	trigger = {
+		tag = RIO
+	}
+}

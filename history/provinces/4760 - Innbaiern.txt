@@ -4,13 +4,13 @@ owner = RIO
 controller = RIO
 add_core = RIO
 add_core = LBV
-culture = bavarian
+culture = complex_german
 religion = catholic
 base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 2
-capital	= "Braunau am Inn" 
+capital	= "Birosca" 
 is_city = yes
 hre = yes
 

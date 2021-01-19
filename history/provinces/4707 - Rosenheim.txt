@@ -1,9 +1,9 @@
 owner = RIO
 controller = RIO
 add_core = RIO
-capital = "Wasserburg"
+capital = "Lixão"
 is_city = yes
-culture = bavarian
+culture = complex_german
 religion = catholic
 hre = yes
 base_tax = 2 

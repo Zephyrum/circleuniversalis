@@ -1,14 +1,14 @@
 government = monarchy
 add_government_reform = autocracy_reform
 technology_group = western
-primary_culture = bavarian
+primary_culture = complex_german
 religion = catholic
 capital = 65	# München!
 
 1444.1.1 = {
 	monarch = {
-		name = "Lil' Charlie"
-		dynasty = "Junkyard"
+		name = "Charlinho"
+		dynasty = "do Lixão"
 		birth_date = 1421.8.30
 		adm = 4
 		dip = 2

@@ -29,3 +29,18 @@ song = {
 		}
 	}
 }
+
+song = {
+	name = "Parapapapapapa papa papa"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = RIO }
+		}	
+		modifier = {
+			factor = 4
+			war_with = RIO
+		}
+	}
+}

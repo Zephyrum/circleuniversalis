@@ -3,6 +3,7 @@
  # Info
  RIO:0 "Bavario"
  RIO_ADJ:0 "Carioca"
+ complex_german:0 "Complex German"
  
  # Ideas
  rio_ideas:0 "Carioca Ideas"
@@ -26,3 +27,21 @@
  # Insults
  insult_prz_1:0 "baiano fudido"
  insult_prz_2:0 "vai la pegar agua"
+ 
+ # Titles
+ RIO_DUCHY: "Boca" #Duchy
+ RIO_KINGDOM: "Favela" #Kingdom
+ RIO_EMPIRE: "Complexo" #Empire
+ 
+ RIO_DUKE: "Dono de Boca" #Duke
+ RIO_KING: "Gerente" #King
+ RIO_EMPEROR: "Gerente" #Emperor
+ 
+ RIO_DUCHESS: "Dona de Boca" #Duchess
+ RIO_QUEEN: "Gerente" #Queen
+ RIO_EMPRESS: "Gerente" #Empress
+ 
+ RIO_CONSORT_MALE: "Menor" #Consort (male)
+ RIO_CONSORT_FEMALE: "Piranha" #Consort (female)
+ RIO_HEIR_MALE: "Aviãozinho" #Heir
+ RIO_HEIR_FEMALE: "Aviãozinha" #Heiress

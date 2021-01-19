@@ -3,9 +3,9 @@
 owner = RIO
 controller = RIO
 add_core = RIO
-culture = bavarian
+culture = complex_german
 religion = catholic
-capital = "Salzburg"
+capital = "Belford Roxo"
 trade_goods = salt
 hre = yes
 base_tax = 5 

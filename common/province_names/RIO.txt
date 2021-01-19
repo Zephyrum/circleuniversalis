@@ -1,2 +1,12 @@
-#Capital
-65 = "Duque de Caxias"
+#Favelando
+64 = "Duque de Caxias"
+65 = "Complexo do Alemão"
+76 = "Belford Roxo"
+1757 = "Via Dutra"
+2955 = "Angra dos Reis"
+2956 = "Inferninho"
+2957 = "Copacabana"
+4707 = "Lixão"
+4708 = "Manguinhos"
+4709 = "Vila Kennedy"
+4760 = "Birosca"

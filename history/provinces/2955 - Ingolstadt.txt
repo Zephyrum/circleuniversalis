@@ -4,13 +4,13 @@ owner = RIO
 controller = RIO
 add_core = RIO
 add_core = ING
-culture = bavarian
+culture = complex_german
 religion = catholic
 base_tax = 5 
 base_production = 5
 trade_goods = wine #Would shift to beer over time
 base_manpower = 3
-capital	= "Ingolstadt" 
+capital	= "Angra dos Reis" 
 is_city = yes
 hre = yes
 
