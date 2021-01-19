@@ -33,7 +33,7 @@ historical_units = {
 }
 
 monarch_names = {
-		"Charlinho #0" = 10
+	"Charlinho #0" = 10
 	"Xaropinho #0" = 10
 	"Manteiguinha #0" = 10
 	"Tripa #0" = 10
