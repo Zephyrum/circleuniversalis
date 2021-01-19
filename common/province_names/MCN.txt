@@ -1,6 +1,6 @@
 #Names from VOC
 33 = "McAnthesigrad"
-4768 = "McDüsseldorf"
+84 = "McDüsseldorf"
 596 = "McFaroin"
 597 = "McEssorath"
 2673 = "McMarquess"

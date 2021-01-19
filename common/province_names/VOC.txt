@@ -20,6 +20,7 @@
 644 = "Loren Harbor"
 2713 = "Lorenth"
 2714 = "Coinstadt"
+2715 = "Diethriaid"
 2716 = "Seefels"
 
 #Borneo -> Molaesmyr
