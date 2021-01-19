@@ -4,6 +4,8 @@
  RIO:0 "Bavario"
  RIO_ADJ:0 "Carioca"
  complex_german:0 "Complex German"
+ rio_government:0 ""
+ rio_government_desc:0 ""
  
  # Ideas
  rio_ideas:0 "Carioca Ideas"
