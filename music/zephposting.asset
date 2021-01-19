@@ -12,3 +12,18 @@ music = {
 	name = "Parapapapapapa papa papa"
 	file = "rapdasarmas.ogg"
 }
+
+music = {
+	name = "My Dad was a War Criminal"
+	file = "dadwarcrime.ogg"
+}
+
+music = {
+	name = "Freek'n'you"
+	file = "freeknyou.ogg"
+}
+
+music = {
+	name = "Thousand Suns"
+	file = "thousandsuns.ogg"
+}
