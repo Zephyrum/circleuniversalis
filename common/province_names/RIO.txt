@@ -1,10 +1,10 @@
 #Favelando
 64 = "Duque de Caxias"
-65 = "Complexo do Alemao"
+65 = "Beira-Mar"
 76 = "Belford Roxo"
 1757 = "Via Dutra"
 2955 = "Angra dos Reis"
-2956 = "Inferninho"
+2956 = "Cidade de Deus"
 2957 = "Copacabana"
 4707 = "Lixao"
 4708 = "Manguinhos"
