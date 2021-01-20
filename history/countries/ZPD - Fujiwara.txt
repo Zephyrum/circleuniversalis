@@ -34,7 +34,7 @@ change_estate_land_share = {
 		mil = 6
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = strict_personality
+	add_ruler_personality = midas_touched_personality
 	add_ruler_personality = careful_personality
 }
 
@@ -49,6 +49,7 @@ change_estate_land_share = {
 		dip = 4
 		mil = 5
 	}
+	add_heir_personality = just_personality
 }
 
 1444.1.1 = {
