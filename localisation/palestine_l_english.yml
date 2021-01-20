@@ -1,0 +1,46 @@
+﻿l_english:
+
+ #Formables
+ PAE: "Palestine"
+ PAE_ADJ: "Palestinian"
+ 
+ #Palestinian Ideas
+ palestine_ideas: "Palestine Ideas"
+ palestine_ideas_start: "Palestine Traditions"
+ palestine_ideas_bonus: "Palestine Ambition"
+ rigorous_stonethrowing: "Rigorous Stonethrowing"
+ rigorous_stonethrowing_desc: "For every young Palestinian child, stonethrowing is a rite of passage. Such dedication to tradition, as translated to strong, able, soldiers later in life."
+ charming_personalities: "Charming Personalities"
+ charming_personalities_desc: "Extensive times of strife have led to many of our people having charming personalities, foreigners can't bear to hate our country as much once they've met our diplomats."
+ slowtoanger_quicktoreact: "Slow to Anger"
+ slowtoanger_quicktoreact_desc: "Centuries perfecting the art of insults have made us impervious to foreign insults, but to establish dominance, we must strike regardless."
+ palestinian_adaptability: "Palestinian Adaptibility"
+ palestinian_adaptability_desc: "No matter what situation a Palestinian finds themselves in, they will make use of any tool in their arsenal to climb to comfort."
+ generational_thrift: "Generational Thrift"
+ generational_thrift_desc: "Listen, we love money, money sometimes loves us. The same has always been true with our fathers, and our father's fathers."
+ pan_arab_sentiments: "Pan Arab Sentiments"
+ pan_arab_sentiments_desc: "Arabs have always drifted towards each other, despite our frequent disagreements."
+ making_the_best: "Making the Best"
+ making_the_best_desc: "Lets face it, not everything goes to plan. But with some extra effort, we can salvage something managable."
+
+ #Decision
+ unify_the_ruman_title:0 "Establish the Ruman Caliphate"
+ unify_the_ruman_desc:0 "The false Greek, German, and French Romans have besmerched the name of the Ruman for too long. We Arab Ruman will take the title, and once and for all show the pretenders how it's done."
+ THE_RUMAN_CALIPHATE:0 "The Ruman Caliphate"
+ 
+ #Arabic Culture
+ al_suryah_arabic:0 "Ruman"
+ 
+ #Palestinian Insults
+ insult_undead_1:0 "I give you taste of the shoe!"
+ insult_undead_2:0 "I throw shoe at you!"
+ insult_undead_3:0 "I throw stone at you!"
+ insult_undead_4:0 "Ya Ibn el Sharmouta!"
+ insult_undead_5:0 "Ayreh Feek ya Hamar Ghabi!"
+ insult_undead_6:0 "When are you going to code more for OI :P"
+ insult_undead_7:0 "Japan? JAPAN?! Clearly this is a knock off Corea."
+ insult_undead_8:0 "Habibi, you are the Maghreb, and I am the Mashriq. Stop this foolish hosility, and give me Misr :p"
+ insult_undead_9:0 "To be honest, Taco Bell is the superior shitty fast food restaurant."
+ insult_undead_10:0 "Why are we still here? Just to suffer? We could have been allies, yet I am here and you are there!"
+ insult_undead_11:0 "Salut false 'Roman', we here in the chad Ruman Caliphate demand you cease your hostilities and take them elsewhere."
+ insult_undead_12:0 "Your country is almost as shit as your insults."

@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = muslim
+capital = 379 # Al Quds
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -20
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 5
+}
+
+1443.6.17 = {
+	monarch = {
+		name = "Uns"
+		dynasty = "Al-Dead"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1424.6.3
+	}
+}

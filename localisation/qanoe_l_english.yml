@@ -30,6 +30,10 @@
  bogomilist_rebels_name: "$RELIGION$ Zealots"
  bogomilist_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  bogomilist_rebels_army: "$RELIGION$ Army"
+ BOGOMILIST_ASPECTS_LONG:0 "Glory of Bologomism"
+ BOGOMILIST_ASPECTS_SHORT:0 "Aspects" 
+ longer_swords_aspect: "Longer Swords"
+ stronger_swords_aspect: "Stronger Swords"
  
  # Insults
  insult_canoe_1:0 "Y I K E S"
