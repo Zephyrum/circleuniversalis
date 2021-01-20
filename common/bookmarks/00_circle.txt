@@ -6,7 +6,9 @@ bookmark = {
 	center = 151
 	default = yes
 	
+	#country = ??? #Maruvia, Syoarn
 	country = GAE #Gaeltacht, Marco
+	country = VNX #Veanixe, Shredtail
 	country = ODS #Oldestones, Relm
 	country = SOI #Soissons, Stewie
 	country = MCN #McHolland, McMuller

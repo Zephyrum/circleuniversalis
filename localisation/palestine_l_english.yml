@@ -26,7 +26,8 @@
  #Decision
  unify_the_ruman_title:0 "Establish the Ruman Caliphate"
  unify_the_ruman_desc:0 "The false Greek, German, and French Romans have besmerched the name of the Ruman for too long. We Arab Ruman will take the title, and once and for all show the pretenders how it's done."
- THE_RUMAN_CALIPHATE:0 "The Ruman Caliphate"
+ THE_RUMAN_CALIPHATE:0 "Ruman Caliphate"
+ THE_RUMAN_CALIPHATE_ADJ:0 "Ruman"
  
  #Arabic Culture
  al_suryah_arabic:0 "Ruman"
