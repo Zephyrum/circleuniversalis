@@ -6,8 +6,8 @@ religion = bogomilist
 capital = 4201
 
 change_estate_land_share = {
-	estate = estate_nobles
-	share = -5
+	estate = estate_burghers
+	share = -15
 }
 
 1444.1.1 = {
@@ -16,23 +16,9 @@ change_estate_land_share = {
 		dynasty = "Qanoe"
 		birth_date = 1420.1.1
 		death_date = 1480.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 4
+		mil = 4
 		leader = { name = "Little Shit" type = general	fire = 2	shock = 2	manuever = 4	siege = 1 }
-	}
-}
-
-1444.1.1 = {
-	heir = {
-		name = "Youting"
-		monarch_name = "Youting"
-		dynasty = "Qanoe"
-		birth_date = 1435.1.1
-		death_date = 1500.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
 	}
 }
