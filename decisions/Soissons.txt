@@ -28,17 +28,16 @@ country_decisions = {
 			NOT = { has_country_flag = carthagodelendaflag }
 		}
 		provinces_to_highlight = {
-				province_id = 341
+			province_id = 341
 		}
 		allow = {
-			owns = 341
+			controls = 341
 		}
 		effect = {
 			341 = {
-				add_devastation = 25
-				cede_province = AFR
+				add_devastation = 100
+				change_trade_goods = salt
 			}
-			country_event = { id = 6425 }
 			set_country_flag = carthagodelendaflag			
 		}
 		ai_will_do = {
@@ -52,18 +51,24 @@ country_decisions = {
 			NOT = { has_country_flag = antoninewallflag }
 		}
 		provinces_to_highlight = {
-				province_id = 248
-				province_id = 249
+			province_id = 248
+			province_id = 249
 		}
 		allow = {
 			owns_core_province = 248
 			owns_core_province = 249
-			GAE = { treasury = 200 }
 		}
 		effect = {
 			248 = { add_building_construction = { building = fort_15th speed = 1.1 cost = 0.2 } }
 			249 = { add_building_construction = { building = fort_15th speed = 1.1 cost = 0.2 } }
-			GAE = { add_treasury = -80 }
+			if = {
+				limit = {
+					truce_with = GAE
+					owns_core_province = 4363
+					owns_core_province = 250
+				}
+				GAE = { add_treasury = -100 }
+			}
 			set_country_flag = antoninewallflag			
 		}
 		ai_will_do = {
