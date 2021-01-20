@@ -7,6 +7,9 @@ technology_group = chinese
 capital = 1028 # Musashi or Tokyo
 add_army_professionalism = 0.1
 
+add_accepted_culture = japanese
+add_accepted_culture = kyushuan
+
 change_estate_land_share = {
 	estate = estate_church
 	share = -10
