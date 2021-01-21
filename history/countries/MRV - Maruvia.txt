@@ -3,7 +3,7 @@ add_government_reform = autocracy_reform
 technology_group = western
 primary_culture = phoenician
 religion = shiite
-capital = 65	# Gold Coast; WRONG ID!
+capital = 1139	# Gold Coast
 
 1444.1.1 = {
 	monarch = {
