@@ -1,12 +1,14 @@
 government = monarchy
 add_government_reform = autocracy_reform
-technology_group = western
+technology_group = sub_saharan
 primary_culture = phoenician
 religion = shiite
 capital = 1139	# Gold Coast
 
 1444.1.1 = {
 	monarch = {
+		name = "Bomilcar"
+		dynasty = "Philosirid"
 		birth_date = 1425.1.1
 		adm = 3
 		dip = 3

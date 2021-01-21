@@ -6,11 +6,11 @@ color = { 252  61  227 }
 
 historical_idea_groups = {
 	defensive_ideas
-	espionage_ideas
+	spy_ideas
 	economic_ideas
 	trade_ideas
 	offensive_ideas
-	aristocratic_ideas
+	aristocracy_ideas
 	humanist_ideas
 	quantity_ideas
 }
