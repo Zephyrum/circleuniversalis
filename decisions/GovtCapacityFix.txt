@@ -10,7 +10,19 @@ country_decisions = {
 		}
 		effect = {
 			set_country_flag = govcapfix
+			MRV = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
 			GAE = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
+			VNX = {
 				add_country_modifier = { 
 					name = circle_government_capacity
 					duration = -1  
@@ -40,6 +52,12 @@ country_decisions = {
 					duration = -1  
 				}
 			}
+			RIO = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
 			SEM = {
 				add_country_modifier = { 
 					name = circle_government_capacity
@@ -52,12 +70,12 @@ country_decisions = {
 					duration = -1  
 				}
 			}
-#			PAE = {
-#				add_country_modifier = { 
-#					name = circle_government_capacity
-#					duration = -1  
-#				}
-#			}
+			PAE = {
+				add_country_modifier = { 
+					name = circle_government_capacity
+					duration = -1  
+				}
+			}
 			JLL = {
 				add_country_modifier = { 
 					name = circle_government_capacity

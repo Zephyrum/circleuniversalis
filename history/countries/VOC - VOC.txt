@@ -28,6 +28,6 @@ change_estate_land_share = {
 		birth_date = 1420.10.9
 		adm = 5
 		dip = 4
-		mil = 1
+		mil = 2
 	}
 }

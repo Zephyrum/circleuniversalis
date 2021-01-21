@@ -29,7 +29,7 @@ change_estate_land_share = {
 		dynasty = "Fujiwara"
 		birth_date = 1420.3.30
 		death_date = 1500.1.1
-		adm = 4
+		adm = 5
 		dip = 3
 		mil = 6
 	}
@@ -56,10 +56,10 @@ change_estate_land_share = {
 	leader = {
 		name = "Yunichi Aoi"
 		type = general
-		fire = 3
-		shock = 3
+		fire = 2
+		shock = 2
 		manuever = 3
-		siege = 1
+		siege = 2
 		death_date = 1460.9.9
 		personality = siege_specialist_personality
 	}
