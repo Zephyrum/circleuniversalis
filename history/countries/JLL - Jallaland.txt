@@ -7,7 +7,7 @@ capital = 561	# Bengal Delta
 religious_school = maliki_school
 
 change_estate_land_share = {
-	estate = estate_church
+	estate = estate_nobles
 	share = -5
 }
 change_brahmins_or_church_land_share_effect = {
