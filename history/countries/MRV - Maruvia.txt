@@ -1,0 +1,15 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = western
+primary_culture = phoenician
+religion = shiite
+capital = 1139	# Gold Coast
+
+1444.1.1 = {
+	monarch = {
+		birth_date = 1425.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -12,8 +12,8 @@ capital = 295 # Moskva
         name = "Semice"
 		dynasty = "Devine"
         birth_date = 1427.1.8
-        adm = 3
-        dip = 3
+        adm = 4
+        dip = 4
         mil = 3
     }
 }
