@@ -26,7 +26,7 @@ historical_units = {
 }
 
 monarch_names = {
-	"al-Corpse #0"
+	"al-Corpse #0" = 10
 	"al-Nasr #2" = 20
 	"al-Mu'azzam #2" = 20
 	"al-Salih #2" = 20
@@ -40,7 +40,7 @@ monarch_names = {
 	"Shihab ud-Din #1" = 10
 	"Shams #1" = 10
 	"Saif #1" = 10
-	"Uns #0"
+	"Uns #0" = 10
 	"'Abbas #0" = 0
 	"'Abd al-Rahman #0" = 0
 	"Anwar #0" = 0
