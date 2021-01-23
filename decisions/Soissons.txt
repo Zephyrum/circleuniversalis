@@ -106,6 +106,8 @@ country_decisions = {
 		}
 		effect = {
 			change_religion = orthodox
+			182 = { change_religion = orthodox }
+			183 = { change_religion = orthodox }
 			add_country_modifier = {
 				name = zpj_now_orthodox
 				duration = 7300

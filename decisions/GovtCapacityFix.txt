@@ -105,4 +105,32 @@ country_decisions = {
 			factor = 1
 		}
 	}
+	
+	ai_life_insurance = {
+		potential = {
+			tag = ZPD
+			NOT = { has_country_flag = lifeinsurance }
+		}
+		allow = {
+			tag = ZPD
+		}
+		effect = {
+			set_country_flag = govcapfix
+			VOC = {
+				add_country_modifier = { 
+					name = ai_insurance_policy
+					duration = 7300
+				}
+			}
+			QAN = {
+				add_country_modifier = { 
+					name = ai_insurance_policy
+					duration = 7300
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
