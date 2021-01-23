@@ -76,7 +76,7 @@ song = {
 }
 
 song = {
-	name = "Thousand Suns"
+	name = "Venari Strigas"
 	
 	chance = {
 		modifier = {

@@ -24,6 +24,6 @@ music = {
 }
 
 music = {
-	name = "Thousand Suns"
-	file = "thousandsuns.ogg"
+	name = "Venari Strigas"
+	file = "venaristrigas.ogg"
 }
