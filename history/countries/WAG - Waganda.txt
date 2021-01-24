@@ -1,5 +1,5 @@
-government = tribal
-add_government_reform = tribal_kingdom
+government = monarchy
+add_government_reform = feudal_theocracy
 primary_culture = ganda
 religion = shiite
 technology_group = central_african

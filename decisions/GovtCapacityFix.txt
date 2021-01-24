@@ -115,7 +115,7 @@ country_decisions = {
 			tag = ZPD
 		}
 		effect = {
-			set_country_flag = govcapfix
+			set_country_flag = lifeinsurance
 			VOC = {
 				add_country_modifier = { 
 					name = ai_insurance_policy
