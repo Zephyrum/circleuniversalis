@@ -9,5 +9,8 @@
  circle_government_capacity:0 "Circular Governing"
  desc_circle_government_capacity:0 "Flat government capacity boost. Make good use of it!"
  
- ai_insurance_policy_title:0 "AI Insurance Policy"
- ai_insurance_policy_desc:0 "Boost the Session 1 players who are AI controlled to prevent an early collapse."
+ ai_life_insurance_title:0 "AI Insurance Policy"
+ ai_life_insurance_desc:0 "Boost the Session 1 players who are AI controlled to prevent an early collapse."
+ 
+ ai_insurance_policy:0 "AI Insurance Policy"
+ desc_ai_insurance_policy:0 "Boost the Session 1 players who are AI controlled to prevent an early collapse."

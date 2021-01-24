@@ -8,7 +8,7 @@ religious_school = maliki_school
 
 change_estate_land_share = {
 	estate = estate_nobles
-	share = -5
+	share = -10
 }
 change_brahmins_or_church_land_share_effect = {
 	share = -5

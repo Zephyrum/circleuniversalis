@@ -128,6 +128,12 @@ country_decisions = {
 					duration = 7300
 				}
 			}
+			ODS = {
+				add_country_modifier = { 
+					name = ai_insurance_policy
+					duration = 7300
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 1
