@@ -568,11 +568,11 @@ vnx_ideas = {
 
 MRV_ideas = {
 	start = {
-		production_efficiency = 0.15
-		global_trade_power = 0.1
+		inflation_reduction = 0.2
+		development_cost = -0.1
 	}
 	bonus = {
-		land_maintenance_modifier = -0.2
+		trade_steering = 0.2
 	}
 	trigger = {
 		tag = MRV
@@ -580,30 +580,30 @@ MRV_ideas = {
 	free = yes
 	
 	MRV_idea_1 = {
-		land_morale = 0.1
+		colonists = 1
 	}
 	
 	MRV_idea_2 = {
-		global_tax_modifier = 0.1
+		range = 0.2
 	}
 	
 	MRV_idea_3 = {
-		stability_cost_modifier = -0.1
+		global_colonial_growth = 20
 	}
 	
 	MRV_idea_4 = {
-		naval_morale = 0.1
+		land_morale = 0.15
 	}
 	
 	MRV_idea_5 = {
-		global_unrest = -1
+		trade_efficiency = 0.1
 	}
 	
 	MRV_idea_6 = {
-		discipline = 0.05
+		defensiveness = 0.2
 	}
 	
 	MRV_idea_7 = {
-		trade_efficiency = 0.1
+		discipline = 0.05
 	}
 }
