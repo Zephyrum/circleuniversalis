@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = western
+primary_culture = complex_german
+religion = catholic
+historical_friend = HAB
+capital = 65	# München!
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -15
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Charlinho"
+		dynasty = "do Lixão"
+		birth_date = 1421.8.30
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}

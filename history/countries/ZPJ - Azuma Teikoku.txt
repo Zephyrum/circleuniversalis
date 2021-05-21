@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 3
+primary_culture = togoku
+religion = orthodox
+technology_group = chinese
+capital = 1028 # Musashi or Tokyo

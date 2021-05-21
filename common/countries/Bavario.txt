@@ -1,0 +1,146 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 252  61  227 }
+
+historical_idea_groups = {
+	defensive_ideas
+	spy_ideas
+	economic_ideas
+	trade_ideas
+	offensive_ideas
+	aristocracy_ideas
+	humanist_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Charlinho #0" = 10
+	"Xaropinho #0" = 10
+	"Manteiguinha #0" = 10
+	"Tripa #0" = 10
+	"Baratão #0" = 10
+	"Tandera #0" = 10
+	"Wellington #0" = 10
+	"Jesus #0" = 10
+	"Matheus #0" = 10
+	"Zeca #0" = 10
+	"Evinho #0" = 10
+	"Titico #0" = 10
+	"Alemão #0" = 10
+	"Marcão #0" = 10
+	"Zé #0" = 10
+	"Pingu #0" = 10
+	"Gustavo #0" = 10
+	"Nego #0" = 10
+	"Nego Bam #0" = 10
+	"Marcola #0" = 10
+	"Wilson #0" = 10
+	"Dadinho #0" = 10
+	"Buscapé #0" = 10
+	"Neguinho #0" = 10
+	"Palito #0" = 10
+	"Bené #0" = 10
+	"Mané #0" = 10
+	"Marreco #0" = 10
+	"Seu Jorge #0" = 10
+	"Gui #0" = 10
+	"Rarirama #0" = 10
+	"Flávio #0" = 10
+	"Eduardo #0" = 10
+	"Jair #0" = 10
+	"Menor #0" = 10
+	"Enzo #0" = 10
+	"Nem #0" = 10
+	"Fernandinho #0" = 10
+	"Templária do Tráfico #0" = -10
+	"Deize #0" = -10
+	"Inês #0" = -10
+	"Anitta #0" = -10
+	"Carol #0" = -10
+	"Melody #0" = -10
+	"Tati #0" = -10
+	"Francinne #0" = -10
+	"Valesca #0" = -10
+	"Valentina #0" = -10
+}
+
+leader_names = {
+	Charlinho
+	Xaropinho
+	Manteiguinha
+	Tripa
+	Baratão
+	Tandera
+	Wellington
+	Jesus
+	Matheus
+	Zeca
+	Evinho
+	Titico
+	Alemão
+	Marcão
+	Zé
+	Pingu
+	Gustavo
+	Nego
+	"Nego Bam"
+	Marcola
+	Wilson
+	Dadinho
+	Buscapé
+	Neguinho
+	Palito
+	Bené
+	Mané
+	Marreco
+	"Seu Jorge"
+	Gui
+	Rarirama
+	Flávio
+	Eduardo
+	Jair
+	Menor
+	Enzo
+	Nem
+	Fernandinho
+	"Templária do Tráfico"
+	Deize
+	Inês
+	Anitta
+	Carol
+	Melody
+	Tati
+	Francinne
+	Valesca
+	Valentina
+	Pinto
+	Frota
+	Alexandre
+}
+
+army_names = {
+	"Comando Vermelho" "Milícia de $PROVINCE$" "Boca de $PROVINCE$"
+}
+
+ship_names = {
+	Carioca
+}

@@ -1,0 +1,19 @@
+insult_prz_1 = { #Prz to Zeph
+	trigger = {
+		FROM = { tag = RIO }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_prz_2 = { #Prz to Zeph
+	trigger = {
+		FROM = { tag = RIO }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}

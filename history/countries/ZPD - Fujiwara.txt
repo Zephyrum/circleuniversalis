@@ -1,0 +1,66 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = togoku
+religion = shinto
+technology_group = chinese
+capital = 1028 # Musashi or Tokyo
+add_army_professionalism = 0.1
+
+add_accepted_culture = japanese
+add_accepted_culture = kyushuan
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -10
+}
+	
+1444.1.1 = {
+	monarch = {
+		name = "Kaiketsu"
+		dynasty = "Fujiwara"
+		birth_date = 1420.3.30
+		death_date = 1500.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = careful_personality
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Tamaki"
+		dynasty = "Fujiwara"
+		birth_date = 1434.8.10
+		death_date = 1500.1.1
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+	add_heir_personality = just_personality
+}
+
+1444.1.1 = {
+	leader = {
+		name = "Yunichi Aoi"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 2
+		death_date = 1460.9.9
+		personality = siege_specialist_personality
+	}
+}

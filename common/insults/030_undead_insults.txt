@@ -1,0 +1,84 @@
+insult_undead_1 = { #Undead Generic
+	trigger = {
+		FROM = { tag = PAE }
+	}
+}
+
+insult_undead_2 = { #Undead Generic
+	trigger = {
+		FROM = { tag = PAE }
+	}
+}
+
+insult_undead_3 = { #Undead Generic
+	trigger = {
+		FROM = { tag = PAE }
+	}
+}
+
+insult_undead_4 = { #Undead Generic
+	trigger = {
+		FROM = { tag = PAE }
+	}
+}
+
+insult_undead_5 = { #Undead Generic
+	trigger = {
+		FROM = { tag = PAE }
+	}
+}
+
+insult_undead_6 = { #Undead to Zeph
+	trigger = {
+		FROM = { tag = PAE }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_undead_7 = { #Undead to Zeph
+	trigger = {
+		FROM = { tag = PAE }
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+}
+
+insult_undead_8 = { #Undead to Thrawn
+	trigger = {
+		FROM = { tag = PAE }
+		tag = AFR
+	}
+}
+
+insult_undead_9 = { #Undead to McMuller
+	trigger = {
+		FROM = { tag = PAE }
+		tag = MCN
+	}
+}
+
+insult_undead_10 = { #Undead to Marco
+	trigger = {
+		FROM = { tag = PAE }
+		tag = GAE
+	}
+}
+
+insult_undead_11 = { #Undead to Stewie
+	trigger = {
+		FROM = { tag = PAE }
+		tag = SOI
+	}
+}
+
+insult_undead_12 = { #Undead to Zenvue
+	trigger = {
+		FROM = { tag = PAE }
+		tag = WAG
+	}
+}

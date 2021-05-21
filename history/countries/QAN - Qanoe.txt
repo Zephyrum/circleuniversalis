@@ -1,0 +1,24 @@
+government = republic
+add_government_reform = military_dictatorship_reform
+technology_group = chinese
+primary_culture = manchu
+religion = bogomilist
+capital = 4201
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -15
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Muzhou"
+		dynasty = "Qanoe"
+		birth_date = 1420.1.1
+		death_date = 1480.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+		leader = { name = "Little Shit" type = general	fire = 2	shock = 2	manuever = 4	siege = 1 }
+	}
+}

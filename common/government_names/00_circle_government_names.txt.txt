@@ -1,0 +1,251 @@
+# For specific combinations of culture, religion and other such triggers
+# Will pick the first valid one it finds in list
+
+#Heir and consort titles are generally kept simple for clarity unless there is something special in particular that can be used.
+
+
+zephyrum_ruler_titles = {
+	rank = {
+		1 = ZEPH_DUCHY
+		2 = ZEPH_KINGDOM
+		3 = ZEPH_EMPIRE
+	}
+
+	ruler_male = {
+		1 = ZEPH_DUKE
+		2 = ZEPH_KING
+		3 = ZEPH_EMPEROR
+	}
+
+	ruler_female = {
+		1 = ZEPH_DUCHESS
+		2 = ZEPH_QUEEN
+		3 = ZEPH_EMPRESS
+	}
+	
+	consort_male = {
+		1 = ZEPH_CONSORT_MALE
+		2 = ZEPH_CONSORT_MALE
+		3 = ZEPH_CONSORT_MALE
+	}
+
+	consort_female = {
+		1 = ZEPH_CONSORT_FEMALE
+		2 = ZEPH_CONSORT_FEMALE
+		3 = ZEPH_CONSORT_FEMALE
+	}
+	
+	heir_male = {
+		1 = ZEPH_HEIR_MALE
+		2 = ZEPH_HEIR_MALE
+		3 = ZEPH_HEIR_MALE
+	}
+	
+	heir_female = {
+		1 = ZEPH_HEIR_FEMALE
+		2 = ZEPH_HEIR_FEMALE
+		3 = ZEPH_HEIR_FEMALE
+	}
+
+	trigger = {
+		government = monarchy
+		tag = ZPJ
+	}
+}
+
+zephyrum_vassal_titles = {
+	rank = {
+		1 = ZEPH_VASSALSTATE
+		2 = ZEPH_VASSALSTATE
+		3 = ZEPH_VASSALSTATE
+	}	
+
+	ruler_male = {
+		1 = ZEPH_VASSALPERSON
+		2 = ZEPH_VASSALPERSON
+		3 = ZEPH_VASSALPERSON
+	}
+
+	ruler_female = {
+		1 = ZEPH_VASSALPERSON
+		2 = ZEPH_VASSALPERSON
+		3 = ZEPH_VASSALPERSON
+	}
+	
+	trigger = {
+		overlord = {
+			tag = ZPJ
+		}
+	}
+}
+
+mc_titles = {
+	rank = {
+		1 = MCDUCHY
+		2 = MCKINGDOM
+		3 = MCEMPIRE
+	}	
+
+	ruler_male = {
+		1 = MCRULER1
+		2 = MCRULER2
+		3 = MCRULER3
+	}
+
+	ruler_female = {
+		1 = MCSHERULER1
+		2 = MCSHERULER2
+		3 = MCSHERULER3
+	}
+	
+	heir_male = {
+		1 = MCHEIR
+		2 = MCHEIR
+		3 = MCHEIR
+	}
+
+	heir_female = {
+		1 = MCHEIRESS
+		2 = MCHEIRESS
+		3 = MCHEIRESS
+	}
+	
+	consort_male = {
+		1 = MCCONSORT
+		2 = MCCONSORT
+		3 = MCCONSORT
+	}
+	
+	consort_female = {
+		1 = MCWHORE
+		2 = MCWHORE
+		3 = MCWHORE
+	}
+	
+	trigger = {
+		tag = MCN
+	}
+}
+
+coins_ruler_titles = {
+	rank = {
+		1 = VOCOINS_DUCHY
+		2 = VOCOINS_KINGDOM
+		3 = VOCOINS_EMPIRE
+	}
+
+	ruler_male = {
+		1 = VOCOINS_DUKE
+		2 = VOCOINS_KING
+		3 = VOCOINS_EMPEROR
+	}
+
+	ruler_female = {
+		1 = VOCOINS_DUCHESS
+		2 = VOCOINS_QUEEN
+		3 = VOCOINS_EMPRESS
+	}
+	
+	consort_male = {
+		1 = VOCOINS_CONSORT_MALE
+		2 = VOCOINS_CONSORT_MALE
+		3 = VOCOINS_CONSORT_MALE
+	}
+
+	consort_female = {
+		1 = VOCOINS_CONSORT_FEMALE
+		2 = VOCOINS_CONSORT_FEMALE
+		3 = VOCOINS_CONSORT_FEMALE
+	}
+	
+	heir_male = {
+		1 = VOCOINS_HEIR_MALE
+		2 = VOCOINS_HEIR_MALE
+		3 = VOCOINS_HEIR_MALE
+	}
+	
+	heir_female = {
+		1 = VOCOINS_HEIR_FEMALE
+		2 = VOCOINS_HEIR_FEMALE
+		3 = VOCOINS_HEIR_FEMALE
+	}
+
+	trigger = {
+		government = monarchy
+		tag = VOC
+	}
+}
+
+coins_vassal_titles = {
+	rank = {
+		1 = VOCOINS_VASSALSTATE
+		2 = VOCOINS_VASSALSTATE
+		3 = VOCOINS_VASSALSTATE
+	}	
+
+	ruler_male = {
+		1 = VOCOINS_VASSALPERSON
+		2 = VOCOINS_VASSALPERSON
+		3 = VOCOINS_VASSALPERSON
+	}
+
+	ruler_female = {
+		1 = VOCOINS_VASSALPERSONFEMALE
+		2 = VOCOINS_VASSALPERSONFEMALE
+		3 = VOCOINS_VASSALPERSONFEMALE
+	}
+	
+	trigger = {
+		overlord = {
+			tag = VOC
+		}
+	}
+}
+
+pornguy_ruler_titles = {
+	rank = {
+		1 = RIO_DUCHY
+		2 = RIO_KINGDOM
+		3 = RIO_EMPIRE
+	}
+
+	ruler_male = {
+		1 = RIO_DUKE
+		2 = RIO_KING
+		3 = RIO_EMPEROR
+	}
+
+	ruler_female = {
+		1 = RIO_DUCHESS
+		2 = RIO_QUEEN
+		3 = RIO_EMPRESS
+	}
+	
+	consort_male = {
+		1 = RIO_CONSORT_MALE
+		2 = RIO_CONSORT_MALE
+		3 = RIO_CONSORT_MALE
+	}
+
+	consort_female = {
+		1 = RIO_CONSORT_FEMALE
+		2 = RIO_CONSORT_FEMALE
+		3 = RIO_CONSORT_FEMALE
+	}
+	
+	heir_male = {
+		1 = RIO_HEIR_MALE
+		2 = RIO_HEIR_MALE
+		3 = RIO_HEIR_MALE
+	}
+	
+	heir_female = {
+		1 = RIO_HEIR_FEMALE
+		2 = RIO_HEIR_FEMALE
+		3 = RIO_HEIR_FEMALE
+	}
+
+	trigger = {
+		tag = RIO
+	}
+}

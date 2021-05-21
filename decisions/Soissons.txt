@@ -1,0 +1,121 @@
+country_decisions = {
+
+	form_wre = {
+		major = yes
+		potential = {
+			tag = SOI
+			NOT = { has_country_flag = formedwreflag }
+		}
+		provinces_to_highlight = {
+				province_id = 118
+		}
+		allow = {
+			owns_core_province = 118
+			government_rank = 3
+		}
+		effect = {
+			override_country_name = THE_WRE
+			set_country_flag = formedwreflag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	carthago_delenda = {
+		potential = {
+			tag = SOI
+			NOT = { has_country_flag = carthagodelendaflag }
+		}
+		provinces_to_highlight = {
+			province_id = 341
+		}
+		allow = {
+			controls = 341
+		}
+		effect = {
+			341 = {
+				add_devastation = 100
+				change_trade_goods = salt
+			}
+			set_country_flag = carthagodelendaflag			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	antonine_wall_repair = {
+		potential = {
+			tag = SOI
+			NOT = { has_country_flag = antoninewallflag }
+		}
+		provinces_to_highlight = {
+			province_id = 248
+			province_id = 249
+		}
+		allow = {
+			owns_core_province = 248
+			owns_core_province = 249
+		}
+		effect = {
+			248 = { add_building_construction = { building = fort_15th speed = 1.1 cost = 0.2 } }
+			249 = { add_building_construction = { building = fort_15th speed = 1.1 cost = 0.2 } }
+			if = {
+				limit = {
+					truce_with = GAE
+					owns_core_province = 4363
+					owns_core_province = 250
+				}
+				GAE = { add_treasury = -100 }
+			}
+			set_country_flag = antoninewallflag			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	rename_byzantium = {
+		potential = {
+			tag = SOI
+			NOT = { has_country_flag = renamedbyzflag }
+			has_country_flag = formedwreflag
+			exists = BYZ
+		}
+		allow = {
+			BYZ = { vassal_of = SOI }	
+		}
+		effect = {
+			BYZ = { override_country_name = THE_EREE }
+			set_country_flag = renamedbyzflag		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	convert_soi_orthodox = {
+		potential = {
+			tag = SOI
+			NOT = { has_country_flag = please_dad_i_just_want_religious_unity }
+		}
+		allow = {
+			is_year = 1500
+			is_religion_enabled = protestant
+		}
+		effect = {
+			change_religion = orthodox
+			182 = { change_religion = orthodox }
+			183 = { change_religion = orthodox }
+			add_country_modifier = {
+				name = zpj_now_orthodox
+				duration = 7300
+			}
+			set_country_flag = please_dad_i_just_want_religious_unity
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

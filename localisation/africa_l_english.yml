@@ -3,7 +3,7 @@
  # Info
  AFR:0 "Africa"
  AFR_ADJ:0 "African"
- african_latin:0 "African"
+ african_latin:0 "Africanese"
  
  # Ideas
  AFR_ideas:0 "African Ideas"
@@ -25,12 +25,15 @@
  naval_raids_desc:0 "While many have difficulty coordinating between naval and land forces, our expertise at sea has allowed us to overcome this problem. With both naval and terrestrial batteries raining fire down upon a target, no fortress can hope to stand against us!"
  
  # Events
- flavor_afr.EVTNAME1:0 "The Succession of King Martin"
- flavor_afr.EVTDESC1:0 "The recently deceased King Martin has unfortunately produced no surviving children, leaving the House of Hauteville extinct. In addition, he has outlived all of his close relatives, meaning the kingdom has no clear line of succession. Already, multiple foreign dignitaries have arrived, insisting that their candidate holds the strongest claim."
+ flavor_afr.EVTNAME1:0 "The Succession of King Martino"
+ flavor_afr.EVTDESC1:0 "The recently deceased King Martino has unfortunately produced no surviving children, leaving the House of Hauteville extinct. In addition, he has outlived all of his close relatives, meaning the kingdom has no clear line of succession. Already, multiple foreign dignitaries have arrived, insisting that their candidate holds the strongest claim."
  flavor_afr.EVTOPTA1:0 "Aragon would make for a strong ally."
  flavor_afr.EVTOPTB1:0 "But the French make a strong case."
  flavor_afr.EVTOPTC1:0 "The Habsburg claim is legitimate."
  flavor_afr.EVTOPTD1:0 "The Hautevilles extinct? What are you talking about?"
+ flavor_afr.EVTNAME2:0 "The Reemergence of the Africanese"
+ flavor_afr.EVTDESC2:0 "With the return of our rule over the land the Africanese; the remnants of the Latins who inhabited this land before the Muslim invasion, have begun to recover and migrate to our lands."
+ flavor_afr.EVTOPTA2:0 "Good."
  
  # Insults
- 
+ insult_thrawn_1:0 "Procreate Kayak."

@@ -1,0 +1,85 @@
+﻿l_english:
+
+ # Info
+ SOI:0 "Soissons"
+ SOI_ADJ:0 "Soissonnais"
+ 
+ # Ideas
+ SOI_ideas:0 "Soissons Ideas"
+ SOI_ideas_start:0 "Soissons Traditions"
+ SOI_ideas_bonus:0 "Soissons Ambition"
+ SOI_idea_1:0 "Ludus Litterarius"
+ SOI_idea_1_desc:0 "It was typical for Roman children of wealthy families to receive their early education from private tutors. However, it was common for children of more humble means to be instructed in a primary school, traditionally known as a ludus litterarius. This institution survived with us all the way into the 15th century, giving us an edge at innovation compared to our feudal neighbours."
+ SOI_idea_2:0 "A Militarized Society"
+ SOI_idea_2_desc:0 "Our path to survival across centuries crossed with numerous trials and barbarian invasions. The military has become the backbone of our society and a necessity to continue our existence."
+ SOI_idea_3:0 "All Roads Lead to Soissons"
+ SOI_idea_3_desc:0 "All roads and trade used to lead to Rome back in the day. With the fall of the both empires, we stand as the last bastion as a Roman commerce center."
+ SOI_idea_4:0 "Ruina Montium"
+ SOI_idea_4_desc:0 "The invention and widespread application of hydraulic mining, namely hushing and ground-sluicing, aided by the ability of the Romans to plan and execute mining operations on a large scale, allowed various base and precious metals to be extracted on a proto-industrial scale only rarely, if ever, matched until the Industrial Revolution."
+ SOI_idea_5:0 "Forum Cuppedinis"
+ SOI_idea_5_desc:0 "We will establish a new Forum Cuppedinis, drawing the bulk of the traffic within our empire and improving our infrastructure for the transport of valuable goods."
+ SOI_idea_6:0 "Roman Integration"
+ SOI_idea_6_desc:0 "Ours is a long standing tradition to integrate various foreign tribes to become Romans. We will reinvigorate this ancient tradition, for all citizens are Romans."
+ SOI_idea_7:0 "Legionary Discipline"
+ SOI_idea_7_desc:0 "The legions of Rome are unconquerable, it's emperors invincible. Aeterna Victrix!"
+ 
+ # Insults
+ insult_old_stewie_1:0 "Oh look, another Byzantine larper."
+ insult_old_stewie_2:0 "You are a company? So you produce, what, golems?"
+ insult_old_stewie_3:0 "Pizza rolls are just italian gushers"
+ insult_old_stewie_4:0 "Nobody really knows what they're doing in Paradox games, much less you."
+ insult_old_stewie_5:0 "I suggest you stop being a cancerous fuck and stop playing the game like a fucking capitalist tycoon" #Target: Zeph
+ insult_old_stewie_6:0 "What the vvlva did yov jvst speak to me, yov lowly barbarian ? I'll have yov know I am a part of the Cohors Praetoria and I have been involved in nvmerovs campaigns in Germania, and I have killed over 100 Blve-painted Gavls. I am trained in Testvdo warfare and I am the top Legionary engineer in the entire 10th Legion. Yov are nothing to me bvt another Germanic man who rolls in the mvd. I will throw a pilvm at yov with precision the likes of which has never been seen dvring the entire Bello Gallico, mark my fvcking words. Yov think yov can get away with rambling that horse-shit to me in yovr filthy barbarian langvage ? Words fall from yov movth as shit from ass. By Jvpiter's Cock, as we converse I am contacting my secret network of Legionarii Evocati across the entire Roman Empire and yovr little shit-filled village is being raided right now so prepare for the moment, when the Gods have seen it fit to remove cock from arse so yov can finally see Roman might. The Roman might that will wipe ovt the pathetic thing yov call yovr tribe. Yov're fvcking dead, stinking Barbarian. I can ride anywhere over svperior Roman paved roads, at anytime, and I can kill yov in over 700 ways, and that's jvst with my Gladivs. Not only am I extensively trained in a Castrvm, bvt I have access to my entire Centvrio of brave Romans and I will vse them to fvll extent to wipe yov crvel Germanics of the face of the earth. If only yov covld have know what amovnt of Ballista fire yovr little clever comment in yovr vncivilized langvage was abovt to bring down vpon, yov maybe wovld have shvt yovr filthy movth. Bvt yov covldn't, yov didn't, and now the Gods will spread cheek from cheek and rom cock in arse. I will sell yovr people as slaves and yov will march in my victory parade over the Via Sacra. Yov're fvcking dead, filthy Barbarian."
+ insult_old_stewie_7:0 "I am big."
+ insult_old_stewie_8:0 "I prefer noodles over your ketchup hut."
+ insult_old_stewie_9:0 "Get off my lawn."
+ 
+ # Insults Part 2 Electric Boogaloo
+ insult_stewie_1:0 "Yov are a company? So yov prodvce, what, golems?" #Coins, VOC
+ insult_stewie_2:0 "Oh, yov are attacking? Roll a DEX save then." #Coins, VOC
+ insult_stewie_3:0 "I have had enovgh of ONE Dvtch in this cvrsed continent already, go non-exist yovrself." #Coins, VOC
+ insult_stewie_4:0 "Roll initiative." #Coins, VOC
+ insult_stewie_5:0 "Pizza rolls are jvst Italian gvshers, and they are all mine." #Italian states
+ insult_stewie_6:0 "I prefer noodles over your ketchvp hvt." #Italian states
+ insult_stewie_7:0 "Nobody really knows what they're doing in Paradox games, mvch less yov."
+ insult_stewie_8:0 "I am big."
+ insult_stewie_9:0 "What the vvlva did yov jvst speak to me, yov lowly b*rbar ? I'll have yov know I am a part of the Cohors Praetoria and I have been involved in nvmerovs campaigns in Germania, and I have killed over 100 Blve-painted Gavls. I am trained in Testvdo warfare and I am the top Legionary engineer in the entire 10th Legion. Yov are nothing to me bvt another G*rmanic man who rolls in the mvd. I will throw a pilvm at yov with precision the likes of which has never been seen dvring the entire Bello Gallico, mark my fvcking words. Yov think yov can get away with rambling that horse-shit to me in yovr filthy b*rbar langvage ? Words fall from yov movth as shit from ass. By Jvpiter's Cock, as we converse I am contacting my secret network of Legionarii Evocati across the entire Imperivm Romanvm and yovr little shit-filled village is being raided right now so prepare for the moment, when the Gods have seen it fit to remove cock from arse so yov can finally see  R O M A N  might. The Roman might that will wipe ovt the pathetic thing yov call yovr tribe. Yov're fvcking dead, stinking B*rbar. I can ride anywhere over svperior Roman paved roads, at anytime, and I can kill yov in over 700 ways, and that's jvst with my Gladivs. Not only am I extensively trained in a Castrvm, bvt I have access to my entire Centvrio of brave Romans and I will vse them to fvll extent to wipe yov crvel Germanics of the face of the earth. If only yov covld have know what amovnt of Ballista fire yovr little clever comment in yovr vncivilized langvage was abovt to bring down vpon, yov maybe wovld have shvt yovr filthy movth. Bvt yov covldn't, yov didn't, and now the Gods will spread cheek from cheek and rom cock in arse. I will sell yovr people as slaves and yov will march in my victory parade over the Via Sacra. Yov're dead, filthy B*rbar."
+ insult_stewie_10:0 "I said, STOP being a cancerovs fuck and playing the game like a FVCKING capitalist tycoon" #Zeph
+ insult_stewie_11:0 "§F§!vck yov Canoe." #Self-Explanatory
+ insult_stewie_12:0 "Nice boat." #Canoe
+ insult_stewie_13:0 "Get off my lawn." #Thrawn & anyone holding WRE land
+ insult_stewie_14:0 "No Cannae this time, P*nic." #Thrawn
+ insult_stewie_15:0 "Not even another Hannibal will save you." #Thrawn
+ insult_stewie_16:0 "We will have another salt crisis in the empire after we are done with you." #Thrawn
+ insult_stewie_17:0 "G*els get out reeeeeeeeeeeeeeeeEEEEEEEEEEEEEEEEEEE§EEEEEEEEEEEEEEEEEEEEEEEEEEE§!" #Relm
+ insult_stewie_18:0 "Back to the highlands with yov, P*ct." #Marco
+ insult_stewie_19:0 "I thovght evnvchs covld not be rvlers." #Relm
+ insult_stewie_20:0 "We will rebvild the Antonine wall and we will make yov pay for it." #Marco  
+ insult_stewie_21:0 "Weeeee ooooo weeeee ooooo." #McMuller
+ insult_stewie_22:0 "It is time to Mc Up!" #McMuller
+ insult_stewie_23:0 "We DO that here." #Zenvue
+ insult_stewie_24:0 "Please fix my economy." #Oljon
+ insult_stewie_25:0 "Oh look, another 'Byzantine' larper. Make way for TRVE Romans." #Semice & anyone claiming to be 'Third Rome' & holder of Constantinople.
+ insult_stewie_26:0 "What are YOV gonna do? Send me another 106/0/0?" #Semice 
+ 
+ #WRE namechange decisions, see decision file
+ form_wre_title:0 "Reform the Western Roman Empire"
+ form_wre_desc:0 "We have liberated Rome from the barbarians that infested it. It is time to proclaim our return."
+ THE_WRE:0 "West Rome"
+ THE_WRE_ADJ:0 "West Roman"
+ 
+ #Salt, see decision file
+ carthago_delenda_title:0 "Carthago Delenda Est"
+ carthago_delenda_desc:0 "Remember, No Punic."
+ antonine_wall_repair_title:0 "Rebuild the Antonine Wall & Make Picts Pay"
+ antonine_wall_repair_desc:0 "Rebuild the Antonine Wall from the base up and make the Picts pay for it."
+ 
+ #Proper ERE larping, just in case
+ rename_byzantium_title:0 "Rename Byzantium"
+ rename_byzantium_desc:0 "Get rid of that cringe ass name in place of a TRVE ROMAN one."
+ THE_EREE:0 "East Rome"
+ THE_EREE_ADJ:0 "East Roman"
+ 
+ #Fuck Protestants
+ convert_soi_orthodox_title:0 "Penis Enlargement Surgery"
+ convert_soi_orthodox_desc:0 "On our journey to become chads, we need to take some risks."

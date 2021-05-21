@@ -1,0 +1,42 @@
+﻿l_english:
+
+ # Info
+ QAN:0 "Qanoe"
+ QAN_ADJ:0 "Qanoe"
+ 
+ # Ideas
+ QAN_ideas:0 "Qanoe Ideas"
+ QAN_ideas_start:0 "Qanoe Traditions"
+ QAN_ideas_bonus:0 "Qanoe Ambition"
+ QAN_idea_1:0 "Bologomism"
+ QAN_idea_1_desc:0 "Bologolist. Bomogolist. Gobomilist. Lomogobist."
+ QAN_idea_2:0 "Long Swords"
+ QAN_idea_2_desc:0 "ARE THE KEY"
+ QAN_idea_3:0 "My dad was a war criminal"
+ QAN_idea_3_desc:0 "Family history of war crimes make our soldiers care less about collateral."
+ QAN_idea_4:0 "My city now"
+ QAN_idea_4_desc:0 "Make city bigger"
+ QAN_idea_5:0 "§GF§!uck you Muller"
+ QAN_idea_5_desc:0 "hot girl, dog penis by mail free order now, woof, the dog"
+ QAN_idea_6:0 "weelt hag'ts ujst wron"
+ QAN_idea_6_desc:0 "Our scientists have strokes and accidentally discover stuff"
+ QAN_idea_7:0 "Boat man bad"
+ QAN_idea_7_desc:0 "Boat man bad, people no rebel"
+ 
+ # Bologomism
+ bogomilist:0 "Bologomism"
+ bogomilist_religion_desc: "Bologomism is an originally Orthodox Christian heresy with Gnostic elements that completely rejects the ecclesiastical hierarchy and advocates a return to early Christianity. Bologomists believe that the world was created by an evil demiurge - the Devil."
+ bogomilist_rebels_title: "Religious"
+ bogomilist_rebels_name: "$RELIGION$ Zealots"
+ bogomilist_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ bogomilist_rebels_army: "$RELIGION$ Army"
+ BOGOMILIST_ASPECTS_LONG:0 "Glory of Bologomism"
+ BOGOMILIST_ASPECTS_SHORT:0 "Aspects" 
+ longer_swords_aspect: "Longer Swords"
+ stronger_swords_aspect: "Stronger Swords"
+ 
+ # Insults
+ insult_canoe_1:0 "Y I K E S"
+ insult_canoe_2:0 "Y I K E S"
+ insult_canoe_3:0 "Didn't think it was possible to be this homossexual"
+ insult_canoe_4:0 "Fuck Canoe"
