@@ -6,6 +6,18 @@ add_accepted_culture = highland_scottish
 religion = hussite
 capital = 376
 
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
 
 1444.1.1 = {
 	monarch = {
@@ -14,17 +26,21 @@ capital = 376
 		adm = 6
 		dip = 4
 		mil = 5
+		birth_date = 1415.1.1
 		female = yes
 	}
 	heir = {
 		name = "Eoghain"
+		monarch_name = "Eoghain I"
 		dynasty = "Ní Mháille"
+		claim = 95
 		adm = 5
 		dip = 3
 		mil = 4
 		birth_date = 1442.1.1
+		death_date = 1478.1.1
 	}
-	clear_scripted_personality = yes
+	clear_scripted_personalities = yes
 	add_heir_personality = strict_personality
 	add_ruler_personality = industrious_personality
 }

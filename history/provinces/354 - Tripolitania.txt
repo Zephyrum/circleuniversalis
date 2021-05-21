@@ -1,7 +1,7 @@
 #354 - Tripoli
 
-owner = AFR
-controller = AFR
+owner = TUN
+controller = TUN
 add_core = AFR
 culture = tunisian
 religion = sunni
@@ -21,6 +21,8 @@ discovered_by = eastern
 extra_cost = 16
 center_of_trade = 2
 
+1428.5.3 = { controller = AFR } # African forces seize Tripoli
+1429.6.27 = { owner = AFR } # Treaty of Tunis
 1510.1.1 = { owner = CAS controller = CAS add_core = CAS }
 1516.1.23 = {	owner = SPA	
 	controller = SPA

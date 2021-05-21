@@ -1,7 +1,7 @@
 #341 - Tunis
 
-owner = AFR
-controller = AFR
+owner = TUN
+controller = TUN
 add_core = AFR
 culture = tunisian
 religion = sunni
@@ -20,6 +20,8 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1429.6.22 = { controller = AFR }
+1429.6.27 = { owner = AFR } # Treaty of Tunis
 1489.1.1 = { unrest = 4 } # Abu Zikriya Yahya overthrown by Abul Mumin
 1490.1.1 = { unrest = 0 } # Abu Yahya recaptures the power
 1534.8.16 = {

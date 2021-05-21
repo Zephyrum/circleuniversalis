@@ -1,7 +1,7 @@
 # - Bizerte
 
-owner = AFR
-controller = AFR
+owner = TUN
+controller = TUN
 add_core = AFR
 culture = tunisian
 religion = sunni
@@ -21,7 +21,8 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
-
+1429.3.4 = { controller = AFR }
+1429.6.27 = { owner = AFR } # Treaty of Tunis
 1534.8.16 = {
 	owner = ALG
 	controller = ALG
