@@ -73,4 +73,28 @@ country_event = {
 		name = "CU_HO_border_disputes.EVTOPTB3"
 		1744 = { cede_province = MCN }
 	}
+	after = { country_event = { id = CU_HO_border_disputes.4 } }
+}
+
+country_event = {
+	id = CU_HO_border_disputes.4
+	title = "CU_HO_border_disputes.EVTNAME4"
+	desc = "CU_HO_border_disputes.EVTDESC4"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTA4"
+		1855 = { cede_province = ATC change_religion = catholic }
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTB4"
+		378 = { cede_province = PAE change_religion = sunni }
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTC4"
+	}
 }

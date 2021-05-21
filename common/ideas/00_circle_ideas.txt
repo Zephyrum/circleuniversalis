@@ -473,9 +473,11 @@ vocoins_ideas = {
 	bonus = {
 		prestige = 1
 	}
+	
 	trigger = {
 		tag = VOC
 	}
+	
 	free = yes
 	
 	vocoins_idea_1 = {
@@ -483,7 +485,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_2 = {
-		prestige = 1
+		infantry_power = 0.1
 	}
 	
 	vocoins_idea_3 = {
@@ -499,7 +501,7 @@ vocoins_ideas = {
 	}
 	
 	vocoins_idea_6 = {
-		trade_steering = 0.20
+		discipline = 0.05
 	}
 	
 	vocoins_idea_7 = {
@@ -557,6 +559,7 @@ SEM_ideas = {
 	bonus = {
 		core_creation = -0.2
 	}
+	
 	trigger = {
 		tag = SEM
 	}
@@ -565,29 +568,23 @@ SEM_ideas = {
 	SEM_idea_1 = {
 		spy_offence = 0.25
 	}
-	
 	SEM_idea_2 = {
 		global_tax_modifier = 0.1
 	}
-	
 	SEM_idea_3 = {
 		may_establish_frontier = yes
 		auto_explore_adjacent_to_colony = yes
 	}
-	
 	SEM_idea_4 = {
 		global_manpower_modifier = 0.33
 	}
-	
 	SEM_idea_5 = {
 		global_unrest = -1
 		production_efficiency = 0.05
 	}
-	
 	SEM_idea_6 = {
 		land_forcelimit_modifier = 0.25
 	}
-	
 	SEM_idea_7 = {
 		hostile_attrition = 1
 	}
@@ -1068,6 +1065,48 @@ MCN_ideas = {
 	}
 }
 
+ZPJ_ideas = {
+	start = {
+		discipline = 0.05
+		infantry_power = 0.15
+	}
+	
+	bonus = {
+		global_colonial_growth = 25
+	}
+	
+	trigger = {
+		OR = {
+			tag = ZPD
+			tag = ZPJ
+		}
+	}
+	
+	free = yes
+	
+	zpj_money = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	zpj_blob = {
+		administrative_efficiency = 0.05
+	}
+	zpj_shipdmg = {
+		heavy_ship_power = 0.10
+	}
+	zpj_siege = {
+		siege_ability = 0.20
+	}
+	zpj_firedmg = {
+		fire_damage_received = -0.10
+	}
+	zpj_shipnodie = {
+		naval_morale = 0.15
+	}
+	zpj_bodies_hitting_floor_noises = {
+		global_manpower_modifier = 0.20
+	}
+}
+
 WAG_ideas = {
 	start = {
 		technology_cost = -0.1
@@ -1105,6 +1144,42 @@ WAG_ideas = {
 	}
 }
 
+ODS_ideas = {
+	start = {
+		diplomatic_upkeep = 1
+		trade_efficiency = 0.15
+	}
+	bonus = {
+		trade_steering = 0.25
+	}
+	trigger = {
+		tag = ODS
+	}
+	free = yes
+	
+	black_reaver = {
+		core_creation = -0.15
+	}
+	tower_over_isle = {
+		adm_tech_cost_modifier = -0.1
+	}
+	genetic_brilliance = {
+		idea_cost = -0.1
+	}
+	pety_business = {
+		global_tax_modifier = 0.15
+	}
+	blood_bathing = {
+		tolerance_heathen = 3
+	}
+	english_slaves = {
+		development_cost = -0.1
+	}
+	reavers_whip = {
+		production_efficiency = 0.1
+	}
+}
+
 GAE_ideas = {
 	start = {
 		discipline = 0.05
@@ -1113,7 +1188,12 @@ GAE_ideas = {
 	bonus = {
 		leader_land_fire = 1
 	}
+	
+	trigger = {
+		tag = GAE
+	}
 	free = yes
+	
 	grainne_ni_mhaille = {
 		diplomatic_reputation = 1
 		may_perform_slave_raid = yes
@@ -1137,5 +1217,277 @@ GAE_ideas = {
 	}
 	another_risin = {
 		fire_damage = 0.1
+	}
+}
+
+SOI_ideas = {
+	start = {
+		advisor_cost = -0.1
+		improve_relation_modifier = 0.15
+	}
+	bonus = {
+		land_maintenance_modifier = -0.15
+	}
+	
+	trigger = {
+		tag = SOI
+	}
+	free = yes
+	
+	SOI_idea_1 = {
+		idea_cost = -0.1
+	}
+	SOI_idea_2 = {
+		monthly_militarized_society = 0.1
+	}
+	SOI_idea_3 = {
+		trade_efficiency = 0.1
+	}
+	SOI_idea_4 = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	SOI_idea_5 = {
+		global_own_trade_power = 0.1
+	}
+	SOI_idea_6 = {
+		culture_conversion_cost = -0.2
+	}
+	SOI_idea_7 = {
+		discipline = 0.05
+	}
+}
+
+QAN_ideas = {
+	start = {
+		land_morale = 0.10
+		tolerance_heathen = 2
+	}
+	bonus = {
+		global_manpower_modifier = 0.20
+	}
+	
+	trigger = {
+		tag = QAN
+	}
+	free = yes
+	
+	QAN_idea_1 = {
+		diplomatic_reputation = 2
+		warscore_cost_vs_other_religion = -0.20
+	}
+	QAN_idea_2 = {
+		infantry_power = 0.10
+	}
+	QAN_idea_3 = {
+		fire_damage = 0.10
+	}
+	QAN_idea_4 = {
+		development_cost = -0.05
+		build_cost = -0.05
+	}
+	QAN_idea_5 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	QAN_idea_6 = {
+		technology_cost = -0.05
+		idea_cost = -0.05
+	}
+	QAN_idea_7 = {
+		stability_cost_modifier = -0.10
+	}
+}
+
+JLL_ideas = {
+	start = {
+		production_efficiency = 0.10
+		land_forcelimit_modifier = 0.25
+	}
+	bonus = {
+		build_cost = -0.10
+	}
+	
+	trigger = {
+		tag = JLL
+	}
+	free = yes
+	
+	JLL_idea_1 = {
+		global_manpower_modifier = 0.25
+	}
+	JLL_idea_2 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	JLL_idea_3 = {
+		technology_cost = -0.10
+	}
+	JLL_idea_4 = {
+		core_creation = -0.10
+	}
+	JLL_idea_5 = {
+		global_unrest = -2
+	}
+	JLL_idea_6 = {
+		discipline = 0.05
+	}
+	JLL_idea_7 = {
+		development_cost = -0.2
+	}
+}
+
+rio_ideas = {
+	start = {
+		infantry_power = 0.15
+		ae_impact = -0.25
+	}
+	bonus = {
+		fire_damage_received = -0.10
+	}
+	
+	trigger = {
+		tag = RIO
+	}
+	free = yes
+	
+	rio_idea_1 = {
+		global_unrest = -2
+	}
+	rio_idea_2 = {
+		development_cost = -0.10
+	}
+	rio_idea_3 = {
+		global_manpower_modifier = 0.25
+	}
+	rio_idea_4 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	rio_idea_5 = {
+		build_cost = -0.20
+	}
+	rio_idea_6 = {
+		trade_efficiency = 0.10
+	}
+	rio_idea_7 = {
+		discipline = 0.05
+	}
+}
+
+palestine_ideas = {
+	start = {
+		land_morale = 0.10	
+		army_tradition = 1
+	}
+	bonus = {
+		interest = -1	
+	}
+	trigger = {
+		tag = PAE
+	}
+	free = yes
+	
+	rigorous_stonethrowing = {
+		discipline = 0.05
+	}
+	
+	charming_personalities = {
+		ae_impact = -0.2	
+	}
+	
+	slowtoanger_quicktoreact = {
+		infantry_power = 0.05
+	}
+	
+	palestinian_adaptability = {
+		siege_ability = 0.10
+	}
+	
+	generational_thrift = {
+		global_tax_modifier = 0.05		
+	}
+	
+	pan_arab_sentiments = {
+		core_creation = -0.1	
+	}
+	
+	making_the_best = {
+		production_efficiency = 0.1
+	}
+}
+
+vnx_ideas = {
+	start = {
+		production_efficiency = 0.15
+		global_trade_power = 0.10
+	}
+	bonus = {
+		land_maintenance_modifier = -0.20
+	}
+	
+	trigger = {
+		tag = VNX
+	}
+	free = yes
+	
+	vnx_idea_1 = {
+		land_morale = 0.10
+	}
+	vnx_idea_2 = {
+		global_tax_modifier = 0.10
+	}
+	vnx_idea_3 = {
+		stability_cost_modifier = -0.10
+	}
+	vnx_idea_4 = {
+		naval_morale = 0.10
+	}
+	vnx_idea_5 = {
+		global_unrest = -1
+	}
+	vnx_idea_6 = {
+		discipline = 0.05
+	}
+	vnx_idea_7 = {
+		trade_efficiency = 0.10
+	}
+}
+
+MRV_ideas = {
+	start = {
+		production_efficiency = 0.15
+		global_trade_power = 0.1
+	}
+	bonus = {
+		land_maintenance_modifier = -0.2
+	}
+	trigger = {
+		tag = MRV
+	}
+	free = yes
+	
+	MRV_idea_1 = {
+		land_morale = 0.1
+	}
+	
+	MRV_idea_2 = {
+		global_tax_modifier = 0.1
+	}
+	
+	MRV_idea_3 = {
+		stability_cost_modifier = -0.1
+	}
+	
+	MRV_idea_4 = {
+		naval_morale = 0.1
+	}
+	
+	MRV_idea_5 = {
+		global_unrest = -1
+	}
+	
+	MRV_idea_6 = {
+		discipline = 0.05
+	}
+	
+	MRV_idea_7 = {
+		trade_efficiency = 0.1
 	}
 }
