@@ -5,15 +5,27 @@ music = {
 
 music = {
 	name = "Irish Bullshit"
+	file = "irishbs.ogg"
+}
+
 music = {
 	name = "Rumor Theater"
 	file = "rumortheater.ogg"
 }
 
+music = {
+	name = "Aeterna Victrix"
+	file = "aeternavictrix.ogg"
+}
 
 music = {
 	name = "He's a Pirate"
 	file = "hesapirate.ogg"
+}
+
+music = {
+	name = "Tropa de Elite"
+	file = "tdelite.ogg"
 }
 
 music = {
@@ -22,8 +34,18 @@ music = {
 }
 
 music = {
+	name = "My Dad was a War Criminal"
+	file = "dadwarcrime.ogg"
+}
+
+music = {
 	name = "Devil"
 	file = "devil.ogg"
+}
+
+music = {
+	name = "Freek'n'you"
+	file = "freeknyou.ogg"
 }
 
 music = {
@@ -34,4 +56,9 @@ music = {
 music = {
 	name = "Cripple Creek"
 	file = "cripplecreek.ogg"
+}
+
+music = {
+	name = "Venari Strigas"
+	file = "venaristrigas.ogg"
 }
