@@ -124,5 +124,40 @@ country_event = {
 	option = {
 		name = "CU_HO_border_disputes.EVTOPTB5"
 	}
-	after = { country_event = { id = CU_HO_border_disputes.4 } }
+	after = { country_event = { id = CU_HO_border_disputes.6 } }
+}
+
+country_event = {
+	id = CU_HO_border_disputes.6
+	title = "CU_HO_border_disputes.EVTNAME6"
+	desc = "CU_HO_border_disputes.EVTDESC6"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTA6"
+		JLL = {
+			every_owned_province = {
+				limit = { is_core = DHK }
+				cede_province = DHK
+			}
+		}
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTB6"
+		DHK = {
+			every_owned_province = {
+				limit = { is_core = JLL }
+				cede_province = JLL
+			}
+			DHK = { set_capital = 563 }
+		}
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTC6"
+	}
+	after = { country_event = { id = CU_HO_border_disputes.6 } }
 }

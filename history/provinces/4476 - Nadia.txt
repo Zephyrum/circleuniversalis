@@ -3,6 +3,7 @@
 owner = DHK
 controller = DHK
 add_core = DHK
+add_core = JLL
 culture = bengali
 religion = hinduism
 capital = "Nadia"

@@ -11,11 +11,11 @@ CNE = "countries/Canoe.txt" # Canoe: Round 1
 ACE = "countries/Aceh.txt" # Marco: Round 1
 CTH = "countries/Corea.txt" # Undead: Round 1
 OTA = "countries/Landland.txt" # Ox: Round 1
-VOC = "countries/VOC.txt" # Coins: Dropped
+VOC = "countries/VOC.txt" # Coins: Dropped, used for round 2
 PHO = "countries/Phoenicia.txt" # Franco: Dropped
 NRE = "countries/NewRomanEmpire.txt" # Raka: Dropped
 BEL = "countries/Belgium.txt" # Badassbo: Dropped
-SEM = "countries/Semiceland.txt" # Semice: Round 1+
+SEM = "countries/Semiceland.txt" # Semice: Round 1+, then used for Round 2
 # Relm: Round 1+
 # Couch: Round 1+
 # Oljo: Round 1+
@@ -23,7 +23,7 @@ SEM = "countries/Semiceland.txt" # Semice: Round 1+
 ATC = "countries/Antioch.txt" # Thrawn: Historical Oddity
 YOU = "countries/You.txt" # Zeph: Historical Oddity (Was actually just Yue in the original mod, we have two Acehs in game, we might as well have two Yues)
 O3O = "countries/Manchemria.txt" # Chem: Historical Oddity
-ODS = "countries/Oldestones.txt" # Relm: Historical Oddity
+ODS = "countries/Oldestones.txt" # Relm: Historical Oddity, used for Round 2
 ERU = "countries/Erusea.txt" # Jules: Historical Oddity (The creator may be wrong, Jules could not be reached to make sure)
 LEM = "countries/Lemurville.txt" # Zenvue: Historical Oddity
 QAM = "countries/Qarmatia.txt" # Kar: Historical Oddity
@@ -34,3 +34,12 @@ AFR = "countries/Africa.txt" # Thrawn: Round 2
 MCN = "countries/McHolland.txt" # McMuller: Round 2
 WAG = "countries/Waganda.txt" # Zenvue: Round 2
 GAE = "countries/Gaeltacht.txt" # Marco: Round 2
+ZPD = "countries/Fujiwara.txt" # Zeph: Round 2
+ZPJ = "countries/AzumaTeikoku.txt" # Zeph [Formable]: Round 2
+QAN = "countries/Qanoe.txt" # Canoe: Round 2
+SOI = "countries/Soissons.txt" # Stewie: Round 2
+JLL = "countries/Jallaland.txt" # Oljo: Round 2
+PAE = "countries/Palestine.txt" # Undead: Round 2
+RIO = "countries/Bavario.txt" # Porn Guy: Round 2
+VNX = "countries/Veanixe.txt" # Shred: Round 2
+MRV = "countries/Maruvia.txt" # Syo: Round 2

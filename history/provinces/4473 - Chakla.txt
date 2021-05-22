@@ -1,8 +1,9 @@
 #4473 - Chakla #Tripuran Plains Region
 
-owner = DHK
-controller = DHK
 add_core = DHK
+owner = JLL
+controller = JLL
+add_core = JLL
 culture = chin
 religion = hinduism
 capital = "Chakla"

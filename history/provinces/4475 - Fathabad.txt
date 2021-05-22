@@ -1,8 +1,9 @@
 #4475 - Fathabad
 
-owner = DHK
-controller = DHK
 add_core = DHK
+owner = JLL
+controller = JLL
+add_core = JLL
 culture = bengali
 religion = hinduism
 capital = "Fathabad"

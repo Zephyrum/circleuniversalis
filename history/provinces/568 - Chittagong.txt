@@ -1,8 +1,9 @@
 #568 - Chittagong
 
-owner = DHK
-controller = DHK
 add_core = DHK
+owner = JLL
+controller = JLL
+add_core = JLL
 culture = bengali
 religion = hinduism #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"

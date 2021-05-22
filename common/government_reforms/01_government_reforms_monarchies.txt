@@ -502,6 +502,10 @@ prussian_monarchy = {
 				have_had_reform = prussian_monarchy
 			}
 			AND = {
+				tag = SOI
+				NOT = { map_setup = map_setup_random }
+			}
+			AND = {
 				is_playing_custom_nation = yes
 				have_had_reform = prussian_monarchy
 			}
@@ -510,6 +514,7 @@ prussian_monarchy = {
 	trigger = {
 		OR = {
 			is_playing_custom_nation = yes
+			tag = SOI
 			religion = protestant
 			religion = reformed
 		}
@@ -521,9 +526,9 @@ prussian_monarchy = {
 	modifiers = {
 		war_exhaustion = -0.02
 		global_unrest = -2
-		global_autonomy = -0.075
+		global_autonomy = -0.050
 		max_absolutism = 10
-		monarch_military_power = 3
+		monarch_military_power = 1
 		nobles_loyalty_modifier = 0.1
 		governing_capacity_modifier = -0.5
 	}
@@ -611,6 +616,10 @@ tsardom = {
 				NOT = { map_setup = map_setup_random }
 			}
 			AND = {
+				tag = SEM
+				NOT = { map_setup = map_setup_random }
+			}
+			AND = {
 				is_playing_custom_nation = yes
 				have_had_reform = tsardom
 			}
@@ -653,7 +662,6 @@ mamluk_government = {
 				NOT = { map_setup = map_setup_random }
 			}
 			have_had_reform = mamluk_government
-			tag = OTA
 		}
 	}
 	legacy_equivalent = mamluk_government_legacy
