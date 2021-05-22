@@ -1,11 +1,12 @@
 # 2111 - Hetu Ala
 
-owner = O3O
-controller = O3O
-add_core = O3O
+owner = QAN
+controller = QAN
+add_core = QAN
 add_core = MJZ
+add_core = O3O
 culture = manchu
-religion = confucianism
+religion = bogomilist
 capital = "Hetu Ala"
 trade_goods = iron
 hre = no

@@ -97,4 +97,32 @@ country_event = {
 	option = {
 		name = "CU_HO_border_disputes.EVTOPTC4"
 	}
+	after = { country_event = { id = CU_HO_border_disputes.5 } }
+}
+
+country_event = {
+	id = CU_HO_border_disputes.5
+	title = "CU_HO_border_disputes.EVTNAME5"
+	desc = "CU_HO_border_disputes.EVTDESC5"
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTA5"
+		QAN = {
+			every_owned_province = {
+				limit = { is_core = O3O }
+				change_religion = confucian
+				cede_province = O3O
+			}
+		}
+		O3O = { set_capital = 730 }
+	}
+	option = {
+		name = "CU_HO_border_disputes.EVTOPTB5"
+	}
+	after = { country_event = { id = CU_HO_border_disputes.4 } }
 }
