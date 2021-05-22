@@ -19,3 +19,16 @@ mcpolders_fuck_belgium_edition = {
 prestige_from_seeing_stuff = {
 	build_cost = 0.05
 }
+
+zpj_now_orthodox = {
+	global_missionary_strength = 0.10
+	missionaries = 2
+	religious_unity = 0.50
+}
+
+ai_insurance_policy = {
+	global_unrest = -2
+	yearly_corruption = -0.25
+	interest = -2
+	inflation_reduction = 0.20
+}
