@@ -25,3 +25,28 @@ bookmark = {
 	#Oljo
 	#Norm
 }
+
+bookmark = {
+	name = "MCMULLER_IS_GAY2"
+	desc = "MCMULLER_IS_GAY2_DESC"
+	date = 1444.11.11
+	
+	center = 151
+	default = yes
+	
+	country = MRV #Maruvia, Syoarn
+	country = GAE #Gaeltacht, Marco
+	country = VNX #Veanixe, Shredtail
+	country = ODS #Oldestones, Relm
+	country = SOI #Soissons, Stewie
+	country = MCN #McHolland, McMuller
+	country = AFR #Africa, Thrawn
+	country = RIO #Bavario, Pornguy
+	country = SEM #Semiceland, Semice
+	country = WAG #Waganda, Zenvue
+	country = PAE #Palestine, Undead
+	country = JLL #Jallaland, Oljo
+	country = VOC #V.O.C, Coins
+	country = QAN #Qanoe, Canoe
+	country = ZPD #Fujiwara, Zeph
+}

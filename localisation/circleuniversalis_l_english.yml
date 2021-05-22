@@ -2,8 +2,18 @@
  # Bookmark
  MCMULLER_IS_GAY:0 "The Circle Rises"
  MCMULLER_IS_GAY_DESC:0 "To put it bluntly: shit's fucked up. Many countries born out of the ideas of twisted minds have appeared across the old world to terrorize the early modern era. Will the the forces of history revert the disaster and railroad itself, or will these new states rise to greatness and prevail over their rivals at the end of the Dark Ages? Are those new forces going to be fleeting or are they going to truly endure the test of time? But most pressingly, the question that is in all of our minds: can McMuller survive past the 1480s?"
+ MCMULLER_IS_GAY2:0 "The Circle Rises"
+ MCMULLER_IS_GAY2_DESC:0 "The prophecy has foretold that, after the fall of the three-crowned king, disaster would fall upon the world. As the critical eleventh day of the eleventh month came - a mere day after the fall of Ladislaus of Poland - fifteen new entities spring to life to bring nothing but bad news for the world. Odd states ran by people of varied skill in rulership, their decisions are bound to change this world forever. Once more, the world is obliged to ask itself: will McMuller survive past 1480?"
+ 
+ give_everyone_govcap_title:0 "Circular Governing"
+ give_everyone_govcap_desc:0 "Flat government capacity boost. Make good use of it!"
  
  circle_government_capacity:0 "Circular Governing"
  desc_circle_government_capacity:0 "Flat government capacity boost. Make good use of it!"
  A_HISTORICAL_ODDITY:0 "A Historical Oddity"
- A_HISTORICAL_ODDITY_DESC:0 "The sun shines upon the battlefield of Varna as the Polish-Hungarian army surrender to the Turkish invaders. In Europe, Holy Roman authority is questioned by the burgeoning Erusean duchy, while the western nations of England, France and Oldestones heat up for the last stages of the Hundred Years War. As an age ends, the last crusaders and taifas of Europe plan their diplomacy for survival. Peasant uprisings throughout Asia against all oppression succeed in their biddings as the shackles of religion, fanaticism and bureaucracy are weakened on Dhaka, Qarmatia and Canton. Turkish hordes regroup to strike at the heart of the 'Rus once more, as the Manchu hordes settle as a kingdom around an immortal ruler. Last but not least, Madagascar is unified. This collection of oddities now share a timeline where much chaos is sure to happen..."
+ A_HISTORICAL_ODDITY_DESC:0 "The sun shines upon the battlefield of Varna as the Polish-Hungarian army surrender to the Turkish invaders. In Europe, Holy Roman authority is questioned by the burgeoning Erusean duchy, while the western nations of England, France and Oldestones heat up for the last stages of the Hundred Years War. As an age ends, the last crusaders and taifas of Europe plan their diplomacy for survival. Peasant uprisings throughout Asia against all oppression succeed in their biddings as the shackles of religion, fanaticism and bureaucracy are weakened on Dhaka, Qarmatia and Canton. Turkish hordes regroup to strike at the heart of the 'Rus once more, as the Manchu hordes settle as a kingdom around an immortal ruler. Last but not least, Madagascar is unified. This collection of oddities now share a timeline where much chaos is sure to happen..." ai_life_insurance_title:0 "AI Insurance Policy"
+ ai_life_insurance_desc:0 "Boost the Session 1 players who are AI controlled to prevent an early collapse."
+ 
+ ai_insurance_policy:0 "AI Insurance Policy"
+ desc_ai_insurance_policy:0 "Boost the Session 1 players who are AI controlled to prevent an early collapse."
+ 
