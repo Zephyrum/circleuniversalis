@@ -110,3 +110,93 @@ song = {
 		}
 	}
 }
+
+song = {
+	name = "Irish Bullshit"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = GAE }
+		}	
+		modifier = {
+			factor = 4
+			war_with = GAE
+		}
+	}
+}
+
+song = {
+	name = "Aeterna Victrix"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = SOI }
+		}	
+		modifier = {
+			factor = 4
+			war_with = SOI
+		}
+	}
+}
+
+song = {
+	name = "Tropa de Elite"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = RIO }
+		}	
+		modifier = {
+			factor = 4
+			war_with = RIO
+		}
+	}
+}
+
+song = {
+	name = "My Dad was a War Criminal"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = QAN }
+		}	
+		modifier = {
+			factor = 4
+			war_with = QAN
+		}
+	}
+}
+
+song = {
+	name = "Freek'n'you"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = MCN }
+		}	
+		modifier = {
+			factor = 4
+			war_with = MCN
+		}
+	}
+}
+
+song = {
+	name = "Venari Strigas"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = { war_with = ZPJ }
+		}	
+		modifier = {
+			factor = 4
+			war_with = ZPJ
+		}
+	}
+}

@@ -4,9 +4,12 @@ music = {
 }
 
 music = {
+	name = "Irish Bullshit"
+music = {
 	name = "Rumor Theater"
 	file = "rumortheater.ogg"
 }
+
 
 music = {
 	name = "He's a Pirate"
