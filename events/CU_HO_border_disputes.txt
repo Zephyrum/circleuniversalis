@@ -115,7 +115,7 @@ country_event = {
 		QAN = {
 			every_owned_province = {
 				limit = { is_core = O3O }
-				change_religion = confucian
+				change_religion = confucianism
 				cede_province = O3O
 			}
 		}
