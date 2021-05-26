@@ -1,0 +1,28 @@
+﻿l_english:
+
+ # Info
+ TRN:0 "Thrawnco"
+ TRN_ADJ:0 "Thrawncoist"
+ 
+ # Ideas
+ TRN_ideas:0 "Thrawncoist Ideas"
+ TRN_ideas_start:0 "Thrawncoist Traditions"
+ TRN_ideas_bonus:0 "Thrawncoist Ambition"
+ autarky:0 "Autarky"
+ autarky_desc:0 ""
+ state_catholicism:0 "State Catholicism"
+ state_catholicism_desc:0 ""
+ ecnomic_miracle:0 "Economic Miracle"
+ ecnomic_miracle_desc:0 ""
+ speak_spanish:0 "Speak Spanish"
+ speak_spanish_desc:0 ""
+ thrawn_co_shipyards:0 "Thrawn Co. Shipyards"
+ thrawn_co_shipyards_desc:0 ""
+ anti_liberal_crusade:0 "Anti Liberal Crusade"
+ anti_liberal_crusade:0 ""
+ 
+ # Events
+ 
+ 
+ # Insults
+ 
