@@ -13,7 +13,7 @@ base_manpower = 1
 is_city = yes
 add_core = FEZ
 add_core = MOR
-add_core = v
+add_core = TRN
 
 
 discovered_by = western

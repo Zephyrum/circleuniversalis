@@ -1,8 +1,9 @@
 ﻿l_english:
 
  # Info
- TRN:0 "Thrawnco"
+ TRN:0 "Thrawnconia"
  TRN_ADJ:0 "Thrawncoist"
+ TRN_SPN:0 "Thrawncoist Spain"
  
  # Ideas
  TRN_ideas:0 "Thrawncoist Ideas"
@@ -19,7 +20,7 @@
  thrawn_co_shipyards:0 "Thrawn Co. Shipyards"
  thrawn_co_shipyards_desc:0 ""
  anti_liberal_crusade:0 "Anti Liberal Crusade"
- anti_liberal_crusade:0 ""
+ anti_liberal_crusade_desc:0 ""
  
  # Events
  
