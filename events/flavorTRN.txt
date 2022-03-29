@@ -1,0 +1,174 @@
+# António Salakar
+country_event = {
+	id = flavor_trn.100
+	title = "flavor_trn.EVTNAME100"
+	desc = "flavor_trn.EVTDESC100"
+	picture = ADVISOR_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = TRN
+		owns_core_province = 1851
+		religion = catholic
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	option = {
+		name = "flavor_trn.EVTOPTA100"
+		add_adm_power = 100
+		define_advisor = {
+			type = treasurer
+			name = "António de Maldova Salakar"
+			location = 1851
+			discount = yes
+			skill = 3
+		}
+		set_country_flag = salakar_happened
+	}
+}
+
+# Julio Cesa
+country_event = {
+	id = flavor_trn.200
+	title = "flavor_trn.EVTNAME200"
+	desc = "flavor_trn.EVTDESC200"
+	picture = ADVISOR_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = TRN
+		owns_core_province = 1746
+		religion = catholic
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	option = {
+		name = "flavor_trn.EVTOPTA200"
+		add_mil_power = 100
+		define_advisor = {
+			type = commandant
+			name = "Julio Cesa"
+			location = 1746
+			discount = yes
+			skill = 3
+		}
+		set_country_flag = cesa_happened
+	}
+}
+
+# Una!
+country_event = {
+	id = flavor_trn.300
+	title = "flavor_trn.EVTNAME300"
+	desc = "flavor_trn.EVTDESC300"
+	picture = COURT_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = TRN
+		iberia_region = { type = all owned_by = ROOT }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "flavor_trn.EVTOPTA300"
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige = 10
+	}
+}
+
+# Grande!
+country_event = {
+	id = flavor_trn.400
+	title = "flavor_trn.EVTNAME400"
+	desc = "flavor_trn.EVTDESC400"
+	picture = COURT_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = TRN
+		num_of_owned_provinces_with = {
+			value = 15
+			region = carribeans_region
+			country_or_vassal_holds = ROOT
+		}
+		num_of_owned_provinces_with = {
+			value = 15
+			region = moluccas_region
+			country_or_vassal_holds = ROOT
+		}
+		num_of_owned_provinces_with = {
+			value = 15
+			continent = africa
+			country_or_vassal_holds = ROOT
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "flavor_trn.EVTOPTA400"
+		add_prestige = 25
+	}
+}
+
+# Libre!
+country_event = {
+	id = flavor_trn.500
+	title = "flavor_trn.EVTNAME500"
+	desc = "flavor_trn.EVTDESC500"
+	picture = COURT_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = TRN
+		is_subject = no
+		is_great_power = yes
+		government = monarchy
+		religion = catholic
+		OR = {
+			num_of_allies = 0
+			every_ally = {
+				religion = catholic
+				NOT = { government = republic }
+			}
+		}
+		NOT = { num_of_loans = 1 }
+		all_owned_province = {
+			limit = { region = iberia_region }
+			religion = catholic
+		}
+		ruler_is_foreigner = no
+		has_foreign_heir = no
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "flavor_trn.EVTOPTA500"
+		add_country_modifier = {
+			name = free_spain
+			duration = 7300
+		}
+	}
+}

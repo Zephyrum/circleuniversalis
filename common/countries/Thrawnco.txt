@@ -3,6 +3,9 @@
 graphical_culture = westerngfx
 
 color = { 217  4  32 }
+# { 200 100 31 } Nationalist Spain, too close to Morocco
+# { 255 128 0 } Carlist Spain, maybe use for default, and use current for Falangists
+# { 230 250 30 } Use for Salakar/Carlist
 
 historical_council = harsh
 

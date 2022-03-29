@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = autocracy_reform
 technology_group = western
 religion = catholic
 primary_culture = castillian
@@ -8,12 +8,14 @@ add_army_professionalism = 0.1
 
 1444.10.1 = {
 	monarch = {
-		name = "Fransisco I"
+		name = "Francisco I"
 		dynasty = "Thrawnco"
 		adm = 4
 		dip = 4
 		mil = 5
 		birth_date = 1410.12.4
-		leader = { name = "AlmirantÃ­ssimo Thrawnco" type = explorer shock = 3 fire = 3 manuever = 6 siege = 2 }
+		leader = { name = "Almirantíssimo Thrawnco" type = explorer shock = 3 fire = 3 manuever = 6 siege = 2 }
 	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = lawgiver_personality
 }

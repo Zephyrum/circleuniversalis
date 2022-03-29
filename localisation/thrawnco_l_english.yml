@@ -1,29 +1,46 @@
 ﻿l_english:
 
  # Info
- TRN:0 "Thrawnconia"
+ TRN:0 "Thrawnco"
  TRN_ADJ:0 "Thrawncoist"
- TRN_SPN:0 "Thrawncoist Spain"
+ TRN_SPA:0 "Thrawncoist Spain"
  
  # Ideas
  TRN_ideas:0 "Thrawncoist Ideas"
  TRN_ideas_start:0 "Thrawncoist Traditions"
  TRN_ideas_bonus:0 "Thrawncoist Ambition"
  autarky:0 "Autarky"
- autarky_desc:0 ""
- state_catholicism:0 "State Catholicism"
- state_catholicism_desc:0 ""
+ autarky_desc:0 "We are surrounded by enemies and may soon face invasion from all sides. Therefore, we must ensure that we are entirely self sufficient so that no foe can gain leverage over us."
+ state_catholicism:0 "National Catholicism"
+ state_catholicism_desc:0 "For too long have the priests of Spain been persecuted by the godless liberals and the heathen Moors alike. This ends now, as a part of our national restoration, Catholic values must be enshrined at all levels of the country. To achieve this end, all schools will be ran by the clergy, and the children of our enemies shall be taken to be raised by pious Spanish families."
  ecnomic_miracle:0 "Economic Miracle"
- ecnomic_miracle_desc:0 ""
+ ecnomic_miracle_desc:0 "When we first began to implement autarky, the rest of the world laughed and claimed that \"autarky is retarded by design.\" But they knew nothing, so we tried it anyways, and our economy has never been better! Please ignore Zeph's technocrats pumping money into our economy."
  speak_spanish:0 "Speak Spanish"
- speak_spanish_desc:0 ""
+ speak_spanish_desc:0 "There are a great many tongues in Spain that the Liberals have proclaimed to be separate languages in their attempts to weaken and divide Spain. We must crush these dialects and promote the Spanish language to ensure we remain united and strong. If you're Spanish, speak Spanish!"
  thrawn_co_shipyards:0 "Thrawn Co. Shipyards"
- thrawn_co_shipyards_desc:0 ""
+ thrawn_co_shipyards_desc:0 "At Spain's height her navy was feared the world over, with Galleons patrolling the all the seas of the Earth. However, as Spain declined, so to did her navy, culminating in the Disaster of '98. If our new Spain is to avoid the mistakes of the old, we must create a new series of shipyards to ensure our navy is of the highest quality. The idea that this company exists merely to pad Thrawnco's pockets is treasonous slander."
  anti_liberal_crusade:0 "Anti Liberal Crusade"
- anti_liberal_crusade_desc:0 ""
+ anti_liberal_crusade_desc:0 "The Bolsheviks and Liberals continue their unending quest to bring about anarchy and destroy Spain. We must strengthen our hold on society so that these traitors can never rise up again."
  
  # Events
- 
- 
+ spanish_nation_thrawnco_title:0 "Spain Reclaimed"
+ spanish_nation_thrawnco_desc:0 "Madrid is once again under our control, allowing us to proclaim ourselves to be the legitimate rulers of Spain. We must unite the rest of the peninsula and end the division brought by the Bolshevik Horde. Spain shall be united, great and free!"
+ flavor_trn.EVTNAME100:0 "António Salakar"
+ flavor_trn.EVTDESC100:0 "Born to a family of small landholders, António de Maldova Salakar studied for years in the seminary before going to Coimbra University to study law and economics. After seeing the violence and chaos of the Revolution Salakar toyed with entering politics, before being appointed as Minister of Finance where he rapidly turned the nation's prospects around. Shortly thereafter, Salakar was appointed as Prime Minister, after which he took full control of the government, maintaining peace and order for 48 years."
+ flavor_trn.EVTOPTA100:0 "An Excellent Minister!"
+ flavor_trn.EVTNAME200:0 "Julio Cesa"
+ flavor_trn.EVTDESC200:0 "Born in the city of Placetas, Cuba, Caesa joined the Military Academy at the age of 20 after which he served valiantly against the Moors. When the revolution came to Spain, Caesa plotted and waited, organizing nationalist forces to oppose the decadent reds."
+ flavor_trn.EVTOPTA200:0 "An Excellent Minister!"
+ flavor_trn.EVTNAME300:0 "Una!"
+ flavor_trn.EVTDESC300:0 ""
+ flavor_trn.EVTOPTA300:0 ""
+ flavor_trn.EVTNAME400:0 "Grande!"
+ flavor_trn.EVTDESC400:0 ""
+ flavor_trn.EVTOPTA400:0 ""
+ flavor_trn.EVTNAME500:0 "Libre!"
+ flavor_trn.EVTDESC500:0 ""
+ flavor_trn.EVTOPTA500:0 ""
+ free_spain:0 "Una, Grande y Libre!"
+ desc_free_spain:0 "Thanks to our rule, the Bolsheviks have been crushed and glory has returned to Spain. Arriba España!"
  # Insults
  

@@ -18,3 +18,10 @@ ai_insurance_policy = {
 	interest = -2
 	inflation_reduction = 0.20
 }
+
+free_spain = {
+	spy_defense = 0.2
+	defensiveness = 0.2
+	prestige = 0.5
+	legitimacy = 0.5
+}
